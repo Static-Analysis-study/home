@@ -1,0 +1,2 @@
+description=13, invalid static method call
+expected_problems=1

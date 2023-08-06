@@ -1,0 +1,2 @@
+description=assertNull OK
+expected_problems=0

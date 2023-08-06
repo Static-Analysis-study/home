@@ -1,0 +1,2 @@
+description=protected method clone
+expected_problems=1

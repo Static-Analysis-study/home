@@ -1,0 +1,2 @@
+description=#907 Add IgnoredAnnotations property to UnusedPrivateMethod
+expected_problems=0

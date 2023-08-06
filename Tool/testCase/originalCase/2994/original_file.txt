@@ -1,0 +1,2 @@
+description=variables in inner classes should not trigger problems in parent declaration
+expected_problems=0

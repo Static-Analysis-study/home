@@ -1,0 +1,2 @@
+description=constructor level, variables names should start with lowercase character
+expected_problems=1

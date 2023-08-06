@@ -1,0 +1,2 @@
+description=compile-time concats are ok, v2
+expected_problems=0

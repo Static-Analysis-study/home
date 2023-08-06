@@ -1,0 +1,2 @@
+description=#2934 false negatives with fields
+expected_problems=8

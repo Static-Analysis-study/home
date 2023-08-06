@@ -1,0 +1,2 @@
+description=[java] InvalidLogMessageFormat false-negative for a lambda argument #2255
+expected_problems=3

@@ -1,0 +1,2 @@
+description=JUnit5 @Nested tests with tests
+expected_problems=0

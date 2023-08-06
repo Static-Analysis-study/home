@@ -1,0 +1,2 @@
+description=[java] LiteralsFirstInComparisons with two constants #3315
+expected_problems=0

@@ -1,0 +1,2 @@
+description=false positive with ternary
+expected_problems=0

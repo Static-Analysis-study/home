@@ -1,0 +1,2 @@
+description=#1374 JUnitAssertionsShouldIncludeMessage does not work
+expected_problems=4

@@ -1,0 +1,2 @@
+description=Private abstract classes without abstract methods and subclasses #3668
+expected_problems=1

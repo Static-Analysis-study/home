@@ -1,0 +1,2 @@
+description=#2979 UseEqualsToCompareStrings: FP with "var" variables (control, types are explicit)
+expected_problems=0

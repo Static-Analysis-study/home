@@ -1,0 +1,2 @@
+description=43, Using variable char array
+expected_problems=0

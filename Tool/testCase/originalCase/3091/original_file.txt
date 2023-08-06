@@ -1,0 +1,2 @@
+description=Different statement
+expected_problems=0

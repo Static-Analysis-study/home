@@ -1,0 +1,2 @@
+description=From controversial/UnnecessaryParentheses: Parentheses around cast
+expected_problems=1

@@ -1,0 +1,2 @@
+description=[java] NullAssignment false positive - return with ternary #629
+expected_problems=0

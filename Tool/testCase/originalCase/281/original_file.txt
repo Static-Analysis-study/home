@@ -1,0 +1,2 @@
+description=#1094 [java] UseUtilityClass should be LombokAware
+expected_problems=0

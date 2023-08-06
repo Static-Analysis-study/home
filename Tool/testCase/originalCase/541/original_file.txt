@@ -1,0 +1,2 @@
+description=False negative with two resources
+expected_problems=1

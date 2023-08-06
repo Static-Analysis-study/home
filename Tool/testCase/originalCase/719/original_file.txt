@@ -1,0 +1,2 @@
+description=Clear violation
+expected_problems=1

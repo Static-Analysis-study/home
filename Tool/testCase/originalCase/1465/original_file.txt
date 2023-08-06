@@ -1,0 +1,2 @@
+description=private field referenced via 'this' not shadowed by param of same name
+expected_problems=0

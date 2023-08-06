@@ -1,0 +1,2 @@
+description=string array
+expected_problems=1

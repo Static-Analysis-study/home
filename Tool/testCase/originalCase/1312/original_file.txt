@@ -1,0 +1,2 @@
+description=#1405 UnusedPrivateMethod false positive?
+expected_problems=0

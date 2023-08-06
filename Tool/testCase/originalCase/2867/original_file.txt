@@ -1,0 +1,2 @@
+description=pos, empty synchronized stmt
+expected_problems=1

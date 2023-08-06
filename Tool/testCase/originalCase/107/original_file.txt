@@ -1,0 +1,2 @@
+description=skip junit setUp method where the superclass is TestCase
+expected_problems=0

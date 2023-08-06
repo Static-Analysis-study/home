@@ -1,0 +1,2 @@
+description=#527 [java] Lombok getter annotation on enum is not recognized correctly
+expected_problems=0

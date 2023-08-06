@@ -1,0 +1,2 @@
+description=ditto enum
+expected_problems=0

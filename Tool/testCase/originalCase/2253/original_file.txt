@@ -1,0 +1,2 @@
+description=clear rule violation
+expected_problems=1

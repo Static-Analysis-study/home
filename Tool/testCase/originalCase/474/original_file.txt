@@ -1,0 +1,2 @@
+description=in field assignment
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1723 FP with var inside lambda (assignment)
+expected_problems=0

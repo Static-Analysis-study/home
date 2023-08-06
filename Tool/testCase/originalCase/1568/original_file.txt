@@ -1,0 +1,2 @@
+description=#3492 False positive for UselessStringValueOf, when there is no initial String to append to
+expected_problems=0

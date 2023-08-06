@@ -1,0 +1,2 @@
+description=#215 - False positive for annotation fields
+expected_problems=0

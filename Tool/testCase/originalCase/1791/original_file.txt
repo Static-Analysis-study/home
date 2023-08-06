@@ -1,0 +1,2 @@
+description=[java] UseArraysAsList must ignore primitive arrays #3379
+expected_problems=0

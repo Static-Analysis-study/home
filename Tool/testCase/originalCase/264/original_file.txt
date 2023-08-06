@@ -1,0 +1,2 @@
+description=has some private and no public static fields, so ok
+expected_problems=0

@@ -1,0 +1,2 @@
+description=36, Append of boolean literal.
+expected_problems=0

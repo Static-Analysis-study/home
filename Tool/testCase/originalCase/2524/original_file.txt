@@ -1,0 +1,2 @@
+description=[java] CloseResource with close target nested in a if Objects.nonNull and try within finally (1) #3148
+expected_problems=0

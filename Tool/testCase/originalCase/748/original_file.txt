@@ -1,0 +1,2 @@
+description=throws a stacktrace
+expected_problems=1

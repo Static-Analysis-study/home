@@ -1,0 +1,2 @@
+description=2645268, ClassCastException using Annotation on Local Field
+expected_problems=1

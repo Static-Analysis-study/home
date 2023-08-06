@@ -1,0 +1,2 @@
+description=another scope test
+expected_problems=1

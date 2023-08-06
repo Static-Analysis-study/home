@@ -1,0 +1,2 @@
+description=pos in call chain #2437
+expected_problems=1

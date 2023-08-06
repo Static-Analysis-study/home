@@ -1,0 +1,2 @@
+description=Example code
+expected_problems=1

@@ -1,0 +1,2 @@
+description=JUnit5
+expected_problems=0

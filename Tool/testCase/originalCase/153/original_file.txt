@@ -1,0 +1,2 @@
+description=no problems if NullPointerException is only instantiated but not thrown
+expected_problems=0

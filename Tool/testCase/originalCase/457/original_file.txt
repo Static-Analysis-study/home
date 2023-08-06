@@ -1,0 +1,2 @@
+description=#3981 #3998 [java] ImmutableField reports fields annotated with @Value (Spring) and @Captor (Mockito)
+expected_problems=0

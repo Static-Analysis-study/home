@@ -1,0 +1,2 @@
+description=ok, concrete class named Foo
+expected_problems=0

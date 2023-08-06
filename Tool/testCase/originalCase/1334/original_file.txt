@@ -1,0 +1,2 @@
+description=#274 - Method inside static inner class incorrectly reported as generating accessor methods
+expected_problems=0

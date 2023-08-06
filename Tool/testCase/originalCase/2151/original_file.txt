@@ -1,0 +1,2 @@
+description=Bug 681, extending a class which implements Clonable.
+expected_problems=0

@@ -1,0 +1,2 @@
+description=JUnit 4 - failure case
+expected_problems=1

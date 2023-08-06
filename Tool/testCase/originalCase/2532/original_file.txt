@@ -1,0 +1,2 @@
+description=bad, same as #1 but outside an initializer context
+expected_problems=1

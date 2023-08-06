@@ -1,0 +1,2 @@
+description=#1255 [java] UnnecessaryFullyQualifiedName false positive: static method on shadowed implicitly imported class
+expected_problems=0

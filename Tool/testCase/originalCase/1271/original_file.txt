@@ -1,0 +1,2 @@
+description=static private called from initializer
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1056 [java] Property ignoredAnnotations does not work for SingularField and ImmutableField
+expected_problems=0

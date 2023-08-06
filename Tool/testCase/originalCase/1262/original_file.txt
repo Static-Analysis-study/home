@@ -1,0 +1,2 @@
+description=calling private method after instantiating new copy of myself
+expected_problems=0

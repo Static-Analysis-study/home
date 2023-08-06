@@ -1,0 +1,2 @@
+description=[java] UnusedPrivateMethod false positive when passing in lombok.val as argument #3118
+expected_problems=0

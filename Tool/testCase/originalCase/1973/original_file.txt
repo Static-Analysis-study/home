@@ -1,0 +1,2 @@
+description=#2141 [java] StringInstatiation: False negative with String-array access
+expected_problems=2

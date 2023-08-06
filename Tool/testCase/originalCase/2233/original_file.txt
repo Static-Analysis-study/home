@@ -1,0 +1,2 @@
+description=not ok, non-public static field
+expected_problems=1

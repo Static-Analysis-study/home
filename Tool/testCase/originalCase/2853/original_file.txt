@@ -1,0 +1,2 @@
+description=array initialization with var
+expected_problems=0

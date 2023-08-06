@@ -1,0 +1,2 @@
+description=One character lambda Parameters should be allowed by default
+expected_problems=0

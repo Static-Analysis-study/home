@@ -1,0 +1,2 @@
+description=35, Append of 'null' literal.
+expected_problems=0

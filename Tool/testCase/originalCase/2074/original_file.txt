@@ -1,0 +1,2 @@
+description=Different literals in variables should not match
+expected_problems=0

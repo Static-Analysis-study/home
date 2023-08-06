@@ -1,0 +1,2 @@
+description=StringBuffer.toString.length(), bad
+expected_problems=2

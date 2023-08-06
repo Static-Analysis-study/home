@@ -1,0 +1,2 @@
+description=assertTrue with x == y
+expected_problems=0

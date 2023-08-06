@@ -1,0 +1,2 @@
+description=Parameter to ignore non-final variables in for each loops (see #1513).
+expected_problems=0

@@ -1,0 +1,2 @@
+description=return inside a catch - ok
+expected_problems=0

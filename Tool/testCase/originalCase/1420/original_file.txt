@@ -1,0 +1,2 @@
+description=simple catch variable reassignment
+expected_problems=1

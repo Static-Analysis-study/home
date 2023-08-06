@@ -1,0 +1,2 @@
+description=second method uses 'this'
+expected_problems=0

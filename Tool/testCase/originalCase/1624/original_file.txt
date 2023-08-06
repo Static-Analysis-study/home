@@ -1,0 +1,2 @@
+description=27, Concurrent Appends from within switch statement
+expected_problems=4

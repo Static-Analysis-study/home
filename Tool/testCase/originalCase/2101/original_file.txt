@@ -1,0 +1,2 @@
+description=basic test case
+expected_problems=1

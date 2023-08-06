@@ -1,0 +1,2 @@
+description=Without casts there should be no violation
+expected_problems=0

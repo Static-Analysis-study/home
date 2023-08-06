@@ -1,0 +1,2 @@
+description=False positive with method that may throw in forked state (the if state) #2759
+expected_problems=0

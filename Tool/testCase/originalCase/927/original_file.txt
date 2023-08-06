@@ -1,0 +1,2 @@
+description=#943 PreserveStackTrace false positive if a StringBuffer exists
+expected_problems=0

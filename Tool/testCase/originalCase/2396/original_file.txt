@@ -1,0 +1,2 @@
+description=all cases have return or throw
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Bean with missing getters and setters
+expected_problems=3

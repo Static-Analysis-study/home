@@ -1,0 +1,2 @@
+description=DU anomaly (reportUnusedVariables)
+expected_problems=1

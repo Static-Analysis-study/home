@@ -1,0 +1,2 @@
+description=#1281 UnusedPrivateMethod incorrectly flagged for methods nested private classes
+expected_problems=0

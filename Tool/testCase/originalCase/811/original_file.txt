@@ -1,0 +1,2 @@
+description=Prefix increment should work
+expected_problems=1

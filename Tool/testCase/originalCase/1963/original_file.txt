@@ -1,0 +1,2 @@
+description=[java] UseArrayListInsteadOfVector ignores Vector when other classes are imported #4148 - sample 2
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1353 False positive "Only One Return" with lambda
+expected_problems=0

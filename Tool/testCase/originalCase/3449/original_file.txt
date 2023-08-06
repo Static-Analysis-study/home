@@ -1,0 +1,2 @@
+description=OK in interface nested in class
+expected_problems=0

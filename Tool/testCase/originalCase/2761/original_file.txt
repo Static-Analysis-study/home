@@ -1,0 +1,2 @@
+description=non-private Logger initialized as String constant from class name
+expected_problems=1

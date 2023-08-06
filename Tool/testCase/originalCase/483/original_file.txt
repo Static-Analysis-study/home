@@ -1,0 +1,2 @@
+description=Example from the documentation
+expected_problems=1

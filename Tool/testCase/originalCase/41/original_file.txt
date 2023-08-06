@@ -1,0 +1,2 @@
+description=Having thread in a type name is doubtfull but allowed
+expected_problems=0

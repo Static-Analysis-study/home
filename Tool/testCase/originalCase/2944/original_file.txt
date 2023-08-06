@@ -1,0 +1,2 @@
+description=Decimal number test - bad cases
+expected_problems=4

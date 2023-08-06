@@ -1,0 +1,2 @@
+description=#4225 [java] MissingStaticMethodInNonInstantiatableClass should consider Lombok's @RequiredArgsConstructor
+expected_problems=0

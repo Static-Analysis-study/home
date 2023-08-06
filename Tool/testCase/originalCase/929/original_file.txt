@@ -1,0 +1,2 @@
+description=#1087 PreserveStackTrace (still) ignores initCause() - negative test case
+expected_problems=1

@@ -1,0 +1,2 @@
+description=JUnit 4 test detection
+expected_problems=2

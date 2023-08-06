@@ -1,0 +1,2 @@
+description=Override present on method from interface
+expected_problems=0

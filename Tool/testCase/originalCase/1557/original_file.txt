@@ -1,0 +1,2 @@
+description=[java] StringToString rule false-positive with field access #2080
+expected_problems=0

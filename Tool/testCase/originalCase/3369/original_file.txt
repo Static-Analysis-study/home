@@ -1,0 +1,2 @@
+description=If chain, partial braces
+expected_problems=2

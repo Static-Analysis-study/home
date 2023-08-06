@@ -1,0 +1,2 @@
+description=not an initializer - empty statement block
+expected_problems=1

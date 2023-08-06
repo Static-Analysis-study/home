@@ -1,0 +1,2 @@
+description=Ensuring we don't have a few specific false positives, see bug 1697397
+expected_problems=0

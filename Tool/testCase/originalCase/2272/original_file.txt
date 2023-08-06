@@ -1,0 +1,2 @@
+description=null assignment in ternary
+expected_problems=1

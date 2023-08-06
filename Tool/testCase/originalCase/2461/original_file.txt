@@ -1,0 +1,2 @@
+description=Statement not closed, should have failed
+expected_problems=1

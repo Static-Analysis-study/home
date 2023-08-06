@@ -1,0 +1,2 @@
+description=Static field reassignment
+expected_problems=1

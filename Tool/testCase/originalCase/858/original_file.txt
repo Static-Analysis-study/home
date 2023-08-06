@@ -1,0 +1,2 @@
+description=violation: assign to array using changed variable as index
+expected_problems=6

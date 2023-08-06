@@ -1,0 +1,2 @@
+description=Comparing against new object should always return false
+expected_problems=2

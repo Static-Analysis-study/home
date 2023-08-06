@@ -1,0 +1,2 @@
+description=Misleading message for method call chain
+expected_problems=3

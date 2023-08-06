@@ -1,0 +1,2 @@
+description=Top-level annotation
+expected_problems=0

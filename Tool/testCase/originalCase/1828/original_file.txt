@@ -1,0 +1,2 @@
+description=String.trim().isEmpty() is called, should have failed
+expected_problems=1

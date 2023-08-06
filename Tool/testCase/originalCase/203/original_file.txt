@@ -1,0 +1,2 @@
+description=#1494 [java] SingularField: lombok.Data false positive - part1
+expected_problems=0

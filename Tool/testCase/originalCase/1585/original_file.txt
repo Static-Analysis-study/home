@@ -1,0 +1,2 @@
+description=violation: FileItem getString() used with fully qualified class reference
+expected_problems=4

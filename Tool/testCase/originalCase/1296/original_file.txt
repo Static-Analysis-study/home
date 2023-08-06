@@ -1,0 +1,2 @@
+description=#1156 False failure with "Avoid unused private methods" (part 2)
+expected_problems=0

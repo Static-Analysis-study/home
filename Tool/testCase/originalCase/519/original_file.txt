@@ -1,0 +1,2 @@
+description=serialVersionUID comment required
+expected_problems=1

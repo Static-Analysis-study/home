@@ -1,0 +1,2 @@
+description=JUnit 5 - failure case - @Test
+expected_problems=1

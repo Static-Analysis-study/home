@@ -1,0 +1,2 @@
+description=#1440 NPE in AvoidCallingFinalize
+expected_problems=1

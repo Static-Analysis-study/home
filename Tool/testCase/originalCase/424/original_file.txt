@@ -1,0 +1,2 @@
+description=Could be immutable, only assigned in constructor
+expected_problems=1

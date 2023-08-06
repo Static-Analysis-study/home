@@ -1,0 +1,2 @@
+description=ok equality comparison with something else
+expected_problems=0

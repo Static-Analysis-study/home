@@ -1,0 +1,2 @@
+description=#3265 False negative with classes in interfaces
+expected_problems=2

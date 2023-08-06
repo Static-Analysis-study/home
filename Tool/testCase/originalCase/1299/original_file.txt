@@ -1,0 +1,2 @@
+description=#1261 False positive "Avoid unused private methods" with Generics
+expected_problems=0

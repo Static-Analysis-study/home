@@ -1,0 +1,2 @@
+description=Class cast exception with Method calls
+expected_problems=0

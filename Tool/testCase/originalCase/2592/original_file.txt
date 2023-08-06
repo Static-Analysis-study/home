@@ -1,0 +1,2 @@
+description=Inner class privileged action is OK
+expected_problems=0

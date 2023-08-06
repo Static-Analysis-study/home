@@ -1,0 +1,2 @@
+description=[java] ReturnEmptyCollectionRatherThanNull - false positive with stream and lambda #3721
+expected_problems=1

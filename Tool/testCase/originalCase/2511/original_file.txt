@@ -1,0 +1,2 @@
+description=#2470 false-positive at lambda returned from method
+expected_problems=0

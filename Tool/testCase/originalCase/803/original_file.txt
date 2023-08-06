@@ -1,0 +1,2 @@
+description=Usage of index var outside get
+expected_problems=0

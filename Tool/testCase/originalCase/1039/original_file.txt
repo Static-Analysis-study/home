@@ -1,0 +1,2 @@
+description=Var usage in lambda (#1304)
+expected_problems=0

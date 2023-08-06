@@ -1,0 +1,2 @@
+description=[java] StringToString doesn't trigger on Bar.class.getSimpleName().toString() #3437
+expected_problems=1

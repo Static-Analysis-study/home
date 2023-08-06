@@ -1,0 +1,2 @@
+description=Switch expr with yield
+expected_problems=4

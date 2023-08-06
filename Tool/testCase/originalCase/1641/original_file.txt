@@ -1,0 +1,2 @@
+description=44, Appending of not String additive expressions
+expected_problems=0

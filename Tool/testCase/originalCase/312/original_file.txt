@@ -1,0 +1,2 @@
+description=#3949 - FinalFieldCouldBeStatic false negative with unnecessary parenthesis
+expected_problems=3

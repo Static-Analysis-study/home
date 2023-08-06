@@ -1,0 +1,2 @@
+description=Guarded call - OK - java util
+expected_problems=0

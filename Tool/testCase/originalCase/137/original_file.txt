@@ -1,0 +1,2 @@
+description=#1337: False positive "Avoid throwing raw exception types" when exception is not thrown
+expected_problems=0

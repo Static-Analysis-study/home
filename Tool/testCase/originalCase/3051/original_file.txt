@@ -1,0 +1,2 @@
+description=void return method, with no return statement.
+expected_problems=1

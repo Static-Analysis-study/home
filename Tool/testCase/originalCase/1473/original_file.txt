@@ -1,0 +1,2 @@
+description=super.foo++ shouldn't throw an NPE
+expected_problems=0

@@ -1,0 +1,2 @@
+description=useless operation on BigInteger
+expected_problems=1

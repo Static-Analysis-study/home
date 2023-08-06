@@ -1,0 +1,2 @@
+description=NPE when byte array is not initialized directly
+expected_problems=0

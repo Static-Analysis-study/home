@@ -1,0 +1,2 @@
+description=only 'super(...)' is OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Use type resolution for method call return type
+expected_problems=1

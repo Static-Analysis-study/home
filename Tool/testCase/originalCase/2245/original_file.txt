@@ -1,0 +1,2 @@
+description=#4224 [java] MissingStaticMethodInNonInstantiatableClass should considers lombok's UtilityClass
+expected_problems=1

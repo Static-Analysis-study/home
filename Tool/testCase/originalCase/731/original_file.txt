@@ -1,0 +1,2 @@
+description=#1063 False+: ArrayIsStoredDirectly
+expected_problems=0

@@ -1,0 +1,2 @@
+description=return value of super after adding a string
+expected_problems=0

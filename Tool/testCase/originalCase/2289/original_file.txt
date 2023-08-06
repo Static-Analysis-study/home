@@ -1,0 +1,2 @@
+description=empty if statement with comment
+expected_problems=1

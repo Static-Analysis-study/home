@@ -1,0 +1,2 @@
+description=ok case with self-instantiation
+expected_problems=0

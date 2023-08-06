@@ -1,0 +1,2 @@
+description=basic test, not OK
+expected_problems=1

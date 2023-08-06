@@ -1,0 +1,2 @@
+description=bad, double value without '_'
+expected_problems=1

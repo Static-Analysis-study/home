@@ -1,0 +1,2 @@
+description=Should trigger multiple times for fields declared on one line
+expected_problems=2

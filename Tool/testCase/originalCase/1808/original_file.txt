@@ -1,0 +1,2 @@
+description=throw new is OK
+expected_problems=0

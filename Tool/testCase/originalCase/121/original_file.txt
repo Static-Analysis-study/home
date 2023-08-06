@@ -1,0 +1,2 @@
+description=Empty abstract method should trigger the rule nonetheless
+expected_problems=1

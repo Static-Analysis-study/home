@@ -1,0 +1,2 @@
+description=Consider also classes in interface
+expected_problems=1

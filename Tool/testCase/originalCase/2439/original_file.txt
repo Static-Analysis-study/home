@@ -1,0 +1,2 @@
+description=private static FileInputStream
+expected_problems=0

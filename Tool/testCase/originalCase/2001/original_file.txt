@@ -1,0 +1,2 @@
+description=array element comparison
+expected_problems=1

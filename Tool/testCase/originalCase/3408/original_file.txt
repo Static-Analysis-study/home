@@ -1,0 +1,2 @@
+description=inner and outer both have unnecessary constructors
+expected_problems=2

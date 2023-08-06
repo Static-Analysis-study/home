@@ -1,0 +1,2 @@
+description=exception list property
+expected_problems=0

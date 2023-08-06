@@ -1,0 +1,2 @@
+description=Complex logging without guard - apache commons logging
+expected_problems=2

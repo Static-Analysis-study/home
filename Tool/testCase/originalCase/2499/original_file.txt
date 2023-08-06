@@ -1,0 +1,2 @@
+description=closed with try-with-resources
+expected_problems=0

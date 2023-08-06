@@ -1,0 +1,2 @@
+description=assert false a == b
+expected_problems=1

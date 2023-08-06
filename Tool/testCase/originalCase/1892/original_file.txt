@@ -1,0 +1,2 @@
+description=Violation: Avoid concat in append method invocations
+expected_problems=5

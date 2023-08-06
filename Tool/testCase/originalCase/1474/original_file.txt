@@ -1,0 +1,2 @@
+description=SuppressWarnings("unused") unused private field
+expected_problems=0

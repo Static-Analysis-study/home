@@ -1,0 +1,2 @@
+description=#1198 ConfusingTernary does not ignore else if blocks even when property is set
+expected_problems=0

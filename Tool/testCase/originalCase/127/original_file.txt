@@ -1,0 +1,2 @@
+description=FN with nested class
+expected_problems=1

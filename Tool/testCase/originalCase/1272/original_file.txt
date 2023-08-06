@@ -1,0 +1,2 @@
+description=static private invoked in static context - i.e., Foo.hi()
+expected_problems=0

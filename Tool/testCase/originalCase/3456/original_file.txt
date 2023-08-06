@@ -1,0 +1,2 @@
+description=False negative: #1185 UnusedModifier throws NPE when parsing enum with a nested static interface
+expected_problems=1

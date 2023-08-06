@@ -1,0 +1,2 @@
+description=#536 Constructor with default access modifier should trigger
+expected_problems=1

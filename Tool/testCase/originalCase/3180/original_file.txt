@@ -1,0 +1,2 @@
+description=field fo$o
+expected_problems=1

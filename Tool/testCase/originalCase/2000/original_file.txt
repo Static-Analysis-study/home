@@ -1,0 +1,2 @@
+description=2 locals declared on one line
+expected_problems=1

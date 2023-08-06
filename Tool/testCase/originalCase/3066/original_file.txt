@@ -1,0 +1,2 @@
+description=interface methods don't have return statements
+expected_problems=0

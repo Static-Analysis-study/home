@@ -1,0 +1,2 @@
+description=This most common violation case, not testing is done before a call to 'last()'.
+expected_problems=1

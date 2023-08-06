@@ -1,0 +1,2 @@
+description=[java] HardcodedCryptoKey false negative with variable assignments #3368
+expected_problems=3

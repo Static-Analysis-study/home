@@ -1,0 +1,2 @@
+description=ignore the exception param
+expected_problems=0

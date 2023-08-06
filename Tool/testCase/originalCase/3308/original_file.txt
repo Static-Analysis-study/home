@@ -1,0 +1,2 @@
+description=Class with only empty decls should not be a utility class
+expected_problems=0

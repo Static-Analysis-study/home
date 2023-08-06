@@ -1,0 +1,2 @@
+description=different logger for inner class
+expected_problems=0

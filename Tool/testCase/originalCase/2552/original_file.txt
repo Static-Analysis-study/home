@@ -1,0 +1,2 @@
+description=#2140 [java] AvoidLiteralsInIfCondition: false negative for expressions
+expected_problems=4

@@ -1,0 +1,2 @@
+description=calling package private method from constructor
+expected_problems=1

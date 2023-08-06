@@ -1,0 +1,2 @@
+description=[java] ConstructorCallsOverridableMethod should consider method calls with var access #4099
+expected_problems=9

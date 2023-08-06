@@ -1,0 +1,2 @@
+description=lambda doesn't close resource false-negative test
+expected_problems=1

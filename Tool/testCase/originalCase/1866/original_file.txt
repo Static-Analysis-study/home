@@ -1,0 +1,2 @@
+description=concatenating a literal to a method return value
+expected_problems=1

@@ -1,0 +1,2 @@
+description=[java] NPE in InefficientStringBuffering with Records #3420
+expected_problems=0

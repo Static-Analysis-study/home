@@ -1,0 +1,2 @@
+description=Final is allowed in interface inner class method
+expected_problems=0

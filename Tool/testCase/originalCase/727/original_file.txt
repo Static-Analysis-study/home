@@ -1,0 +1,2 @@
+description=Constructor clear violation
+expected_problems=1

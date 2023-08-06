@@ -1,0 +1,2 @@
+description=failure case using !=
+expected_problems=1

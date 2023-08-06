@@ -1,0 +1,2 @@
+description=qualified name same as parameter
+expected_problems=0

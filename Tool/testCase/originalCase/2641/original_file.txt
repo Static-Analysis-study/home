@@ -1,0 +1,2 @@
+description=#1035 [java] ReturnFromFinallyBlock: False positive on lambda expression in finally block
+expected_problems=0

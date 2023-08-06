@@ -1,0 +1,2 @@
+description=condition ? true : foo
+expected_problems=1

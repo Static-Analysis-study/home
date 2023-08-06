@@ -1,0 +1,2 @@
+description=violation: unconditionally incremented 'for' loop variable
+expected_problems=1

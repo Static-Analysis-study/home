@@ -1,0 +1,2 @@
+description=[java] UnusedImports with static imports on subclasses #3132
+expected_problems=0

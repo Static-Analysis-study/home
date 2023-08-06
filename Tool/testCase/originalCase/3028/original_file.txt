@@ -1,0 +1,2 @@
+description=protected field in inner class is ok
+expected_problems=0

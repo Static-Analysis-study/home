@@ -1,0 +1,2 @@
+description=bug 1808158 - Constructor args could also be final
+expected_problems=1

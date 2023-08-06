@@ -1,0 +1,2 @@
+description=ClassCastException with annotated foreach var
+expected_problems=4

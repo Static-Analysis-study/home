@@ -1,0 +1,2 @@
+description=Code sample
+expected_problems=1

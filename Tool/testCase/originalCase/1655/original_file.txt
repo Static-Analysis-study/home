@@ -1,0 +1,2 @@
+description=literal appends over lambdas
+expected_problems=0

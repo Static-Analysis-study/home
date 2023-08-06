@@ -1,0 +1,2 @@
+description=#940 False positive on UnsynchronizedStaticDateFormatter
+expected_problems=0

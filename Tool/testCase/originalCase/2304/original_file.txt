@@ -1,0 +1,2 @@
+description=JUnit5: [java] TestClassWithoutTestCases false positive with JUnit5 parameterized test #2636
+expected_problems=0

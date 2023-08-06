@@ -1,0 +1,2 @@
+description=Class with only main method should not be utility class
+expected_problems=0

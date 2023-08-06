@@ -1,0 +1,2 @@
+description=#1832 Check constructor injection with @Autowired or @Inject
+expected_problems=0

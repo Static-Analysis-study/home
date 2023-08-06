@@ -1,0 +1,2 @@
+description=no catch with nested catch in finally
+expected_problems=1

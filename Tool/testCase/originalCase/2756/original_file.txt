@@ -1,0 +1,2 @@
+description=package-private logger
+expected_problems=1

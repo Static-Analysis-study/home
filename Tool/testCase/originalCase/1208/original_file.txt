@@ -1,0 +1,2 @@
+description=Renamed setup
+expected_problems=0

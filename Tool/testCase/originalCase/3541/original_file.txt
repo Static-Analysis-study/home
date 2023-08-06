@@ -1,0 +1,2 @@
+description=Single Value Element in Class Annotation
+expected_problems=1

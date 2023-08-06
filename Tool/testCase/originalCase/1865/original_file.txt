@@ -1,0 +1,2 @@
+description=toArray call without an array should not be flagged
+expected_problems=0

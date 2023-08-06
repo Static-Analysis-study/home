@@ -1,0 +1,2 @@
+description=#2764 false-negative when re-assigning connection - no problem when closed before
+expected_problems=0

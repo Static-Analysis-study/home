@@ -1,0 +1,2 @@
+description=private with same name as public, different method signature
+expected_problems=0

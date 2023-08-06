@@ -1,0 +1,2 @@
+description=empty statement
+expected_problems=1

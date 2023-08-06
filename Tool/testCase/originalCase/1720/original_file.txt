@@ -1,0 +1,2 @@
+description=False positive with method formal parameter
+expected_problems=0

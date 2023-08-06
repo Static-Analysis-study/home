@@ -1,0 +1,2 @@
+description=field, return type both HashSet
+expected_problems=2

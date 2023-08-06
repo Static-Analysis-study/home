@@ -1,0 +1,2 @@
+description=3, Inside synchronized, Not OK
+expected_problems=1

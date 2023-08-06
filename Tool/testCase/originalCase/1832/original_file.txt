@@ -1,0 +1,2 @@
+description=Avoid NPE for pattern matching instanceof
+expected_problems=0

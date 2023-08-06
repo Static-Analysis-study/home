@@ -1,0 +1,2 @@
+description=violation suppression xpath works, by type
+expected_problems=0

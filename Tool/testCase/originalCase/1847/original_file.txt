@@ -1,0 +1,2 @@
+description=#222 False positive when inverting ternary expression arguments
+expected_problems=0

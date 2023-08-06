@@ -1,0 +1,2 @@
+description=[java] InvalidLogMessageFormat detection failing when String.format used #3146
+expected_problems=0

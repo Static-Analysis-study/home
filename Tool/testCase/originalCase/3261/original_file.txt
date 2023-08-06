@@ -1,0 +1,2 @@
+description=12, valid static method call
+expected_problems=0

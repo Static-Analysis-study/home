@@ -1,0 +1,2 @@
+description=assignment to parameter public field
+expected_problems=0

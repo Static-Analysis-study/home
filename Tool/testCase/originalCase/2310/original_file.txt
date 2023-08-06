@@ -1,0 +1,2 @@
+description=TestNG based test class without import
+expected_problems=0

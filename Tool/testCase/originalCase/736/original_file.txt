@@ -1,0 +1,2 @@
+description=nested classes
+expected_problems=4

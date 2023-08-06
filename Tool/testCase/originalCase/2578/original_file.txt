@@ -1,0 +1,2 @@
+description=using the result in a method call, so OK
+expected_problems=0

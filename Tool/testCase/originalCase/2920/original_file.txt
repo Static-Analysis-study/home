@@ -1,0 +1,2 @@
+description=ok, numeric literal used as a method parameter with '_'
+expected_problems=0

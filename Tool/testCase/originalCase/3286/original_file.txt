@@ -1,0 +1,2 @@
+description=Nullpointer in isJavaLangImplicit for java.lang.String[] arrays
+expected_problems=1

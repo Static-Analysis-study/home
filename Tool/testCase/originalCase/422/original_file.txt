@@ -1,0 +1,2 @@
+description=Bug 2317099 : False + in SimplifyConditional
+expected_problems=0

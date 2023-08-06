@@ -1,0 +1,2 @@
+description=Test default report level - ignore 199
+expected_problems=0

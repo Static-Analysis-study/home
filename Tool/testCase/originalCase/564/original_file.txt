@@ -1,0 +1,2 @@
+description=Don't report multiple variables in a for statement, see #658
+expected_problems=0

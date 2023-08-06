@@ -1,0 +1,2 @@
+description=don't use Boolean.valueOf() or new Boolean() in static block
+expected_problems=2

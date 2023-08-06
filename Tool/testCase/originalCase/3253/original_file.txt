@@ -1,0 +1,2 @@
+description=4, valid extends
+expected_problems=0

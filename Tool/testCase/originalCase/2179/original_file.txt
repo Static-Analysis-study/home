@@ -1,0 +1,2 @@
+description=final class with public method clone with Object as return type
+expected_problems=1

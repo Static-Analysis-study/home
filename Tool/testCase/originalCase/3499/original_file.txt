@@ -1,0 +1,2 @@
+description=#1344 AbstractNaming should check reverse
+expected_problems=1

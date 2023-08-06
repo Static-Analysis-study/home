@@ -1,0 +1,2 @@
+description=#1143 ShortClassName fires with a 5-letter class name
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Static initializer
+expected_problems=0

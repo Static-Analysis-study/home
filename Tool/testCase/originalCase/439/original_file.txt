@@ -1,0 +1,2 @@
+description=Assignment in anonymous inner class method is OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#647 JUnitTestsShouldIncludeAssertRule should support `this.exception` as well as just `exception`
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Importing java.lang.Thread.UncaughtExceptionHandler, unused
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Unnecessary static on annotation nested enum
+expected_problems=2

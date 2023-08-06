@@ -1,0 +1,2 @@
+description=Unguarded call - KO - java util
+expected_problems=1

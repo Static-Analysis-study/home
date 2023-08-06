@@ -1,0 +1,2 @@
+description=non-void return method, with just a, most likely, dummy return statement.
+expected_problems=1

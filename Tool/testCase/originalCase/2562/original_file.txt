@@ -1,0 +1,2 @@
+description=duplicate literals in annotations, skipped
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Renamed tearDown
+expected_problems=0

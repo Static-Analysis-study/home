@@ -1,0 +1,2 @@
+description=Add log4j2 Logger type
+expected_problems=0

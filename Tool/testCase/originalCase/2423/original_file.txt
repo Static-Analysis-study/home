@@ -1,0 +1,2 @@
+description=failure case with toUpperCase().equalsIgnoreCase()
+expected_problems=1

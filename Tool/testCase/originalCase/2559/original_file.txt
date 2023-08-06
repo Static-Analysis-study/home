@@ -1,0 +1,2 @@
+description=literal int argument, ok for now
+expected_problems=0

@@ -1,0 +1,2 @@
+description=optimal var declaration position
+expected_problems=0

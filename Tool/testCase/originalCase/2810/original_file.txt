@@ -1,0 +1,2 @@
+description=#1407 UselessParentheses "&" and "+" operator precedence
+expected_problems=12

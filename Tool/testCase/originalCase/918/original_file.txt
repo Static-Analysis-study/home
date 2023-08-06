@@ -1,0 +1,2 @@
+description=14, Nested with same name catch and throw, fail on inner
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Not OK! Has overridden getInstance() methods
+expected_problems=1

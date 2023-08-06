@@ -1,0 +1,2 @@
+description=overloaded finalize is ok
+expected_problems=0

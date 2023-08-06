@@ -1,0 +1,2 @@
+description=make sure scopes are working
+expected_problems=3

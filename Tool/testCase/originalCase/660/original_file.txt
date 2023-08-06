@@ -1,0 +1,2 @@
+description=assertSame bad
+expected_problems=1

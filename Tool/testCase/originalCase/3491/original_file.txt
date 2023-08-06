@@ -1,0 +1,2 @@
+description=Static is not necessary for record declaration in interface
+expected_problems=1

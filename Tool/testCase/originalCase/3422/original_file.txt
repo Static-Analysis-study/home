@@ -1,0 +1,2 @@
+description=Should not match on methods annotated with @Override
+expected_problems=0

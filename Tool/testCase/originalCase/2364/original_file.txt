@@ -1,0 +1,2 @@
+description=basic /sdcard test
+expected_problems=1

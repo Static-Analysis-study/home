@@ -1,0 +1,2 @@
+description=#370 rule not considering lambdas
+expected_problems=0

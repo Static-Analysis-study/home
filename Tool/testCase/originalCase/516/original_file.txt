@@ -1,0 +1,2 @@
+description=#1289 CommentRequired not ignored if javadoc {@inheritDoc} anon inner classes
+expected_problems=0

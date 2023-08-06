@@ -1,0 +1,2 @@
+description=[1964798] 3 bugs in CloseResourceRule : Case failing with complete name
+expected_problems=0

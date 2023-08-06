@@ -1,0 +1,2 @@
+description=#1199 false negative for same package FQCN
+expected_problems=1

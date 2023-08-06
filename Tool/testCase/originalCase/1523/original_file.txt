@@ -1,0 +1,2 @@
+description=ok, testing .contentEquals false positive
+expected_problems=0

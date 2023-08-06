@@ -1,0 +1,2 @@
+description=short as method parameter with @Override
+expected_problems=0

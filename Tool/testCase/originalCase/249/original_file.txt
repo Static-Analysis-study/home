@@ -1,0 +1,2 @@
+description=[ 2142986 ] UselessOverridingMethod doesn't consider annotations, @Override only
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Null literal does not puke.
+expected_problems=0

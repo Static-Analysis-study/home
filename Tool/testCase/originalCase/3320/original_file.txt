@@ -1,0 +1,2 @@
+description=Utility class can have name constants
+expected_problems=0

@@ -1,0 +1,2 @@
+description=NPE in lambda call (see #1512)
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#824 False Positive when extending another class
+expected_problems=0

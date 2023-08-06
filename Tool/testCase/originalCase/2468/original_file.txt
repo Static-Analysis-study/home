@@ -1,0 +1,2 @@
+description=[1964798] 3 bugs in CloseResourceRule : If connection is returned, we should not log a violation.
+expected_problems=0

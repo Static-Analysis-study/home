@@ -1,0 +1,2 @@
+description=Unneeded 'abstract' in interface method
+expected_problems=1

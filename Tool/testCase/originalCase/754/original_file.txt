@@ -1,0 +1,2 @@
+description=parameter name starting with "this" or "super" should still be flagged
+expected_problems=2

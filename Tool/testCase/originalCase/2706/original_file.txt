@@ -1,0 +1,2 @@
+description=Logger type log4j2: Two Loggers
+expected_problems=1

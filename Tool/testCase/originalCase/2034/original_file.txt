@@ -1,0 +1,2 @@
+description=static method is not an issue
+expected_problems=0

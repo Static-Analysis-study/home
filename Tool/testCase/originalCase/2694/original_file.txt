@@ -1,0 +1,2 @@
+description=#2642 [java] InvalidLogMessageFormat throws IndexOutOfBoundsException with SLF4J and a StringBuilder variable set using var
+expected_problems=0

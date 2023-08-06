@@ -1,0 +1,2 @@
+description=String.trim.length is called, assigned to int, ok
+expected_problems=0

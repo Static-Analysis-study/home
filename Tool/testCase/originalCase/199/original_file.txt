@@ -1,0 +1,2 @@
+description=multiple fields on same line
+expected_problems=1

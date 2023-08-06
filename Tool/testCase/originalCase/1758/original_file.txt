@@ -1,0 +1,2 @@
+description=Only one case, this is useless
+expected_problems=1

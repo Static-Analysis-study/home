@@ -1,0 +1,2 @@
+description=#2530 toString on String value returned from a method should be detected
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#219 ClassCastException in switch case with local variable returned
+expected_problems=1

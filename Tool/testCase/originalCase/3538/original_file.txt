@@ -1,0 +1,2 @@
+description=#1362 Predicate fields are treated like booleans
+expected_problems=0

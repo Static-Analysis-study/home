@@ -1,0 +1,2 @@
+description=doing something else before throwing it, ok
+expected_problems=0

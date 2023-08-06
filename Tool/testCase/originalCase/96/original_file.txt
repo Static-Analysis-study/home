@@ -1,0 +1,2 @@
+description=[java] ClassWithOnlyPrivateConstructorsShouldBeFinal should consider lombok's @Value #4200
+expected_problems=0

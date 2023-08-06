@@ -1,0 +1,2 @@
+description=should be utility class, couple of statics, no constructor
+expected_problems=1

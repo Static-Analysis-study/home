@@ -1,0 +1,2 @@
+description=DD anomaly
+expected_problems=1

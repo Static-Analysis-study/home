@@ -1,0 +1,2 @@
+description=#1371 InsufficientStringBufferDeclaration not detected properly on StringBuffer
+expected_problems=2

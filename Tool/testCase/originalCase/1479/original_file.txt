@@ -1,0 +1,2 @@
+description=private field in inner class accessed by another inner class
+expected_problems=0

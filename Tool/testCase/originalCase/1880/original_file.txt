@@ -1,0 +1,2 @@
+description=don't get thrown off by a buried literal
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1104 IdempotentOperation false positive
+expected_problems=0

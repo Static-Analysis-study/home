@@ -1,0 +1,2 @@
+description=No problem - not a JUnit test
+expected_problems=0

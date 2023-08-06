@@ -1,0 +1,2 @@
+description=finally block with contents
+expected_problems=0

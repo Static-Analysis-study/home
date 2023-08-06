@@ -1,0 +1,2 @@
+description=631681, private field is accessed by outer class
+expected_problems=0

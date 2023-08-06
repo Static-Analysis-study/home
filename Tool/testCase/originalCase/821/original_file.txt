@@ -1,0 +1,2 @@
+description=ok, no error expected - apache commons logging
+expected_problems=0

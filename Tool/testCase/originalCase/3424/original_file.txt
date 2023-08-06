@@ -1,0 +1,2 @@
+description=Bad SessionBean name
+expected_problems=1

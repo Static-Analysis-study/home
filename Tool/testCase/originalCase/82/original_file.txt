@@ -1,0 +1,2 @@
+description=SonarSource example 3
+expected_problems=1

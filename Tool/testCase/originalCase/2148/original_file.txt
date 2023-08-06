@@ -1,0 +1,2 @@
+description=ok, extends superclass AND implements cloneable
+expected_problems=0

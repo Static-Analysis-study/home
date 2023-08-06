@@ -1,0 +1,2 @@
+description=#2833 NPE in UseCollectionIsEmptyRule with enums
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#720 Whitelist lambda parameters
+expected_problems=0

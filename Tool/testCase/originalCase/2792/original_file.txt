@@ -1,0 +1,2 @@
+description=More exclusions can be configured
+expected_problems=0

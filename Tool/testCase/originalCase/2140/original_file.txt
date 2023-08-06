@@ -1,0 +1,2 @@
+description=ok, implements Cloneable
+expected_problems=0

@@ -1,0 +1,2 @@
+description=3526212, pmd-5.0.0: ImmutableField false positive on self-inc/dec
+expected_problems=0

@@ -1,0 +1,2 @@
+description=25, Compound ifs
+expected_problems=0

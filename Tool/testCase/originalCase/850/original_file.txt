@@ -1,0 +1,2 @@
+description=fail, UTF-16LE
+expected_problems=1

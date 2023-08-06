@@ -1,0 +1,21 @@
+{
+
+    "reportPath": "../report",
+    "testCasePath": "../testCase/originalCase",
+
+    "spotbugscaseClasspath": "",
+
+    "spotbugsEnv":"",
+    "sonarqubeLink": "http://localhost:9000",
+    "sonarqubeToken": "",
+
+    "result_spotbugs_path":"../result/spotbugs",
+
+    "csv1":"",
+    "csv2":"",
+
+    "spotbugsSCV1":"",
+    "spotbugsSCV2":""
+
+    
+}

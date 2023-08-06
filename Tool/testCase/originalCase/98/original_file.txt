@@ -1,0 +1,2 @@
+description=method throws Exception
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#968 Issues with JUnit4 @Test annotation with expected exception
+expected_problems=0

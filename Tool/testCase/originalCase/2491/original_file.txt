@@ -1,0 +1,2 @@
+description=CloseResource for input streams - ok try-with-resources
+expected_problems=0

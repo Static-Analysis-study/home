@@ -1,0 +1,2 @@
+description=usage of the StringBuffer constructor that takes an int
+expected_problems=0

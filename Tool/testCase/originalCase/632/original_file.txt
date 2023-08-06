@@ -1,0 +1,2 @@
+description=#257 UnusedLocalVariable - false positive - parenthesis
+expected_problems=0

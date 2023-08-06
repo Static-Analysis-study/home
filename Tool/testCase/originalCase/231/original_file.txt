@@ -1,0 +1,2 @@
+description=call super with inverted arguments
+expected_problems=0

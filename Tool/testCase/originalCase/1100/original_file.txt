@@ -1,0 +1,2 @@
+description=false-positive in DD-part of DataflowAnomalyAnalysis #1675
+expected_problems=0

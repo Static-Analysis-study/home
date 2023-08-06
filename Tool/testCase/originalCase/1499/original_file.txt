@@ -1,0 +1,2 @@
+description=#3824 #3825 Do not flag fields annotated with @Id, @EmbeddedId, or @Version
+expected_problems=0

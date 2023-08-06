@@ -1,0 +1,2 @@
+description=bad, using fully qualified java.lang.ThreadGroup()
+expected_problems=1

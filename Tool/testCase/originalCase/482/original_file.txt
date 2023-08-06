@@ -1,0 +1,2 @@
+description=[java] [6.0.0] NPE in DataClass rule caused by empty declaration #785
+expected_problems=0

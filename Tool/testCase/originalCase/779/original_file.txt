@@ -1,0 +1,2 @@
+description=#1845 Regression in MethodReturnsInternalArray not handling enums
+expected_problems=0

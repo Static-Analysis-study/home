@@ -1,0 +1,2 @@
+description=#1434 CommentRequired raises violation on serialVersionUID field
+expected_problems=0

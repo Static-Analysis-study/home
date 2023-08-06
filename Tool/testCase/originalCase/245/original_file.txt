@@ -1,0 +1,2 @@
+description=False +: Overriding method merely calls super (see bug 1415525)
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Native method pattern
+expected_problems=1

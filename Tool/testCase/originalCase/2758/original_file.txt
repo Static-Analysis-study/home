@@ -1,0 +1,2 @@
+description=package-private logger non static and non final
+expected_problems=1

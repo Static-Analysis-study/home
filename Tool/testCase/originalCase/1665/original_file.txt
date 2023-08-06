@@ -1,0 +1,2 @@
+description=instantiating FileReader
+expected_problems=1

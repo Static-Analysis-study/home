@@ -1,0 +1,2 @@
+description=return from a lambda should not cause issues
+expected_problems=0

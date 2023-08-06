@@ -1,0 +1,2 @@
+description=#962 MethodReturnsInternalArray: False positive using a ternary operator
+expected_problems=0

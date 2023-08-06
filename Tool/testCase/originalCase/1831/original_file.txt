@@ -1,0 +1,2 @@
+description=Verify no NPE is thrown
+expected_problems=0

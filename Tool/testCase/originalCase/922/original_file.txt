@@ -1,0 +1,2 @@
+description=18, side effects on rules
+expected_problems=1

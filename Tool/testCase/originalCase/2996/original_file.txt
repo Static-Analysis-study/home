@@ -1,0 +1,2 @@
+description=Check prefixes
+expected_problems=0

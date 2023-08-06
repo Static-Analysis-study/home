@@ -1,0 +1,2 @@
+description=Index var initialized outside for init
+expected_problems=1

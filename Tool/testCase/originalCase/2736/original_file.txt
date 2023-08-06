@@ -1,0 +1,2 @@
+description=var is not used in equals() call
+expected_problems=0

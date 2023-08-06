@@ -1,0 +1,2 @@
+description=local variable used in postfix expression as child of StatementExpression
+expected_problems=1

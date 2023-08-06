@@ -1,0 +1,2 @@
+description=#976 False positive for UselessStringValueOf
+expected_problems=0

@@ -1,0 +1,2 @@
+description=throws a new instance of the same exception from a nested try/catch block, ok
+expected_problems=0

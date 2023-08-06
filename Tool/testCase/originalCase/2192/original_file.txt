@@ -1,0 +1,2 @@
+description=Not a JUnit test (nonstatic is bad)
+expected_problems=0

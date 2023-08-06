@@ -1,0 +1,2 @@
+description=returning a Map, OK
+expected_problems=0

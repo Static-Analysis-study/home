@@ -1,0 +1,2 @@
+description=assignment to array
+expected_problems=1

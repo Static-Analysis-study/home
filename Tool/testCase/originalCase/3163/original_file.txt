@@ -1,0 +1,2 @@
+description=(J8+) False negative for Java8+ and ternary operator (#2545)
+expected_problems=2

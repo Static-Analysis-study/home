@@ -1,0 +1,2 @@
+description=skip additions involving static finals, compiler will do constant folding for these
+expected_problems=0

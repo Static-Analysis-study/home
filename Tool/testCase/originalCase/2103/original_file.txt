@@ -1,0 +1,2 @@
+description=bad, toArray() with cast
+expected_problems=1

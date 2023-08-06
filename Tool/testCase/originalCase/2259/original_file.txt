@@ -1,0 +1,2 @@
+description=1610730: null check after method invocation with conditional OR and ==
+expected_problems=1

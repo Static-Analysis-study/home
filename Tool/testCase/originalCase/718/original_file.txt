@@ -1,0 +1,2 @@
+description=Array initializer is not a class body
+expected_problems=0

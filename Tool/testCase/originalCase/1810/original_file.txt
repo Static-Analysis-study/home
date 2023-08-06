@@ -1,0 +1,2 @@
+description=#278 Semi-false positive for instantiating new object in loop
+expected_problems=0

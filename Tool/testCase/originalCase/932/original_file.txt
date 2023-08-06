@@ -1,0 +1,2 @@
+description=#543 False negative with String concatenation
+expected_problems=3

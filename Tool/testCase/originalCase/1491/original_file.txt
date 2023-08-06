@@ -1,0 +1,2 @@
+description=#1428 False positive in UnusedPrivateField when local variable hides member variable
+expected_problems=0

@@ -1,0 +1,2 @@
+description=bad, using System.getSecurityManager().getThreadGroup()
+expected_problems=1

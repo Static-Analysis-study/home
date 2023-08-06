@@ -1,0 +1,5 @@
+
+            import f;;
+
+            class Foo {};
+            

@@ -1,0 +1,2 @@
+description=Happy case
+expected_problems=0

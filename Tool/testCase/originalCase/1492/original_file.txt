@@ -1,0 +1,2 @@
+description=#1190 [java] UnusedLocalVariable/UnusedPrivateField false-positive
+expected_problems=0

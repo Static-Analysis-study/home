@@ -1,0 +1,2 @@
+description=Two tests
+expected_problems=2

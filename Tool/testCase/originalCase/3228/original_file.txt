@@ -1,0 +1,2 @@
+description=subpackage import, ok
+expected_problems=0

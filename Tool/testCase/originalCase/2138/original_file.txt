@@ -1,0 +1,2 @@
+description=Allowed in enum constant
+expected_problems=1

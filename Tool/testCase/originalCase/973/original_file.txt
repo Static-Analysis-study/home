@@ -1,0 +1,2 @@
+description=unused constructor param
+expected_problems=1

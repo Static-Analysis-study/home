@@ -1,0 +1,2 @@
+description=Empty Do while, allowed
+expected_problems=0

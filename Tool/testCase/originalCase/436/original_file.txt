@@ -1,0 +1,2 @@
+description=Assignment in constructor is in try block
+expected_problems=0

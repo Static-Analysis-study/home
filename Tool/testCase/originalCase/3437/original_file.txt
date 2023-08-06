@@ -1,0 +1,2 @@
+description=Unneeded 'public' in interface field
+expected_problems=1

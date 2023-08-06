@@ -1,0 +1,2 @@
+description=Test accessors are reported when required
+expected_problems=3

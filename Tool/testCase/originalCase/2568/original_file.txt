@@ -1,0 +1,2 @@
+description=minimum length property, default value
+expected_problems=1

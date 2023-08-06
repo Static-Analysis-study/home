@@ -1,0 +1,2 @@
+description=Private method modifiers should be reported by rule 'JUnit5TestNoPrivateModifier' and ignored by rule 'JUnit5TestShouldBePackagePrivate'
+expected_problems=0

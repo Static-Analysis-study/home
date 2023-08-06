@@ -1,0 +1,2 @@
+description=array initialization with fields
+expected_problems=3

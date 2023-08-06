@@ -1,0 +1,2 @@
+description=#1782 no package in top-level enum
+expected_problems=1

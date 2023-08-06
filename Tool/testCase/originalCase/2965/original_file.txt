@@ -1,0 +1,2 @@
+description=2 methods, 1 violation
+expected_problems=1

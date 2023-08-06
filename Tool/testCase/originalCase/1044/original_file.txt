@@ -1,0 +1,2 @@
+description=Definitions in try block reach catch blocks through method calls 2
+expected_problems=1

@@ -1,0 +1,2 @@
+description=JUnit 4 testcase
+expected_problems=0

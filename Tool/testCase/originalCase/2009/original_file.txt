@@ -1,0 +1,2 @@
+description=#2934 comparison with null is valid and with primitive literals
+expected_problems=2

@@ -1,0 +1,2 @@
+description=Arrays are ok
+expected_problems=0

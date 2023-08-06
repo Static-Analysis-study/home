@@ -1,0 +1,2 @@
+description=skip literal returns
+expected_problems=0

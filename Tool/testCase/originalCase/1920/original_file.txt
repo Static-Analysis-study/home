@@ -1,0 +1,2 @@
+description=append single character string in constructor chain
+expected_problems=2

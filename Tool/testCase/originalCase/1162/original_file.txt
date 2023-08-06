@@ -1,0 +1,2 @@
+description=Consider Object methods inherited into interfaces
+expected_problems=1

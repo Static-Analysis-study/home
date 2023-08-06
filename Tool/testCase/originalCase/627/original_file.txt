@@ -1,0 +1,2 @@
+description=local used in right shift
+expected_problems=0

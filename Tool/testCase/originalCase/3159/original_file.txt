@@ -1,0 +1,2 @@
+description=FP with array creation
+expected_problems=0

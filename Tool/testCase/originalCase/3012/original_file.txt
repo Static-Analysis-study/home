@@ -1,0 +1,2 @@
+description=ok, private method in final class
+expected_problems=0

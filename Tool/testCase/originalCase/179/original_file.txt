@@ -1,0 +1,2 @@
+description=unused fields shouldn't show up
+expected_problems=0

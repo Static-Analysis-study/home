@@ -1,0 +1,2 @@
+description=False positive when package name is obscured by variable (2)
+expected_problems=0

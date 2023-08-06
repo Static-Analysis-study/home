@@ -1,0 +1,2 @@
+description=False positive with public method call on new instance
+expected_problems=2

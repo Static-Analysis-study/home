@@ -1,0 +1,2 @@
+description=From controversial/UnnecessaryParentheses: Parentheses around call chain
+expected_problems=1

@@ -1,0 +1,2 @@
+description=False positive when same package static method is referenced
+expected_problems=0

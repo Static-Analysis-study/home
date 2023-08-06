@@ -1,0 +1,2 @@
+description=Unnecessary abstract on interface
+expected_problems=1

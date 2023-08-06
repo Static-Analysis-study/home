@@ -1,0 +1,2 @@
+description=invoke an external method that closes the resource, but one is not the right method and an another is not the right variable: see bug 2920057
+expected_problems=2

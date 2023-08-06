@@ -1,0 +1,2 @@
+description=Test @override methods reporting
+expected_problems=2

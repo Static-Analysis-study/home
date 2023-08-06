@@ -1,0 +1,2 @@
+description=field in inner class
+expected_problems=0

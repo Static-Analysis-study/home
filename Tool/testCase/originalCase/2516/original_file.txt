@@ -1,0 +1,2 @@
+description=[java] [6.27.0] Exception applying rule CloseResource on file ... java.lang.NullPointerException #2755
+expected_problems=0

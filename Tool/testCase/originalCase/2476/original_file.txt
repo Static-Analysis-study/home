@@ -1,0 +1,2 @@
+description=#992 Class java.beans.Statement triggered in CloseResource rule
+expected_problems=0

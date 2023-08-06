@@ -1,0 +1,2 @@
+description=interface fo$oo
+expected_problems=1

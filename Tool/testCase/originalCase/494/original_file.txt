@@ -1,0 +1,2 @@
+description=multiple-line comment is OK
+expected_problems=0

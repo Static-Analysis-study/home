@@ -1,0 +1,2 @@
+description=Enum wrong class name
+expected_problems=1

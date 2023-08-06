@@ -1,0 +1,2 @@
+description=False negative when importing another exception
+expected_problems=1

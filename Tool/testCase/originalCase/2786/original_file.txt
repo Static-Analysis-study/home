@@ -1,0 +1,2 @@
+description=Test constant field property
+expected_problems=4

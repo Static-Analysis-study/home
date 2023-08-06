@@ -1,0 +1,2 @@
+description=ok, Double value with 'd' with correct '_' usage
+expected_problems=0

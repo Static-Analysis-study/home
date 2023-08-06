@@ -1,0 +1,2 @@
+description=ok, Lengthy numeric literal with variable name as serialVersionUID
+expected_problems=0

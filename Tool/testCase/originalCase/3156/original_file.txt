@@ -1,0 +1,2 @@
+description=Multiple initializations in a single declaration
+expected_problems=1

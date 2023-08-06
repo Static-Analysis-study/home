@@ -1,0 +1,2 @@
+description=[java] InvalidLogMessageFormat false positive on externally formatted strings #4172
+expected_problems=0

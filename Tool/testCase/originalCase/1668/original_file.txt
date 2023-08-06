@@ -1,0 +1,2 @@
+description=instantiating java.io.FileWriter
+expected_problems=1

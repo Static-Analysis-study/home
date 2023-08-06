@@ -1,0 +1,2 @@
+description=ok, Double value with 'D' used as a method parameter with '_'
+expected_problems=0

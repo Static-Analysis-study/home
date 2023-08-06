@@ -1,0 +1,2 @@
+description=[java] False positive: AvoidInstantiatingObjectsInLoops should not flag objects with different parameters or objects assigned or passed as parameters #2207
+expected_problems=0

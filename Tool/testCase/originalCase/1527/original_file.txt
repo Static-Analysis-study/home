@@ -1,0 +1,2 @@
+description=#575 LiteralsFirstInComparisons to consider constant fields, i.e. static final Strings
+expected_problems=1

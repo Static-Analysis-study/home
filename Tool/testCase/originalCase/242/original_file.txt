@@ -1,0 +1,2 @@
+description=Constructors are OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=False negative with break in other for-loop
+expected_problems=1

@@ -1,0 +1,2 @@
+description=ok, checking for bug 1432595
+expected_problems=0

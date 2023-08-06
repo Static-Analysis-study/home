@@ -1,0 +1,2 @@
+description=NPE when for init is there, but not a local var declaration, refs #884
+expected_problems=0

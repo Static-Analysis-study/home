@@ -1,0 +1,2 @@
+description=While loop without break 2 (control case)
+expected_problems=1

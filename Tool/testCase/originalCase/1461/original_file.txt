@@ -1,0 +1,2 @@
+description=private static final referenced with qualifier
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#438 An abstract AutoValue class with no methods and fully qualified annotation, no violation
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#3004 UseEqualsToCompareStrings false positive with PMD 6.30.0
+expected_problems=0

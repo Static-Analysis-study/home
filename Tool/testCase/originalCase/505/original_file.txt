@@ -1,0 +1,2 @@
+description=with 'this(...)' ok
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Verify property ignoredAnnotations is used
+expected_problems=0

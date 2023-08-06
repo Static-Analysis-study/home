@@ -1,0 +1,2 @@
+description=32, Including the constructor's string
+expected_problems=2

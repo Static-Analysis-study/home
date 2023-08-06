@@ -1,0 +1,2 @@
+description=This reference leak in field initializers #2668
+expected_problems=0

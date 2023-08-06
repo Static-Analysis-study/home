@@ -1,0 +1,2 @@
+description=40, Call to external method with subtraction
+expected_problems=0

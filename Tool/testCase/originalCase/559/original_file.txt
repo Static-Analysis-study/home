@@ -1,0 +1,2 @@
+description=OneDeclarationPerLine's potential false+
+expected_problems=0

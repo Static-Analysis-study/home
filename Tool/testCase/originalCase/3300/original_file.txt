@@ -1,0 +1,2 @@
+description=#2029 [java] UnnecessaryFullyQualifiedName false-positive for non-static nested classes
+expected_problems=0

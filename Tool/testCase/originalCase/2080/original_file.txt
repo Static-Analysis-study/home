@@ -1,0 +1,2 @@
+description=no constant folding
+expected_problems=0

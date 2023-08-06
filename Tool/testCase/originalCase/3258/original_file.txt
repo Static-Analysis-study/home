@@ -1,0 +1,2 @@
+description=9, invalid return type
+expected_problems=1

@@ -1,0 +1,2 @@
+description=local variable used in postfix expression on right hand side
+expected_problems=0

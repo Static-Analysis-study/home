@@ -1,0 +1,2 @@
+description=#1203 GuardLogStatementJavaUtil issues warning for severe level not being specified as property
+expected_problems=0

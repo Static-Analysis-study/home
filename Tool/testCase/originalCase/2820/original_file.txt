@@ -1,0 +1,2 @@
+description=From controversial/UnnecessaryParentheses: Unreported call chain
+expected_problems=0

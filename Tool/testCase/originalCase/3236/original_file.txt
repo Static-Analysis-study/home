@@ -1,0 +1,2 @@
+description=ImportFromSamePackage: importing all from same package
+expected_problems=1

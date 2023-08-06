@@ -1,0 +1,2 @@
+description=FP in finally
+expected_problems=0

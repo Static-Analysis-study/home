@@ -1,0 +1,2 @@
+description=More than 10 methods.
+expected_problems=1

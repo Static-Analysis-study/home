@@ -1,0 +1,2 @@
+description=#1273 CheckResultSet false positive in try-with-resources nested in if
+expected_problems=0

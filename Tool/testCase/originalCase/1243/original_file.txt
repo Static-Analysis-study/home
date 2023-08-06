@@ -1,0 +1,2 @@
+description=Contains JUnit4TestAdapter suite
+expected_problems=0

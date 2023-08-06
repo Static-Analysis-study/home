@@ -1,0 +1,2 @@
+description=IndexOutOfBoundsException with annotation
+expected_problems=0

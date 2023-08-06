@@ -1,0 +1,2 @@
+description=ok, variable has been reassigned to RuntimeException before thrown
+expected_problems=0

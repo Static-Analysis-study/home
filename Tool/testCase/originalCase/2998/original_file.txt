@@ -1,0 +1,2 @@
+description=Check members disabled
+expected_problems=3

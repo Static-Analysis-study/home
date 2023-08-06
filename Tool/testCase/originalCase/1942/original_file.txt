@@ -1,0 +1,2 @@
+description=Fail, BigInteger(0)
+expected_problems=1

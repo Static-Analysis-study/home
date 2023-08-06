@@ -1,0 +1,2 @@
+description=No violation: Avoid concat in append method invocations
+expected_problems=0

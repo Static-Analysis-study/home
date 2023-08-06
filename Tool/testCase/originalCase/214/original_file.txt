@@ -1,0 +1,2 @@
+description=#3303 [java] NPE Exception applying rule SingularField on file
+expected_problems=0

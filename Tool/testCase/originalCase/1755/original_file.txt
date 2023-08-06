@@ -1,0 +1,2 @@
+description=java7 numeric literals
+expected_problems=4

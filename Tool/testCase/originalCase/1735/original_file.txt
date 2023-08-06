@@ -1,0 +1,2 @@
+description=[java] PrimitiveWrapperInstantiation: no violation on 'new Boolean(val)' #3595
+expected_problems=2

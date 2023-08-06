@@ -1,0 +1,2 @@
+description=#1085 NullPointerException by at net.sourceforge.pmd.lang.java.rule.design.GodClassRule.visit(GodClassRule.java:313)
+expected_problems=0

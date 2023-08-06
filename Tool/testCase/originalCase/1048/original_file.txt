@@ -1,0 +1,2 @@
+description=Try/catch finally 4
+expected_problems=3

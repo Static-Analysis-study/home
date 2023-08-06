@@ -1,0 +1,2 @@
+description=Assignments in checks are OK
+expected_problems=0

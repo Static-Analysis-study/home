@@ -1,0 +1,2 @@
+description=[java] UnusedPrivateField - false positive with Lombok @ToString.Include #4033
+expected_problems=0

@@ -1,0 +1,2 @@
+description=ok, protected field in non final class
+expected_problems=0

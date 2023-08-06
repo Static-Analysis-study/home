@@ -1,0 +1,2 @@
+description=Class extending another class should not be utility class
+expected_problems=0

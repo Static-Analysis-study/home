@@ -1,0 +1,2 @@
+description=concatenating method + int
+expected_problems=0

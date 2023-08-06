@@ -1,0 +1,2 @@
+description=While loop with continue
+expected_problems=0

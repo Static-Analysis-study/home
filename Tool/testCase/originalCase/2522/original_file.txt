@@ -1,0 +1,2 @@
+description=[java] CloseResource rule throws exception on spaces in property types #3089
+expected_problems=0

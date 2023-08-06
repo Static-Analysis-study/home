@@ -1,0 +1,2 @@
+description=Consider covariant return types
+expected_problems=1

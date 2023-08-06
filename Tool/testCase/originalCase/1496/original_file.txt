@@ -1,0 +1,2 @@
+description=#2673 UnusedPrivateField false positive with lombok annotation EqualsAndHashCode
+expected_problems=0

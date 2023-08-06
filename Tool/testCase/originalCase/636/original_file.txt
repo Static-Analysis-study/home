@@ -1,0 +1,2 @@
+description=False positive with variable used in unary expression #3671
+expected_problems=0

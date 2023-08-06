@@ -1,0 +1,2 @@
+description=public finalize
+expected_problems=1

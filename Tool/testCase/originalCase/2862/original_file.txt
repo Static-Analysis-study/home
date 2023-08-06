@@ -1,0 +1,2 @@
+description=pos, empty finally block
+expected_problems=0

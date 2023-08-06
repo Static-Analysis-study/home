@@ -1,0 +1,2 @@
+description=Pass, BigInteger("10") and BigDecimal in 1.4 mode
+expected_problems=0

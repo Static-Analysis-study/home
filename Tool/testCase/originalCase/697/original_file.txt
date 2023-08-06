@@ -1,0 +1,2 @@
+description=#330 NPE accessing local field / method with this.XXX
+expected_problems=1

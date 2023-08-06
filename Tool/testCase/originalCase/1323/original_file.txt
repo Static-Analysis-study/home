@@ -1,0 +1,2 @@
+description=#1175 False positive with Junit 5 MethodSource
+expected_problems=0

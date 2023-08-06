@@ -1,0 +1,2 @@
+description=skip assertTrue(x == null), UseAssertNullInsteadOfAssertTrue will pick those up
+expected_problems=0

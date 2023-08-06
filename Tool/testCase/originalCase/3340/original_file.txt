@@ -1,0 +1,2 @@
+description=No violations on multiple uses of the variable - statement order does not matter
+expected_problems=0

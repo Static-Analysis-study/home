@@ -1,0 +1,2 @@
+description=#2402 [java] CloseResource possible false positive with primitive  Streams
+expected_problems=0

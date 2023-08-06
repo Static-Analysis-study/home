@@ -1,0 +1,2 @@
+description=bug 1626232, the rule should not be confused by inner classes
+expected_problems=0

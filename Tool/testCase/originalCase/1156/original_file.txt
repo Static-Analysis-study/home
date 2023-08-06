@@ -1,0 +1,2 @@
+description=Consider methods with array parameters
+expected_problems=1

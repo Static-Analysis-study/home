@@ -1,0 +1,2 @@
+description=private suite() is bad
+expected_problems=1

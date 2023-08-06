@@ -1,0 +1,2 @@
+description=[1964798] 3 bugs in CloseResourceRule : null object is passed to close connection method (2)
+expected_problems=1

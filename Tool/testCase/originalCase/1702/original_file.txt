@@ -1,0 +1,2 @@
+description=34, Uses setLength incorrectly
+expected_problems=2

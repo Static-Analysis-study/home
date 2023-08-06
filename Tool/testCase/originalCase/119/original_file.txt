@@ -1,0 +1,2 @@
+description=One stmt in one switch case, ok
+expected_problems=0

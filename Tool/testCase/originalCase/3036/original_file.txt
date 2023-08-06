@@ -1,0 +1,2 @@
+description=Initial report where rule was introduced, [ 2487971 ] False positive with field-level annotations
+expected_problems=0

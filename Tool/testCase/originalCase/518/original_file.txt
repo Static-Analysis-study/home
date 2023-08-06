@@ -1,0 +1,2 @@
+description=comment required on serialVersionUID of wrong type
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Test ignored name 1
+expected_problems=0

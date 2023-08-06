@@ -1,0 +1,2 @@
+description=equals sig uses String, not Object
+expected_problems=1

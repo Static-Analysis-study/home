@@ -1,0 +1,2 @@
+description=interface method declaring a checked exception is fine
+expected_problems=0

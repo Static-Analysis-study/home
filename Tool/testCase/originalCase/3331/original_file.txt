@@ -1,0 +1,2 @@
+description=skip void/native/abstract methods
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Flag in local class
+expected_problems=1

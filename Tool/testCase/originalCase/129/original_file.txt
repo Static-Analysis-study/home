@@ -1,0 +1,2 @@
+description=[java] AbstractClassWithoutAnyMethod should consider lombok's @AllArgsConstructor #4189
+expected_problems=0

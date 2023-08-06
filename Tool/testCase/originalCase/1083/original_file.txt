@@ -1,0 +1,2 @@
+description=Test local class
+expected_problems=2

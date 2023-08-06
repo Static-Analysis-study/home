@@ -1,0 +1,2 @@
+description=2 unused single-type imports
+expected_problems=2

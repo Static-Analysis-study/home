@@ -1,0 +1,2 @@
+description=Return from anonyous class should not give any error
+expected_problems=0

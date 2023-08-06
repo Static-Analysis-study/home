@@ -1,0 +1,2 @@
+description=Calculated initial size in constructor
+expected_problems=5

@@ -1,0 +1,2 @@
+description=[java] ImmutableField reports fields annotated with @GwtMock (GwtMockito) and @Spy (Mockito) #4004
+expected_problems=0

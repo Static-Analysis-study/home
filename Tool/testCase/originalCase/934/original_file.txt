@@ -1,0 +1,2 @@
+description=Valid MessageDigest usage example
+expected_problems=0

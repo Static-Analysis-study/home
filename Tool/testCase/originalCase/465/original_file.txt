@@ -1,0 +1,2 @@
+description=assertTrue(!)
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Normal for-loops should not be flagged
+expected_problems=0

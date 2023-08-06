@@ -1,0 +1,2 @@
+description=Correctly determine the type for the message
+expected_problems=3

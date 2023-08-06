@@ -1,0 +1,2 @@
+description=#575 LiteralsFirstInComparisons must not trigger if the constant field is not a String
+expected_problems=0

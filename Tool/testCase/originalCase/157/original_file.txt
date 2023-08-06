@@ -1,0 +1,2 @@
+description=ok, variable is reassigned with NullPointerException after thrown
+expected_problems=0

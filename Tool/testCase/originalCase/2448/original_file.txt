@@ -1,0 +1,2 @@
+description=Enum is serializable by default
+expected_problems=1

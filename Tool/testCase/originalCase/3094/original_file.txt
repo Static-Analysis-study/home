@@ -1,0 +1,2 @@
+description=#1158 false positive 2
+expected_problems=0

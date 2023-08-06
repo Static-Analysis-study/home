@@ -1,0 +1,2 @@
+description=false negative inside lambdas
+expected_problems=2

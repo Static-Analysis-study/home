@@ -1,0 +1,2 @@
+description=Passes trim().length() and 0 to another method
+expected_problems=0

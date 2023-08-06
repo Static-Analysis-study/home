@@ -1,0 +1,2 @@
+description=simple use of BooleanLiteral, should not be flagged
+expected_problems=0

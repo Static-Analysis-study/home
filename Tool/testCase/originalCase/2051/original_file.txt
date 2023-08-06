@@ -1,0 +1,2 @@
+description=assert as identifier - parameter
+expected_problems=1

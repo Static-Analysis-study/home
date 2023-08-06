@@ -1,0 +1,2 @@
+description=Useless override with different packages already public (false negative)
+expected_problems=2

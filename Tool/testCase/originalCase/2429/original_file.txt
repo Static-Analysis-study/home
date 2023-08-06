@@ -1,0 +1,2 @@
+description=Compound
+expected_problems=8

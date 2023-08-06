@@ -1,0 +1,2 @@
+description=instantiating FileWriter
+expected_problems=1

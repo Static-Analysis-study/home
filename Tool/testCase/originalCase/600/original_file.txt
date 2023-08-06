@@ -1,0 +1,2 @@
+description=#1625 [java] UnusedImports false positive for method parameter type in @see Javadoc
+expected_problems=0

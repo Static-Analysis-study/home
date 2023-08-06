@@ -1,0 +1,2 @@
+description=while true - allowed
+expected_problems=0

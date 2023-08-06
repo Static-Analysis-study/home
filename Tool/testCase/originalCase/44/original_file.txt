@@ -1,0 +1,2 @@
+description=Extending AbstractExecutorService is not allowed
+expected_problems=1

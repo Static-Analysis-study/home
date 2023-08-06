@@ -1,0 +1,2 @@
+description=#3701 - false positive with method inner class
+expected_problems=0

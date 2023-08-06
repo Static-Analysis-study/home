@@ -1,0 +1,2 @@
+description=already static, OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=ok, signal is ok
+expected_problems=0

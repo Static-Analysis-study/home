@@ -1,0 +1,2 @@
+description=junit 'suite' method is OK
+expected_problems=0

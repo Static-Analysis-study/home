@@ -1,0 +1,2 @@
+description=No violations on multiple uses of the variable
+expected_problems=0

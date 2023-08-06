@@ -1,0 +1,2 @@
+description=#869 [java] GuardLogStatement false positive with something.error on return
+expected_problems=0

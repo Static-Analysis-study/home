@@ -1,0 +1,2 @@
+description=Single if, checkIfElseStmt overrides checkSingleIfStmt
+expected_problems=0

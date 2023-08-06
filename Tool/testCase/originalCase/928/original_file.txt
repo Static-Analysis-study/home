@@ -1,0 +1,2 @@
+description=#1087 PreserveStackTrace (still) ignores initCause()
+expected_problems=0

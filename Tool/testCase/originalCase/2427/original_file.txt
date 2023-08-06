@@ -1,0 +1,2 @@
+description=NullPointerException if in constructor test
+expected_problems=0

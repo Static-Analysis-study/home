@@ -1,0 +1,2 @@
+description=#1341 pmd:GuardDebugLogging violates LOGGER.debug with format "{}" - slf4j
+expected_problems=0

@@ -1,0 +1,2 @@
+description=nested test classes
+expected_problems=1

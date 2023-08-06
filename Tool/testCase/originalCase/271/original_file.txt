@@ -1,0 +1,2 @@
+description=OK, method annotations
+expected_problems=0

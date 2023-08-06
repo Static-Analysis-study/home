@@ -1,0 +1,2 @@
+description=Switch expr non-fallthrough
+expected_problems=4

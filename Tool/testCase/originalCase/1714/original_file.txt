@@ -1,0 +1,2 @@
+description=#841 InsufficientStringBufferDeclaration NumberFormatException
+expected_problems=0

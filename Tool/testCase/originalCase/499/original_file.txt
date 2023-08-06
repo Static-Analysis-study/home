@@ -1,0 +1,2 @@
+description=only 'this(...)' is not OK, if ignoring explicit constructor calls
+expected_problems=1

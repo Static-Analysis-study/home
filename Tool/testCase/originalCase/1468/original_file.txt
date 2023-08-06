@@ -1,0 +1,2 @@
+description=don't count Serialization fields as being unused
+expected_problems=0

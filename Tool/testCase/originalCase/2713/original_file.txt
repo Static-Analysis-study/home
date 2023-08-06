@@ -1,0 +1,2 @@
+description=while(true);
+expected_problems=1

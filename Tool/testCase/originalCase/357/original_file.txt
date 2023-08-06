@@ -1,0 +1,2 @@
+description=Consider indexed properties
+expected_problems=3

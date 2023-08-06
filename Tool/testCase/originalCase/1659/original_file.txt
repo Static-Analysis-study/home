@@ -1,0 +1,2 @@
+description=[java] ConsecutiveLiteralAppend false-positive with builder inside lambda #2427
+expected_problems=0

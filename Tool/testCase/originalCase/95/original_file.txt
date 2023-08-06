@@ -1,0 +1,2 @@
+description=[java] ClassWithOnlyPrivateConstructorsShouldBeFinal - false negative when a compilation unit contains two class declarations #3851
+expected_problems=1

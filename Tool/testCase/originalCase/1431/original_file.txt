@@ -1,0 +1,2 @@
+description=#1217 SystemPrintln always says "System.out.print is used"
+expected_problems=4

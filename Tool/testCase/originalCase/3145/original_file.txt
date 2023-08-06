@@ -1,0 +1,2 @@
+description=negative case - static on-demand imports
+expected_problems=1

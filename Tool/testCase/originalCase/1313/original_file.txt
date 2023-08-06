@@ -1,0 +1,2 @@
+description=#1412 UnusedPrivateMethod false positive: Issue #1403 not completely solved
+expected_problems=0

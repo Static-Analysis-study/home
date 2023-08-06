@@ -1,0 +1,2 @@
+description=Unnecessary public on annotation nested annotation
+expected_problems=1

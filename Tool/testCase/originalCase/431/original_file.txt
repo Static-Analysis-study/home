@@ -1,0 +1,2 @@
+description=Compound assignment
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#2976 FP with method call (unresolved class)
+expected_problems=0

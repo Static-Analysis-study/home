@@ -1,0 +1,2 @@
+description=#1424 False positive with ternary operator
+expected_problems=0

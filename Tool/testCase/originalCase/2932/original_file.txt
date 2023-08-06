@@ -1,0 +1,2 @@
+description=ok, Numeric Literal in negative binary
+expected_problems=0

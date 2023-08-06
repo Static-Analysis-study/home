@@ -1,0 +1,2 @@
+description=BigInteger obtained from compound method call
+expected_problems=0

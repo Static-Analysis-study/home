@@ -1,0 +1,2 @@
+description=SignatureDeclareThrowsException's IgnoreJUnitCompletely property not honored for constructors
+expected_problems=0

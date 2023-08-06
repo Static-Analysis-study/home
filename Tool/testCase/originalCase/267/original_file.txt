@@ -1,0 +1,2 @@
+description=Reproducing bug [ 2315599 ] False +: UseSingleton with class containing constructor: Although there is a static method, the class also has a non-private constructor. This is a common design for custom exceptions which contain a private static method to format error message strings.
+expected_problems=0

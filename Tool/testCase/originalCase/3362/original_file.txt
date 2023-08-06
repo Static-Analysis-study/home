@@ -1,0 +1,2 @@
+description=Do while, with braces
+expected_problems=0

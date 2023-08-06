@@ -1,0 +1,2 @@
+description=Not ok, since inner classes are checked
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1282 False Positive with implicit String.valuesOf() (Java)
+expected_problems=0

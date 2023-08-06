@@ -1,0 +1,2 @@
+description=#1380 InsufficientStringBufferDeclaration false positive when literal string passed to a lookup service
+expected_problems=0

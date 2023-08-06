@@ -1,0 +1,2 @@
+description=log4j2: ignore the exception param
+expected_problems=0

@@ -1,0 +1,2 @@
+description=do not crash on interfaces
+expected_problems=0

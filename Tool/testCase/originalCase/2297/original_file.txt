@@ -1,0 +1,2 @@
+description=ditto annotation
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1159 correct UnusedFormalParameter for readObject(foo) if not used
+expected_problems=5

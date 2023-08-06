@@ -1,0 +1,2 @@
+description=private field in inner class accessed as method call
+expected_problems=0

@@ -1,0 +1,2 @@
+description=abstract case, see #1352
+expected_problems=1

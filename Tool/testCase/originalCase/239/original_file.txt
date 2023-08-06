@@ -1,0 +1,2 @@
+description=call super with different argument 4
+expected_problems=0

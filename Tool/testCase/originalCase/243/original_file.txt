@@ -1,0 +1,2 @@
+description=Should ignore clone implementation ( see bug 1522517)
+expected_problems=0

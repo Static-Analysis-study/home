@@ -1,0 +1,2 @@
+description=NPE on nested record decl #3224
+expected_problems=0

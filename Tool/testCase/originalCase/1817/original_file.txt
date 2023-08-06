@@ -1,0 +1,2 @@
+description=false positive with list
+expected_problems=0

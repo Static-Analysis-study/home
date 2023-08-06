@@ -1,0 +1,2 @@
+description=#4141 UncommentedEmptyConstructor FP when annotated constructor with @Autowired
+expected_problems=0

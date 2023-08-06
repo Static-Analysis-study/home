@@ -1,0 +1,2 @@
+description=missing annotation on public test case in JUnit 5 test class (test template)
+expected_problems=1

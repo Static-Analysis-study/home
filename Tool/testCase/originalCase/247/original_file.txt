@@ -1,0 +1,2 @@
+description=[ 2142986 ] UselessOverridingMethod doesn't consider annotations, ignoreAnnotations property set to true
+expected_problems=1

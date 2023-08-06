@@ -1,0 +1,2 @@
+description=22, valid on-demand static import method call with class import
+expected_problems=0

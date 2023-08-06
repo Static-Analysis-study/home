@@ -1,0 +1,2 @@
+description=nested boolean literal
+expected_problems=0

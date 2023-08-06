@@ -1,0 +1,2 @@
+description=calling finalize on an object
+expected_problems=1

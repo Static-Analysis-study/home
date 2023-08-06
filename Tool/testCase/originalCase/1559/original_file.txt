@@ -1,0 +1,2 @@
+description=False positive with unqualified toString() call
+expected_problems=0

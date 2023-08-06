@@ -1,0 +1,2 @@
+description=Logger initialized as String constant from class name (java.util.logging)
+expected_problems=0

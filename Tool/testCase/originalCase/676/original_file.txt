@@ -1,0 +1,2 @@
+description=Contains assert
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#938 False positive on LooseCoupling for overriding methods
+expected_problems=0

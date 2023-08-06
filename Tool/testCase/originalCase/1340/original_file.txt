@@ -1,0 +1,2 @@
+description=method, do not varargs
+expected_problems=0

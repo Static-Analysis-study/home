@@ -1,0 +1,2 @@
+description=[java] ConsecutiveLiteralAppends and InsufficientStringBufferDeclaration: FP with switch expressions #3152
+expected_problems=0

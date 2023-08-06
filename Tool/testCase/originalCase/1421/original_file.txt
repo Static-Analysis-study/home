@@ -1,0 +1,2 @@
+description=new exception variable allocation is OK
+expected_problems=0

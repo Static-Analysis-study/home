@@ -1,0 +1,2 @@
+description=#3859 [java] CommentDefaultAccessModifier is triggered in JUnit5 method and it was conflicting with rule JUnit5TestShouldBePackagePrivate
+expected_problems=0

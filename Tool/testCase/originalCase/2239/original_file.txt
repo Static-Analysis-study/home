@@ -1,0 +1,2 @@
+description=#590 Check Builder pattern alternative
+expected_problems=0

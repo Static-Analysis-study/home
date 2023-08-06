@@ -1,0 +1,2 @@
+description=#3155 False negatives with unguarded method calls
+expected_problems=3

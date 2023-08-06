@@ -1,0 +1,2 @@
+description=[java] StringBuilder/Buffer false negatives with typeres #2881
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Case, no braces, allowed
+expected_problems=0

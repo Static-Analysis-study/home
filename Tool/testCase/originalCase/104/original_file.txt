@@ -1,0 +1,2 @@
+description=skip method in class that extends TestCase
+expected_problems=0

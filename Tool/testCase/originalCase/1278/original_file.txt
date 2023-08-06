@@ -1,0 +1,2 @@
+description=Calling method on instance of self
+expected_problems=0

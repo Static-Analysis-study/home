@@ -1,0 +1,2 @@
+description=boolean
+expected_problems=2

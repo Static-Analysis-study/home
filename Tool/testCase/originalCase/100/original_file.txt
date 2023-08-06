@@ -1,0 +1,2 @@
+description=constructor throws Exception
+expected_problems=1

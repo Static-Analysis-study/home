@@ -1,0 +1,2 @@
+description=assignment of a variable (local or field) to itself
+expected_problems=1

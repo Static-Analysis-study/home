@@ -1,0 +1,2 @@
+description=[java] InsufficientStringBufferDeclaration false positive for initial calculated StringBuilder size #1438
+expected_problems=0

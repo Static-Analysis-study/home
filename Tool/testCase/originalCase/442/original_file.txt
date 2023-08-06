@@ -1,0 +1,2 @@
+description=Bug 1740480, optional override of default value based on constructor argument check
+expected_problems=0

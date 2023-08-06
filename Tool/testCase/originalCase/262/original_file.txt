@@ -1,0 +1,2 @@
+description=classic utility class - ok
+expected_problems=0

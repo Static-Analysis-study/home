@@ -1,0 +1,2 @@
+description=concatenating two literals post-construction
+expected_problems=0

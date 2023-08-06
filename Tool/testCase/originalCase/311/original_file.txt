@@ -1,0 +1,4 @@
+description=
+            #3724 - the rule should be triggered only if the referenced name is static
+        
+expected_problems=1

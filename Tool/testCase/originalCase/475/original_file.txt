@@ -1,0 +1,2 @@
+description=in method body
+expected_problems=1

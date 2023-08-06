@@ -1,0 +1,2 @@
+description=startsWith multiple chars
+expected_problems=0

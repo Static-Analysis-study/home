@@ -1,0 +1,2 @@
+description=Good practice
+expected_problems=0

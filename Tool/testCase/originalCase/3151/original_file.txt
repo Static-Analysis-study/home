@@ -1,0 +1,2 @@
+description=Test inferred lambda parameter pattern
+expected_problems=5

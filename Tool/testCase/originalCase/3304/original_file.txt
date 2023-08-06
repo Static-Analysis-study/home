@@ -1,0 +1,2 @@
+description=Good EJBHome name
+expected_problems=0

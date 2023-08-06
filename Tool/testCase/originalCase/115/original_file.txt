@@ -1,0 +1,2 @@
+description=#350 allow throws exception when overriding a method defined elsewhere
+expected_problems=0

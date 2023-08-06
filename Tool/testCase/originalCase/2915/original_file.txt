@@ -1,0 +1,2 @@
+description=ok, numeric literal with correct '_' usage
+expected_problems=0

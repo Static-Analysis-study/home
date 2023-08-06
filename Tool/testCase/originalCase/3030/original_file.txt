@@ -1,0 +1,2 @@
+description=Bad EJB suffix
+expected_problems=1

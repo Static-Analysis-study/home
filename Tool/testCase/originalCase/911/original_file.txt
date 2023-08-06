@@ -1,0 +1,2 @@
+description=7, No exception thrown, OK
+expected_problems=0

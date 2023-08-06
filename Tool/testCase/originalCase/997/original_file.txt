@@ -1,0 +1,2 @@
+description=Conditional flow with abrupt throw
+expected_problems=2

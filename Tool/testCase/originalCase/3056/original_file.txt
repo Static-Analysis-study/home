@@ -1,0 +1,2 @@
+description=nested class in abstract class
+expected_problems=0

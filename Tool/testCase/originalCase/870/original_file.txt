@@ -1,0 +1,2 @@
+description=violation: incremented 'for' loop variable in if condition
+expected_problems=2

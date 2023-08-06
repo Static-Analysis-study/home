@@ -1,0 +1,2 @@
+description=final field that's a thread, OK
+expected_problems=0

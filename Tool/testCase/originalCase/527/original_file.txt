@@ -1,0 +1,2 @@
+description=Comment required ignores @override methods by default
+expected_problems=0

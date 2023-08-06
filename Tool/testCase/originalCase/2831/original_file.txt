@@ -1,0 +1,2 @@
+description=TEST6
+expected_problems=0

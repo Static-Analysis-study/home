@@ -1,0 +1,2 @@
+description=String, no accessor, ok
+expected_problems=0

@@ -1,0 +1,2 @@
+description=ok, variable accessed twice in same method
+expected_problems=0

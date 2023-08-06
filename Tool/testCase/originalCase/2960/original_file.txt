@@ -1,0 +1,2 @@
+description=Bug 2027626, False + : AvoidFinalLocalVariable
+expected_problems=1

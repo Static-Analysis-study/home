@@ -1,0 +1,2 @@
+description=[ 1481051 ] false + UnusedNullCheckInEquals
+expected_problems=0

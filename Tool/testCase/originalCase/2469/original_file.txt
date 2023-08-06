@@ -1,0 +1,2 @@
+description=invoke an external method that close the resource: bug 2920057
+expected_problems=0

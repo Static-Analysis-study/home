@@ -1,0 +1,2 @@
+description=don't wrap try-with-resource variable test
+expected_problems=1

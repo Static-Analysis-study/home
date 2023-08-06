@@ -1,0 +1,2 @@
+description=Not a JUnit class - Contains assert
+expected_problems=0

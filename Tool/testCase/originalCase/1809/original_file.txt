@@ -1,0 +1,2 @@
+description=return new in loop is OK
+expected_problems=0

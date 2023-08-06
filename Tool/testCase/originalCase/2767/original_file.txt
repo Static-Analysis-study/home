@@ -1,0 +1,2 @@
+description=similar to special case but with creating a new logger instead of passing in
+expected_problems=1

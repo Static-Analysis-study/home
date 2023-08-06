@@ -1,0 +1,2 @@
+description=Class with main method and private static fields should not be utility class
+expected_problems=0

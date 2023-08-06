@@ -1,0 +1,2 @@
+description=BUG 1105633 - False +: JUnit testcases could have fail() instead of assert
+expected_problems=0

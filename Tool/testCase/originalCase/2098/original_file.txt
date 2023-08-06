@@ -1,0 +1,2 @@
+description=Test1 in Enum #3936
+expected_problems=1

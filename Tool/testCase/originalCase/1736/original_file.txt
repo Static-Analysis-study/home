@@ -1,0 +1,2 @@
+description=multiple declarations
+expected_problems=5

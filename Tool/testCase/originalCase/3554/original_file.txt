@@ -1,0 +1,2 @@
+description=Final is not allowed in interface public method
+expected_problems=1

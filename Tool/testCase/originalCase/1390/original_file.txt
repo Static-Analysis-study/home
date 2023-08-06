@@ -1,0 +1,2 @@
+description=Not detected via string concatenation.
+expected_problems=0

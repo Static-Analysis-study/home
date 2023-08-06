@@ -1,0 +1,2 @@
+description=false positive when accessible object is used as primary prefix
+expected_problems=0

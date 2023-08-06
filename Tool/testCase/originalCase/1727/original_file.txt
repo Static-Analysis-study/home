@@ -1,0 +1,2 @@
+description=don't use Boolean.valueOf() in method call
+expected_problems=1

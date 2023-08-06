@@ -1,0 +1,2 @@
+description=interface fields are tested
+expected_problems=1

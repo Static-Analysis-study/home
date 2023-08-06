@@ -1,0 +1,2 @@
+description=NPE
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Javadoc comment is OK
+expected_problems=0

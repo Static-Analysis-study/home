@@ -1,0 +1,2 @@
+description=constructor, do not varargs
+expected_problems=0

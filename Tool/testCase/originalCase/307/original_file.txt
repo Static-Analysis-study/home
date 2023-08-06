@@ -1,0 +1,2 @@
+description=#2708 - Should trigger with non-lombok @Builder.Default fields
+expected_problems=1

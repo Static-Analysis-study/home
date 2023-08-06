@@ -1,0 +1,2 @@
+description=Unneeded 'public static final' in interface field inside another interface
+expected_problems=2

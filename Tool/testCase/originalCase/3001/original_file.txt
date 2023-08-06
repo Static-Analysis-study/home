@@ -1,0 +1,2 @@
+description=False - with non primitive fields (Bug 2225474)
+expected_problems=1

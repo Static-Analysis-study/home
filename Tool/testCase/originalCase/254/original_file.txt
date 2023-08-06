@@ -1,0 +1,2 @@
+description=[java] UselessOverridingMethod false positive when elevating access modifier #911 - transitive
+expected_problems=0

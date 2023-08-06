@@ -1,0 +1,2 @@
+description=#997 Rule NonThreadSafeSingleton gives analysis problem
+expected_problems=1

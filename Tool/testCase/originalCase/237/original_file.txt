@@ -1,0 +1,2 @@
+description=do not crash on empty returns
+expected_problems=0

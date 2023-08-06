@@ -1,0 +1,2 @@
+description=violation: reassign 'foreach' loop variable, but not as first statement
+expected_problems=1

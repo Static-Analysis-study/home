@@ -1,0 +1,2 @@
+description=class in default package importing from sub package
+expected_problems=0

@@ -1,0 +1,2 @@
+description=12, Catch and throw RuntimeException
+expected_problems=0

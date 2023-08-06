@@ -1,0 +1,2 @@
+description=1503099, init with two string lengths
+expected_problems=0

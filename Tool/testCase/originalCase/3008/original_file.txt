@@ -1,0 +1,2 @@
+description=ok, protected method in non final class
+expected_problems=0

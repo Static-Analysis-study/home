@@ -1,0 +1,2 @@
+description=Log4j2: false positive with pre-incremented variable
+expected_problems=0

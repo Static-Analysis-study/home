@@ -1,0 +1,2 @@
+description=False positive for UselessQualifiedThis #1372
+expected_problems=0

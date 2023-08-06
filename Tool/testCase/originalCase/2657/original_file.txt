@@ -1,0 +1,2 @@
+description=#365 [java] InvalidSlf4jMessageFormat: false positive with pre-incremented variable
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1409 NullPointerException in InsufficientStringBufferRule
+expected_problems=0

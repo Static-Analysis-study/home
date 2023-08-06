@@ -1,0 +1,2 @@
+description=From defect 1573591
+expected_problems=0

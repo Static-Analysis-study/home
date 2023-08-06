@@ -1,0 +1,2 @@
+description=Inner enum that returns copy of array
+expected_problems=0

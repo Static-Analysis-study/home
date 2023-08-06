@@ -1,0 +1,2 @@
+description=final class with public method
+expected_problems=0

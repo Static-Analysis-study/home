@@ -1,0 +1,2 @@
+description=log4j2: too many arguments
+expected_problems=1

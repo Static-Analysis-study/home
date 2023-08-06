@@ -1,0 +1,2 @@
+description=Check for field declarations without strictMode
+expected_problems=0

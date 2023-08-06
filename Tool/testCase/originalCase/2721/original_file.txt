@@ -1,0 +1,2 @@
+description=clone([whatever]) is fine
+expected_problems=0

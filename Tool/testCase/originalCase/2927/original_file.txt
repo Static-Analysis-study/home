@@ -1,0 +1,2 @@
+description=ok, String value with '_'
+expected_problems=0

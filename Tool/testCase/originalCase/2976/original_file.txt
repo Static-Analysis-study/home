@@ -1,0 +1,2 @@
+description=Test local variable property
+expected_problems=3

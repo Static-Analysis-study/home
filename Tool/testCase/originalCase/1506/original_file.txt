@@ -1,0 +1,2 @@
+description=ok, empty literal in .equals comparison
+expected_problems=0

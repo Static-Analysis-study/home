@@ -1,0 +1,2 @@
+description=@SuppressWarnings("serial")
+expected_problems=0

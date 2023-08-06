@@ -1,0 +1,2 @@
+description=If else, no braces
+expected_problems=2

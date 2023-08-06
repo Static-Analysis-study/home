@@ -1,0 +1,2 @@
+description=#1684 whitelist serialPersistentFields
+expected_problems=0

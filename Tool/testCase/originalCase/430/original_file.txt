@@ -1,0 +1,2 @@
+description=Postfix expressions imply mutability
+expected_problems=0

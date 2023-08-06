@@ -1,0 +1,2 @@
+description=Harmless getString methods
+expected_problems=0

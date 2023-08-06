@@ -1,0 +1,2 @@
+description=ok, Decimal number test
+expected_problems=0

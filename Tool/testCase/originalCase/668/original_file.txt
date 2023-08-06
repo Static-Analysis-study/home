@@ -1,0 +1,2 @@
+description=Not a JUnit test - assertEquals bad
+expected_problems=0

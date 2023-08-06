@@ -1,0 +1,2 @@
+description=False positive with method name mistaken for exception parameter
+expected_problems=0

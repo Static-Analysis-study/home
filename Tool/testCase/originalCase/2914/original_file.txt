@@ -1,0 +1,2 @@
+description=Basic test case : using native code
+expected_problems=3

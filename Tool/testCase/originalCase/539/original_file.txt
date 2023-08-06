@@ -1,0 +1,2 @@
+description=Multiple Resources
+expected_problems=1

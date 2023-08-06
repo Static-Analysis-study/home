@@ -1,0 +1,2 @@
+description=#521 UnusedPrivateMethod returns false positives with primitive data type in map argument
+expected_problems=0

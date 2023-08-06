@@ -1,0 +1,2 @@
+description=implements equals but with 2 args
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#291 - Private constructor called from anonymous class
+expected_problems=1

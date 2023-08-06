@@ -1,0 +1,2 @@
+description=JUnit Test contains assertEquals with Boxed booleans as param
+expected_problems=0

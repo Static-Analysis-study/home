@@ -1,0 +1,2 @@
+description=#651 Enum type, ok
+expected_problems=0

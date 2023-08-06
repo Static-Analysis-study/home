@@ -1,0 +1,2 @@
+description=Single if, allowed
+expected_problems=0

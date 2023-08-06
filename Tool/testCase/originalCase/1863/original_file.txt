@@ -1,0 +1,2 @@
+description=#937 OptimizableToArrayCall does not catch multilevel method chains
+expected_problems=0

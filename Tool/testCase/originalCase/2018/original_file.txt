@@ -1,0 +1,2 @@
+description=Property typesThatCompareByReference #3110
+expected_problems=0

@@ -1,0 +1,2 @@
+description=OK! Has two different getInstance() in different classes
+expected_problems=0

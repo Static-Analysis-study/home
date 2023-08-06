@@ -1,0 +1,2 @@
+description=#2242 False-positive MisplacedNullCheck reported (2)
+expected_problems=0

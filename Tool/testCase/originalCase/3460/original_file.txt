@@ -1,0 +1,2 @@
+description=Unnecessary abstract on annotation element
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Clone and finalize overridden #1718
+expected_problems=6

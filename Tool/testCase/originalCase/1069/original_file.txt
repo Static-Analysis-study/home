@@ -1,0 +1,2 @@
+description=FP with long field access
+expected_problems=0

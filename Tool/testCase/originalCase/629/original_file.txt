@@ -1,0 +1,2 @@
+description=Reproducing bug #1955852: false positives for UnusedPrivateMethod and UnusedLocalField
+expected_problems=0

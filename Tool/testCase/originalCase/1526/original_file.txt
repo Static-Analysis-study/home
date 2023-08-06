@@ -1,0 +1,2 @@
+description=Equals on method result with String argument
+expected_problems=1

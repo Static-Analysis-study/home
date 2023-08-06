@@ -1,0 +1,2 @@
+description=AvoidPrefixingMethodParameters basic test case, only one parameter is prefixed
+expected_problems=1

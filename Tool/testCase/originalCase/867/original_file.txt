@@ -1,0 +1,2 @@
+description=no violation: assign-increment 'for' loop variable inside if
+expected_problems=0

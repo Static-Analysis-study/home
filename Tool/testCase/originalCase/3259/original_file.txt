@@ -1,0 +1,2 @@
+description=10, valid formal parameter
+expected_problems=0

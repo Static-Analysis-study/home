@@ -1,0 +1,2 @@
+description=Extends with implicit import
+expected_problems=1

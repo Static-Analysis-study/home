@@ -1,0 +1,2 @@
+description=Avoid false positives when in ambiguous situation - HierarchyWithSeveralBridges
+expected_problems=0

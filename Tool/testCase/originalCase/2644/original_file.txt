@@ -1,0 +1,2 @@
+description=Return in finally should give error but not in lambda
+expected_problems=1

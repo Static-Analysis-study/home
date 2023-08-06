@@ -1,0 +1,2 @@
+description=instantiating java.io.FileReader
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1505 [java] ConstantsInInterface false negative
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#3160 nonempty static final fields
+expected_problems=1

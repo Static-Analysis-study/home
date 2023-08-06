@@ -1,0 +1,2 @@
+description=#1392 SimplifyStartsWith false-negative
+expected_problems=1

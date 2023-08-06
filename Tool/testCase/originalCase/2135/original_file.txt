@@ -1,0 +1,2 @@
+description=static initializers are OK
+expected_problems=0

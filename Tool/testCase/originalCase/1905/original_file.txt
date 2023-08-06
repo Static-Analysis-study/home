@@ -1,0 +1,2 @@
+description=appending single character string, should fail
+expected_problems=1

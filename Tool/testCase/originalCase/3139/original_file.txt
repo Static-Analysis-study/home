@@ -1,0 +1,2 @@
+description=duplicate wildcard imports
+expected_problems=1

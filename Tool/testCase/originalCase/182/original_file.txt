@@ -1,0 +1,2 @@
+description=ok case with Object
+expected_problems=0

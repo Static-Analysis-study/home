@@ -1,0 +1,2 @@
+description=constructor declares a subclass of RuntimeException
+expected_problems=1

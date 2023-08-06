@@ -1,0 +1,2 @@
+description=#651 Enum type, not ok
+expected_problems=1

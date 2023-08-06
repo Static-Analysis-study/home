@@ -1,0 +1,2 @@
+description=violation: FileItem getString() used
+expected_problems=4

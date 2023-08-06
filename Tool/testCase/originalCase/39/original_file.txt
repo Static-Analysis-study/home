@@ -1,0 +1,2 @@
+description=#991 AvoidSynchronizedAtMethodLevel for static methods - bad case
+expected_problems=1

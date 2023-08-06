@@ -1,0 +1,2 @@
+description=One protected constructor, not required to be final
+expected_problems=0

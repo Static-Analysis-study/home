@@ -1,0 +1,2 @@
+description=static initializer not empty
+expected_problems=0

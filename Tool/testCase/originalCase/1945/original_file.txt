@@ -1,0 +1,2 @@
+description=Fail, BigInteger(10) 1.5 mode
+expected_problems=1

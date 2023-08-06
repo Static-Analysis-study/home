@@ -1,0 +1,2 @@
+description=Qualified this in a Nested Class
+expected_problems=0

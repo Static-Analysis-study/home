@@ -1,0 +1,2 @@
+description=#1186 [java] UnnecessaryFullyQualifiedName doesn't detect java.lang FQ names as violations: static members of classes in java.lang
+expected_problems=1

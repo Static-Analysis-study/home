@@ -1,0 +1,2 @@
+description=ok, literal comes first in .compareTo comparison
+expected_problems=0

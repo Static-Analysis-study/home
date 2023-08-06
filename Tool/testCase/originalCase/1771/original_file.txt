@@ -1,0 +1,2 @@
+description=copy involving method invocation on array element is ok
+expected_problems=0

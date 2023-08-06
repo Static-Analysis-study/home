@@ -1,0 +1,2 @@
+description=Java7 binary literals and underscores
+expected_problems=5

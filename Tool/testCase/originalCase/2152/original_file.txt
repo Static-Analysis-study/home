@@ -1,0 +1,2 @@
+description=Bug 1765613, NullPointerException on enum
+expected_problems=0

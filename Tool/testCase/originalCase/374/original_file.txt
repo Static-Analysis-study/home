@@ -1,0 +1,2 @@
+description=#1427 False Positive for Law of Demeter
+expected_problems=0

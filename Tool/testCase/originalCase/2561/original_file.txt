@@ -1,0 +1,2 @@
+description=duplicate literals in annotations
+expected_problems=1

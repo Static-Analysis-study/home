@@ -1,0 +1,2 @@
+description=Extends with fully qualified name
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Returning null instead of collection (List)
+expected_problems=1

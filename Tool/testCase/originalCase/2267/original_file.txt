@@ -1,0 +1,2 @@
+description=initial assignment
+expected_problems=0

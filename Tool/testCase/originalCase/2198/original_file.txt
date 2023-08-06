@@ -1,0 +1,2 @@
+description=calling protected method from constructor
+expected_problems=1

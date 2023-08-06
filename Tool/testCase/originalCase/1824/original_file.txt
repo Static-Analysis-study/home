@@ -1,0 +1,2 @@
+description=String.trim.length is called, assigned to boolean, should have failed
+expected_problems=1

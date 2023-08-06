@@ -1,0 +1,2 @@
+description=import java.lang.String (unused)
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Bean with missing default ctor
+expected_problems=1

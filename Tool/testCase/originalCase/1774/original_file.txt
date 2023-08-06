@@ -1,0 +1,2 @@
+description=adding to array is ok
+expected_problems=0

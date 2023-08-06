@@ -1,0 +1,2 @@
+description=#3160 empty non-final fields
+expected_problems=4

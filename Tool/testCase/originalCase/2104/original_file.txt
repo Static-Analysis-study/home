@@ -1,0 +1,2 @@
+description=ok, no cast
+expected_problems=0

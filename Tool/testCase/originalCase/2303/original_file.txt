@@ -1,0 +1,2 @@
+description=JUnit4: [java] TestClassWithoutTestCases reports wrong classes in a file #3624
+expected_problems=0

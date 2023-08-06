@@ -1,0 +1,2 @@
+description=Test case from bug [1472195] - PositionLiteralsFirstInComparisons gives many .equals false positives
+expected_problems=0

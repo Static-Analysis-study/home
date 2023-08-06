@@ -1,0 +1,2 @@
+description=neg, empty foreach with unused var name
+expected_problems=0

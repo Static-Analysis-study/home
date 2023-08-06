@@ -1,0 +1,2 @@
+description=Default pattern shouldn't match inner classes that are not named test
+expected_problems=2

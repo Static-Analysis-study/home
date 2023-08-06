@@ -1,0 +1,2 @@
+description=CloseResource for closable by default - not ok
+expected_problems=3

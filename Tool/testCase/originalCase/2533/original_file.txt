@@ -1,0 +1,2 @@
+description=#1187 double variable with AvoidDecimalLiteralsInBigDecimalConstructor
+expected_problems=8

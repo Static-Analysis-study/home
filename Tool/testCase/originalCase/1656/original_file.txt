@@ -1,0 +1,2 @@
+description=StringBuilder chains
+expected_problems=2

@@ -1,0 +1,2 @@
+description=Returning proper empty collection
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Five stmts, 5 cases, OK
+expected_problems=0

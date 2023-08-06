@@ -1,0 +1,2 @@
+description=one case, which is not empty
+expected_problems=1

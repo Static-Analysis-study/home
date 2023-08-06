@@ -1,0 +1,2 @@
+description=a compound assignment operator doth a usage make
+expected_problems=0

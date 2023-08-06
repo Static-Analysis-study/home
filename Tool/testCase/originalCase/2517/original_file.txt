@@ -1,0 +1,2 @@
+description=CloseResource with var
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Iterating on multiple iterators should whitelist the loop, refs #784
+expected_problems=0

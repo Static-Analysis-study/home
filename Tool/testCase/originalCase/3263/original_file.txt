@@ -1,0 +1,2 @@
+description=14, valid static import method call
+expected_problems=0

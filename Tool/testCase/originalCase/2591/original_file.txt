@@ -1,0 +1,2 @@
+description=Anonymous privileged action is OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=concatenates a single character &
+expected_problems=1

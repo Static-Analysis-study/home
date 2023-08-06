@@ -1,0 +1,2 @@
+description=field declared of type HashSet
+expected_problems=1

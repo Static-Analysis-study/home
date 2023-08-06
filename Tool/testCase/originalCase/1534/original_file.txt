@@ -1,0 +1,2 @@
+description=False positive with non-String constants
+expected_problems=0

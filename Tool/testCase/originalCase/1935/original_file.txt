@@ -1,0 +1,2 @@
+description=a single octal character
+expected_problems=2

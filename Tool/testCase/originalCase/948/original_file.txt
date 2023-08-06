@@ -1,0 +1,2 @@
+description=#940 False positives with JUnit4TestShouldUseTestAnnotation when JUnit5 is used
+expected_problems=0

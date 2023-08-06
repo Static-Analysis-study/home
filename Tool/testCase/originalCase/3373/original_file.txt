@@ -1,0 +1,2 @@
+description=If else, braces on else, checkSingleIfStmt doesn't apply
+expected_problems=1

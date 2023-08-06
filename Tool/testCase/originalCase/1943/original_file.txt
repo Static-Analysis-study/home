@@ -1,0 +1,2 @@
+description=Pass, BigDecimal(i - 1)
+expected_problems=0

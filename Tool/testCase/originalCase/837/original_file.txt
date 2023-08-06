@@ -1,0 +1,2 @@
+description=#783 [java] GuardLogStatement regression
+expected_problems=0

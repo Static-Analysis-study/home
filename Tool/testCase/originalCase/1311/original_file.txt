@@ -1,0 +1,2 @@
+description=#1403 False positive UnusedPrivateMethod with JAVA8
+expected_problems=0

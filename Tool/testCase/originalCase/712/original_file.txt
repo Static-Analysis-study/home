@@ -1,0 +1,2 @@
+description=outer class has public constructor
+expected_problems=1

@@ -1,0 +1,2 @@
+description=DataflowAnomalyAnalysis: DD false positive for arrays #1251
+expected_problems=0

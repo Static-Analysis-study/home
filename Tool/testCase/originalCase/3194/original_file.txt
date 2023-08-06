@@ -1,0 +1,2 @@
+description=Generics 2
+expected_problems=0

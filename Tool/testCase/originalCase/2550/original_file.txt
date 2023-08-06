@@ -1,0 +1,2 @@
+description=XPath error: An empty sequence is not allowed as the second argument of index-of()
+expected_problems=0

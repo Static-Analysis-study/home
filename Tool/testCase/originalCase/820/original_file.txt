@@ -1,0 +1,2 @@
+description=OK, guard is here - log4j
+expected_problems=0

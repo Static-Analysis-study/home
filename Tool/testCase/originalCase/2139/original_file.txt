@@ -1,0 +1,2 @@
+description=Flag in nested local class
+expected_problems=1

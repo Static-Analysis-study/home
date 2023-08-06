@@ -1,0 +1,2 @@
+description=assignment in if conditional expression
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Only consider Vector and not subclasses
+expected_problems=0

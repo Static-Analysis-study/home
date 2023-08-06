@@ -1,0 +1,2 @@
+description=calling super.finalize
+expected_problems=1

@@ -1,0 +1,2 @@
+description=False positive when assigning to a list/array (see #2207 and #1043)
+expected_problems=0

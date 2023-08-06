@@ -1,0 +1,2 @@
+description=no coupling
+expected_problems=0

@@ -1,0 +1,2 @@
+description=abstract class implements interface
+expected_problems=0

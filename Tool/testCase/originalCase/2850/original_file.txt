@@ -1,0 +1,2 @@
+description=assignment needs to use new
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Boolean.valueOf() with variable is fine
+expected_problems=0

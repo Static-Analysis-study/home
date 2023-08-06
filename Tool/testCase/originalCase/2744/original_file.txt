@@ -1,0 +1,2 @@
+description=ok, equals(Object foo)
+expected_problems=0

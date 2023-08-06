@@ -1,0 +1,2 @@
+description=inner class with unnecessary constructor
+expected_problems=1

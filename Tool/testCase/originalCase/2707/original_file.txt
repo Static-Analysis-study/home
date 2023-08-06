@@ -1,0 +1,2 @@
+description=issue 3304 - rule robustness
+expected_problems=0

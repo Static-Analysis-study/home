@@ -1,0 +1,2 @@
+description=11, Multiple appends in same while, none outside the loop
+expected_problems=2

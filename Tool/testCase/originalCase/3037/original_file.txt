@@ -1,0 +1,2 @@
+description=#1126 False positive with FieldDeclarationsShouldBeAtStartOfClass for static enums
+expected_problems=0

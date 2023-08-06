@@ -1,0 +1,2 @@
+description=JUnit3: test method should be public
+expected_problems=1

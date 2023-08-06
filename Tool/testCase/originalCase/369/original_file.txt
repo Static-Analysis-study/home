@@ -1,0 +1,2 @@
+description=Static methods
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1249 Regression: UnusedPrivateMethod from 5.0.5 to 5.1.2
+expected_problems=0

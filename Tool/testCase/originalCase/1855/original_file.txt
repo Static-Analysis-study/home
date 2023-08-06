@@ -1,0 +1,2 @@
+description=violation: concat to String field in loop
+expected_problems=1

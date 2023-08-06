@@ -1,0 +1,2 @@
+description=inner class has private constructor
+expected_problems=1

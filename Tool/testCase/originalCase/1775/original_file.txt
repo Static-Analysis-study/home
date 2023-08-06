@@ -1,0 +1,2 @@
+description=[java] AvoidArrayLoops false positive on double assignment #1167
+expected_problems=0

@@ -1,0 +1,2 @@
+description=ok, shouldn't catch unused variable
+expected_problems=0

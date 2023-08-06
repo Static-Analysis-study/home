@@ -1,0 +1,2 @@
+description=#3062 CloseResource FP with reassigned stream
+expected_problems=0

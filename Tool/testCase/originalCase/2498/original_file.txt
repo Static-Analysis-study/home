@@ -1,0 +1,2 @@
+description=connection not closed, should have failed - missing import
+expected_problems=1

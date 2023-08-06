@@ -1,0 +1,2 @@
+description=violation: concat to String in for/while loop
+expected_problems=5

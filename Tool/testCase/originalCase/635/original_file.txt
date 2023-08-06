@@ -1,0 +1,2 @@
+description=False positive with try-with-resources #3656
+expected_problems=0

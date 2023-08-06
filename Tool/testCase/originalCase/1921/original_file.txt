@@ -1,0 +1,2 @@
+description=false positive with string as constructor arg in StringBuilder method chain
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1467 UseUtilityClass can't correctly check functions with multiple annotations
+expected_problems=0

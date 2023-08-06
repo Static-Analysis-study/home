@@ -1,0 +1,2 @@
+description=If chain, checkSingleIfStmt doesn't apply (even on last branch)
+expected_problems=2

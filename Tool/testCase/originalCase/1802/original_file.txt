@@ -1,0 +1,2 @@
+description=new Integer(), bad
+expected_problems=1

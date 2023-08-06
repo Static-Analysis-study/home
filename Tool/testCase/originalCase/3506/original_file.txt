@@ -1,0 +1,2 @@
+description=#536 Enum constructor with implicit private modifier should not trigger
+expected_problems=0

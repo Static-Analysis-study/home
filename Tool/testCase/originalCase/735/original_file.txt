@@ -1,0 +1,2 @@
+description=do not allow private methods
+expected_problems=2

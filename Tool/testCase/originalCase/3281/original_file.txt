@@ -1,0 +1,2 @@
+description=#1186 [java] UnnecessaryFullyQualifiedName doesn't detect java.lang FQ names as violations: with import
+expected_problems=1

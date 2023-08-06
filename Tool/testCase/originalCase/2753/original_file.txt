@@ -1,0 +1,2 @@
+description=bug 1626232, extra loggers with different names are not allowed by default (use NOPMD if you want them)
+expected_problems=1

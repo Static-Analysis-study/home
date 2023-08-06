@@ -1,0 +1,2 @@
+description=Reuse variable name as params in method calls
+expected_problems=1

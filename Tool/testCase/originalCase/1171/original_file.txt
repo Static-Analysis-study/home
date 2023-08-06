@@ -1,0 +1,2 @@
+description=Empty enum with classpath #2007
+expected_problems=0

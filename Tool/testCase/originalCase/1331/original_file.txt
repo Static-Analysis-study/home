@@ -1,0 +1,2 @@
+description=inner class accesses private method of outer class, qualified
+expected_problems=1

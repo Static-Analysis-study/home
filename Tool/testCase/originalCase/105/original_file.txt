@@ -1,0 +1,2 @@
+description=Don't skip other methods
+expected_problems=1

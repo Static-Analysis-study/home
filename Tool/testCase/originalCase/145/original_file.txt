@@ -1,0 +1,2 @@
+description=do something else before throwing a new instance of the same exception, ok
+expected_problems=0

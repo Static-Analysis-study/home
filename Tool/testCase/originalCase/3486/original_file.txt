@@ -1,0 +1,2 @@
+description=Private constructor of enum
+expected_problems=1

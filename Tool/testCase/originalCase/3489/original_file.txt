@@ -1,0 +1,2 @@
+description=Static is not necessary for record declaration in class
+expected_problems=1

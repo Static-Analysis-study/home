@@ -1,0 +1,2 @@
+description=Bad Session suffix
+expected_problems=1

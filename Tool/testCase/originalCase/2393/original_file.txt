@@ -1,0 +1,2 @@
+description=just skip empty switch
+expected_problems=0

@@ -1,0 +1,2 @@
+description=DU Anomaly #1107
+expected_problems=0

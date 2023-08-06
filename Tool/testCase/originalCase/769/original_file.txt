@@ -1,0 +1,2 @@
+description=Interface with array declaration
+expected_problems=0

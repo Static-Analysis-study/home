@@ -1,0 +1,2 @@
+description=ok, uses a two arg constructor
+expected_problems=0

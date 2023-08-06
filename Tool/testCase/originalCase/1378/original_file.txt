@@ -1,0 +1,2 @@
+description=Use assert equals: Not a JUnit test
+expected_problems=0

@@ -1,0 +1,2 @@
+description=With records and size check
+expected_problems=1

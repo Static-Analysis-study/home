@@ -1,0 +1,2 @@
+description=inner ok due to nonpublic constructor
+expected_problems=0

@@ -1,0 +1,2 @@
+description=7, Consecutive appends in different blocks, should be ok
+expected_problems=0

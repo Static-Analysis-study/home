@@ -1,0 +1,2 @@
+description=#2441 can not detect a case char c = '\0';
+expected_problems=1

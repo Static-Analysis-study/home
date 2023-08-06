@@ -1,0 +1,2 @@
+description=qualified instance variable same name as parameter
+expected_problems=0

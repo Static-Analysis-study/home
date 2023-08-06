@@ -1,0 +1,2 @@
+description=equality expression, not assignment
+expected_problems=0

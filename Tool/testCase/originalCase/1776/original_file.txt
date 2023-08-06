@@ -1,0 +1,2 @@
+description=Nested array on RHS
+expected_problems=0

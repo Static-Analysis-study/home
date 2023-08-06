@@ -1,0 +1,2 @@
+description=anonymous class in private constructor false-negative test
+expected_problems=1

@@ -1,0 +1,2 @@
+description=no violation: various concats in loop which do not aggregate
+expected_problems=0

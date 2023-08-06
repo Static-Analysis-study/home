@@ -1,0 +1,2 @@
+description=NPE when trying to find method name of method call
+expected_problems=0

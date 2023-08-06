@@ -1,0 +1,2 @@
+description=#1306 False positive on duplicate when using static imports
+expected_problems=0

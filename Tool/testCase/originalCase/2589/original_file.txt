@@ -1,0 +1,2 @@
+description=Detect calls to setAccessible
+expected_problems=9

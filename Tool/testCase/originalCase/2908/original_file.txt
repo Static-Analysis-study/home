@@ -1,0 +1,2 @@
+description=Ignore classes with lombok-generated constructors (Required)
+expected_problems=0

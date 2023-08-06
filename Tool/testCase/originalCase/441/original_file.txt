@@ -1,0 +1,2 @@
+description=Volatile variables can't be final
+expected_problems=0

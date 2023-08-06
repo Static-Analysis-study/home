@@ -1,0 +1,2 @@
+description=Use assert equals: positive test 3
+expected_problems=1

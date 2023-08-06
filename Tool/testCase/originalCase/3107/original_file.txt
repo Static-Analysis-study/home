@@ -1,0 +1,2 @@
+description=Necessary Map Cast (nested generics) false-positive
+expected_problems=0

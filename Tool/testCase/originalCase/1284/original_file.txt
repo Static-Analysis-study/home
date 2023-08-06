@@ -1,0 +1,2 @@
+description=#1223 UnusedPrivateMethod: Java 8 method reference causing false positives
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Rule Doc Example
+expected_problems=2

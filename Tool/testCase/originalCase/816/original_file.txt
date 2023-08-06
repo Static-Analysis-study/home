@@ -1,0 +1,2 @@
+description=Iterating on this object NPE, refs #800
+expected_problems=0

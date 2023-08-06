@@ -1,0 +1,2 @@
+description=KO, missing guard 2 - log4j
+expected_problems=1

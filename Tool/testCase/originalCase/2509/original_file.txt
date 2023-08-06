@@ -1,0 +1,2 @@
+description=#1076 [java] CloseResource false positive on non-SQL classes called Statement
+expected_problems=0

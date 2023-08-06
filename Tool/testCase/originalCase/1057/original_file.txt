@@ -1,0 +1,2 @@
+description=Field initializers 0
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Unnecessary public on annotation field
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#275 - False positive in @interface
+expected_problems=0

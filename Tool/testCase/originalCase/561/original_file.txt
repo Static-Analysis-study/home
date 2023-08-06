@@ -1,0 +1,2 @@
+description=#1221 OneDeclarationPerLine really checks for one declaration each statement
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Consider constructors, refs #825
+expected_problems=1

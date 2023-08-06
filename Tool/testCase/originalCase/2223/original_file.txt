@@ -1,0 +1,2 @@
+description=[java] ConstructorCallsOverridableMethod occurs when unused overloaded method is defined #2348
+expected_problems=0

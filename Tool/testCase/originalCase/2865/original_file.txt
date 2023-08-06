@@ -1,0 +1,2 @@
+description=#432 empty try-with-resource - ok with unused var name
+expected_problems=0

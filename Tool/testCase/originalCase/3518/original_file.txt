@@ -1,0 +1,2 @@
+description=Method Prefix can
+expected_problems=1

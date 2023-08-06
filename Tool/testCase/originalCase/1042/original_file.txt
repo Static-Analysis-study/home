@@ -1,0 +1,2 @@
+description=Try with resources: resources should be used
+expected_problems=0

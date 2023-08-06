@@ -1,0 +1,2 @@
+description=OK in interface field inside another interface
+expected_problems=0

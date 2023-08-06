@@ -1,0 +1,2 @@
+description=#3491 False positive for UselessStringValueOf when valueOf(char [], int, int) is used
+expected_problems=0

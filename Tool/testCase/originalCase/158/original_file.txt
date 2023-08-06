@@ -1,0 +1,2 @@
+description=bad, variable had been reassigned with NullPointerException before thrown
+expected_problems=1

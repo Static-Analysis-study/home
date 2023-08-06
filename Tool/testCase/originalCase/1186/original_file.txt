@@ -1,0 +1,2 @@
+description=#1230 UseCollectionIsEmpty gets false positives
+expected_problems=4

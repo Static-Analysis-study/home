@@ -1,0 +1,2 @@
+description=#310 UnnecessaryLocalBeforeReturn enhancement is overly restrictive -- method order matters
+expected_problems=0

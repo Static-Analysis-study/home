@@ -1,0 +1,2 @@
+description=Simple Method call on local created object within nesting local scopes
+expected_problems=0

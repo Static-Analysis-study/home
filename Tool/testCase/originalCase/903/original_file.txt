@@ -1,0 +1,2 @@
+description=Public and protected modifiers on all JUnit5 test types should be rejected
+expected_problems=5

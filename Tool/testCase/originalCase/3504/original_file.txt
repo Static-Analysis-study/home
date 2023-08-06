@@ -1,0 +1,2 @@
+description=#1430 CommentDefaultAccessModifier triggers on field annotated with @VisibleForTesting 2
+expected_problems=0

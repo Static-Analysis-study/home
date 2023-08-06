@@ -1,0 +1,2 @@
+description=NullPointerException if type of method parameter is not known
+expected_problems=1

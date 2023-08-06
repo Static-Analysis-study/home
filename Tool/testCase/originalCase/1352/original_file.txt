@@ -1,0 +1,2 @@
+description=UseAssertNullInsteadOfAssertTrue: assertTrue with x == y
+expected_problems=1

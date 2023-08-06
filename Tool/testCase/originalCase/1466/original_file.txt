@@ -1,0 +1,2 @@
+description=don't catch public fields
+expected_problems=0

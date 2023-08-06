@@ -1,0 +1,2 @@
+description=Avoid clone false-positive
+expected_problems=0

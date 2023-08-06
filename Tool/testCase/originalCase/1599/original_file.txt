@@ -1,0 +1,2 @@
+description=#1051 ConsecutiveAppendsShouldReuse not detect on parameter
+expected_problems=2

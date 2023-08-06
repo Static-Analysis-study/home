@@ -1,0 +1,3 @@
+description=one break, but two cases + one default case. But there is an intentional fall through -
+because there are no statemenets between case 1 and case 2.
+expected_problems=0

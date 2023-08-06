@@ -1,0 +1,2 @@
+description=bad, numeric literal used as a method parameter without '_'
+expected_problems=1

@@ -1,0 +1,2 @@
+description=local used in anonymous inner class
+expected_problems=0

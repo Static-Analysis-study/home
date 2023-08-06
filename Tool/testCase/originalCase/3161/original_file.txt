@@ -1,0 +1,2 @@
+description=(J8) Version sensitive tests - known false negatives on Java8+
+expected_problems=2

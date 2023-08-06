@@ -1,0 +1,2 @@
+description=this.foo++ shouldn't throw an NPE, but isn't a usage
+expected_problems=1

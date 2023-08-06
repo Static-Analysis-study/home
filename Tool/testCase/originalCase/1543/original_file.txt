@@ -1,0 +1,2 @@
+description=#959 StringToString False Positive
+expected_problems=0

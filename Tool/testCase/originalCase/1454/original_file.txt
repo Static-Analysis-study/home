@@ -1,0 +1,2 @@
+description=field is used semantically before it's declared syntactically
+expected_problems=0

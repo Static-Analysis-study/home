@@ -1,0 +1,2 @@
+description=Correctly determine the type with method calls
+expected_problems=2

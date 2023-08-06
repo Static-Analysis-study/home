@@ -1,0 +1,2 @@
+description=Allowed in anonymous classes
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Verify with nested (local) classes
+expected_problems=3

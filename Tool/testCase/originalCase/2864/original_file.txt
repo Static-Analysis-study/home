@@ -1,0 +1,2 @@
+description=#432 empty try-with-resource - not ok
+expected_problems=1

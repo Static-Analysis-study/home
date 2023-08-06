@@ -1,0 +1,2 @@
+description=Unnecessary casts with iterator
+expected_problems=2

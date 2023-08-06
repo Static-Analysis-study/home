@@ -1,0 +1,2 @@
+description=no violation: accessing array elements or fields of the loop variable
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Hard coded inline cryptographic key, bad
+expected_problems=1

@@ -1,0 +1,2 @@
+description=JUnit 4 - assertFalse(!)
+expected_problems=1

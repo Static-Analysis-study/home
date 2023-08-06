@@ -1,0 +1,2 @@
+description=non-static is bad
+expected_problems=1

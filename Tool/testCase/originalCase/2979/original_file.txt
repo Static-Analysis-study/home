@@ -1,0 +1,2 @@
+description=One character for loop variables should be ok by default
+expected_problems=0

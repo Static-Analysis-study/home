@@ -1,0 +1,2 @@
+description=ok, different intervening statements
+expected_problems=0

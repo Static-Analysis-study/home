@@ -1,0 +1,2 @@
+description=Preferred usage (sf #1454)
+expected_problems=0

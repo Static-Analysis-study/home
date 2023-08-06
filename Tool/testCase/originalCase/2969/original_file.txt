@@ -1,0 +1,2 @@
+description=ShortClassName basic test case 2 : More code and other declarations
+expected_problems=0

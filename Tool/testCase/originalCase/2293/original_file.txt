@@ -1,0 +1,2 @@
+description=JUnit3: test method in inner class not valid
+expected_problems=1

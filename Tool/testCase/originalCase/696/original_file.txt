@@ -1,0 +1,2 @@
+description=#330 Rule treats AllocationExpression correctly
+expected_problems=1

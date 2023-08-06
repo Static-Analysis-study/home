@@ -1,0 +1,2 @@
+description=#285 Follow-up for @org.junit.Rule
+expected_problems=0

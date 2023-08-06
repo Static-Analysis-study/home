@@ -1,0 +1,2 @@
+description=[java] InvalidLogMessageFormat rule produces a NPE #4185
+expected_problems=0

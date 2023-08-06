@@ -1,0 +1,2 @@
+description=Nonnull empty array
+expected_problems=0

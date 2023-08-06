@@ -1,0 +1,2 @@
+description=FP with anonymous classes on the way
+expected_problems=0

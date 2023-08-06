@@ -1,0 +1,2 @@
+description=#1624[java] UseDiamondOperator doesn't work with var
+expected_problems=1

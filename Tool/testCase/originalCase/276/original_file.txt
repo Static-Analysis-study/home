@@ -1,0 +1,2 @@
+description=Lombok NoArgsConstructor no import- ok
+expected_problems=0

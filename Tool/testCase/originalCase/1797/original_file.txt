@@ -1,0 +1,2 @@
+description=short as method parameter
+expected_problems=1

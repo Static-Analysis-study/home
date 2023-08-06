@@ -1,0 +1,2 @@
+description=inner class accesses private field from outer class unqualified
+expected_problems=1

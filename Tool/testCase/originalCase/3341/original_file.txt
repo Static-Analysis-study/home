@@ -1,0 +1,2 @@
+description=#933 UnnecessaryLocalBeforeReturn false positive for SuppressWarnings annotation
+expected_problems=0

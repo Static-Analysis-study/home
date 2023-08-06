@@ -1,0 +1,2 @@
+description=Test for failure after rule with custom Boolean, should report failure if rule reset done correctly
+expected_problems=1

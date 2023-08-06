@@ -1,0 +1,2 @@
+description=2, bad
+expected_problems=1

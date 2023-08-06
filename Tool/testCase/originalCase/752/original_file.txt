@@ -1,0 +1,2 @@
+description=The rule should also detect parameter reassignment in constructors (at least to help young programmers still learning java basic)
+expected_problems=2

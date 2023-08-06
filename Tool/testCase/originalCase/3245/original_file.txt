@@ -1,0 +1,2 @@
+description=import java.lang.invoke.MethodHandles: #339 false DontImportJavaLang
+expected_problems=0

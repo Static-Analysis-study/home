@@ -1,0 +1,2 @@
+description=multiple catch blocks with finally
+expected_problems=1

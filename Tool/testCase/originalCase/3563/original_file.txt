@@ -1,0 +1,2 @@
+description=interface field are always public
+expected_problems=0

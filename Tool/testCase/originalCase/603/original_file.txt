@@ -1,0 +1,2 @@
+description=#2025 False Positive in UnusedImports for params when using @link with FQCN
+expected_problems=0

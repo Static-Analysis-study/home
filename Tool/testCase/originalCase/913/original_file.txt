@@ -1,0 +1,2 @@
+description=9, Excetion is cast, OK
+expected_problems=0

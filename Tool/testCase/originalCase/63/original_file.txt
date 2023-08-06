@@ -1,0 +1,2 @@
+description=NumberFormatters should be detected
+expected_problems=1

@@ -1,0 +1,2 @@
+description=ok with local var
+expected_problems=0

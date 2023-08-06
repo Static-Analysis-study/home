@@ -1,0 +1,2 @@
+description=public method clone
+expected_problems=0

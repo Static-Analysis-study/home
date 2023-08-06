@@ -1,0 +1,2 @@
+description=#2543 false negative on this.collection.size
+expected_problems=1

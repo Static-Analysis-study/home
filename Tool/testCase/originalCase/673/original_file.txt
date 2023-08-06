@@ -1,0 +1,2 @@
+description=Issue #1009: JUnitAssertionsShouldIncludeMessage - False positive with assertEquals and JUnit5
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Uses propper suite
+expected_problems=0

@@ -1,0 +1,2 @@
+description=all is well in interface method
+expected_problems=0

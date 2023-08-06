@@ -1,0 +1,2 @@
+description=JMS Connections without auxclasspath
+expected_problems=1

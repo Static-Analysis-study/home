@@ -1,0 +1,2 @@
+description=empty concise try-with-resource - not ok
+expected_problems=1

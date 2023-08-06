@@ -1,0 +1,2 @@
+description=#1703 UnusedPrivateField: False-positive with @Delegate
+expected_problems=0

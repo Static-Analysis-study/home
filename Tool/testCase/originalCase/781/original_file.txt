@@ -1,0 +1,2 @@
+description=Inner annotation
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Unnecessary final of enum method
+expected_problems=1

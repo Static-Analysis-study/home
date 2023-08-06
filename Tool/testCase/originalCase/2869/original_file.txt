@@ -1,0 +1,2 @@
+description=pos, empty switch stmt
+expected_problems=1

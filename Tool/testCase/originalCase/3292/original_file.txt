@@ -1,0 +1,2 @@
+description=False positive when subpackage is referenced
+expected_problems=1

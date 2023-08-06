@@ -1,0 +1,2 @@
+description=exception list and separator properties
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Do not report iterator loop if we can't find iterator decl
+expected_problems=0

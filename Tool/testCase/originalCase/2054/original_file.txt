@@ -1,0 +1,2 @@
+description=ok, no instanceof
+expected_problems=0

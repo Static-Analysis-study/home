@@ -1,0 +1,2 @@
+description=assertEquals bad, without import
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1547 False Positve UnusedImports with javadoc for identifiers with underscores
+expected_problems=0

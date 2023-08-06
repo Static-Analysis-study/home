@@ -1,0 +1,2 @@
+description=Make sure, overriding to add synchronized is Ok, see sf-bug #423
+expected_problems=0

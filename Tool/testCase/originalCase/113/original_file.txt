@@ -1,0 +1,2 @@
+description=#913 SignatureDeclareThrowsException is raised twice
+expected_problems=1

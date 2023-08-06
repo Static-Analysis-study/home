@@ -1,0 +1,2 @@
+description=String.trim().isEmpty() is called after a chain call, should have failed twice
+expected_problems=2

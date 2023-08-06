@@ -1,0 +1,2 @@
+description=readResolve/writeReplace/etc are OK
+expected_problems=0

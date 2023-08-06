@@ -1,0 +1,2 @@
+description=This reference leak with super call #2668
+expected_problems=1

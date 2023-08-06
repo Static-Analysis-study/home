@@ -1,0 +1,2 @@
+description=#1227 GuardLogStatementJavaUtil doesn't catch log(Level.FINE, "msg" + " msg") calls
+expected_problems=1

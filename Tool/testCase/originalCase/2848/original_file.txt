@@ -1,0 +1,2 @@
+description=case with two initializers
+expected_problems=2

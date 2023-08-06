@@ -1,0 +1,2 @@
+description=More tests with expressions (see #2150)
+expected_problems=8

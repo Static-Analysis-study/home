@@ -1,0 +1,2 @@
+description=Final is allowed in interface default method
+expected_problems=0

@@ -1,0 +1,2 @@
+description=for loop with only initializer
+expected_problems=1

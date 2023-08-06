@@ -1,0 +1,2 @@
+description=#1011 CloseResource Rule ignores Constructors - not a problem - instance variable
+expected_problems=0

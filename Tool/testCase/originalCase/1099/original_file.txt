@@ -1,0 +1,2 @@
+description=DU false positive in DataflowAnomalyAnalysis #1606
+expected_problems=0

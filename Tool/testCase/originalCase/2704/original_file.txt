@@ -1,0 +1,2 @@
+description=https://github.com/pmd/pmd/pull/42: Add SLF4j Logger type: Two Loggers
+expected_problems=1

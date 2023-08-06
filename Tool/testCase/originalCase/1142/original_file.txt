@@ -1,0 +1,2 @@
+description=bad, literal comes last
+expected_problems=1

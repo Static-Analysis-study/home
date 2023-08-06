@@ -1,0 +1,2 @@
+description=Overriding of method from interface needs @Override, even if it's a protected Object method
+expected_problems=1

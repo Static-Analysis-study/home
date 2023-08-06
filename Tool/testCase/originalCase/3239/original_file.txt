@@ -1,0 +1,2 @@
+description=import java.lang.*
+expected_problems=1

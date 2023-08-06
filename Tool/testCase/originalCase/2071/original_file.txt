@@ -1,0 +1,2 @@
+description=Using a shorter expression with the same variable in the second check should not crash the test
+expected_problems=0

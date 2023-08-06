@@ -1,0 +1,2 @@
+description=Single Element in Method Annotation
+expected_problems=0

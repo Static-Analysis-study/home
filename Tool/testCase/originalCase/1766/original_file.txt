@@ -1,0 +1,2 @@
+description=copy index into array
+expected_problems=0

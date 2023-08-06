@@ -1,0 +1,2 @@
+description=BAD, 06 if strict is set
+expected_problems=1

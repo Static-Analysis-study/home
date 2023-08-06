@@ -1,0 +1,2 @@
+description=This reference leak with explicit this ctor #2668
+expected_problems=0

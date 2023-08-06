@@ -1,0 +1,2 @@
+description=reference self inside for loop
+expected_problems=2

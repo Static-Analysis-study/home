@@ -1,0 +1,2 @@
+description=#432 false positive for empty try-with-resource
+expected_problems=0

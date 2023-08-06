@@ -1,0 +1,2 @@
+description=#1029 No instance level check in the close resource rule
+expected_problems=0

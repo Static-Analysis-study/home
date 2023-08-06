@@ -1,0 +1,2 @@
+description=Static Java imports are OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1480 false positive on public modifier used with inner interface in enum
+expected_problems=0

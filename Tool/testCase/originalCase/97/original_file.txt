@@ -1,0 +1,2 @@
+description=[java] ClassWithOnlyPrivateConstructorsShouldBeFinal false positive with Lombok's @NoArgsConstructor #4188
+expected_problems=7

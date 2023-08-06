@@ -1,0 +1,2 @@
+description=Similar method calls with different arguments are OK
+expected_problems=0

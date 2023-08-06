@@ -1,0 +1,2 @@
+description=Trigger on Varargs
+expected_problems=1

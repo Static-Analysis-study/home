@@ -1,0 +1,2 @@
+description=ok, concrete class named AbstractFoo
+expected_problems=0

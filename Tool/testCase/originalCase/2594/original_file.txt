@@ -1,0 +1,2 @@
+description=setAccessible(false) is ok
+expected_problems=0

@@ -1,0 +1,2 @@
+description=XPath problem: A sequence of more than one item is not allowed as the first argument of concat()
+expected_problems=0

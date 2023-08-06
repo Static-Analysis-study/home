@@ -1,0 +1,2 @@
+description=protected method in final inner class that extends something is ok
+expected_problems=0

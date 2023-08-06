@@ -1,0 +1,2 @@
+description=#1552  MissingBreakInSwitch - False positive for continue
+expected_problems=0

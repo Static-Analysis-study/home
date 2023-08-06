@@ -1,0 +1,2 @@
+description=new Float(), bad
+expected_problems=1

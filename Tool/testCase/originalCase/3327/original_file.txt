@@ -1,0 +1,2 @@
+description=Test class (TestNG) #2867
+expected_problems=1

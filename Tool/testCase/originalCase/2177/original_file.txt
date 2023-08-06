@@ -1,0 +1,2 @@
+description=public method clone with Object as return type
+expected_problems=1

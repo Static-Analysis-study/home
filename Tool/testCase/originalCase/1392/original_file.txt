@@ -1,0 +1,2 @@
+description=Non String literal does not puke.
+expected_problems=0

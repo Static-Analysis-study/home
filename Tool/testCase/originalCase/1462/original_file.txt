@@ -1,0 +1,2 @@
+description=unused private field after class decl
+expected_problems=1

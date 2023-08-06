@@ -1,0 +1,2 @@
+description=ok since return is in sub block
+expected_problems=0

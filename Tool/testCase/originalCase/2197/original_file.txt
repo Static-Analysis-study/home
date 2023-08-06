@@ -1,0 +1,2 @@
+description=calling public method from constructor
+expected_problems=1

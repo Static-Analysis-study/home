@@ -1,0 +1,2 @@
+description=don't use Boolean.valueOf() with literal
+expected_problems=2

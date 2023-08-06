@@ -1,0 +1,2 @@
+description=adding final is OK
+expected_problems=0

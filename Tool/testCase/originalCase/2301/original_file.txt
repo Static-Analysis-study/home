@@ -1,0 +1,2 @@
+description=JUnit5: #428 [java] PMD requires public modifier on JUnit 5 test
+expected_problems=0

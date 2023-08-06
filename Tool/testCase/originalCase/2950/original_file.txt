@@ -1,0 +1,2 @@
+description=#1343 MethodNamingConventions for overridden methods
+expected_problems=0

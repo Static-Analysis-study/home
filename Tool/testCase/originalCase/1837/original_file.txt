@@ -1,0 +1,2 @@
+description=concat inside method call
+expected_problems=0

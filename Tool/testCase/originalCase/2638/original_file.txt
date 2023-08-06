@@ -1,0 +1,2 @@
+description=throw exception but return from finally
+expected_problems=1

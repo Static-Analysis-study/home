@@ -1,0 +1,2 @@
+description=FP on binary operator
+expected_problems=0

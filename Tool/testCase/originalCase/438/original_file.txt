@@ -1,0 +1,2 @@
+description=Assignment in constructor in loop is ok
+expected_problems=0

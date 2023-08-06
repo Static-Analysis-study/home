@@ -1,0 +1,2 @@
+description=ok, Numeric Literal in hexadecimal
+expected_problems=0

@@ -1,0 +1,2 @@
+description=5, creating a new StringBuffer
+expected_problems=0

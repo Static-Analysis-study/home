@@ -1,0 +1,2 @@
+description=StringBuffer.toString.equals(""), bad
+expected_problems=2

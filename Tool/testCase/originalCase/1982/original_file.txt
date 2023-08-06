@@ -1,0 +1,2 @@
+description=Key fetched from a property, good
+expected_problems=0

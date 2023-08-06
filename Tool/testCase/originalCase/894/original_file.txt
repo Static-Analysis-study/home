@@ -1,0 +1,2 @@
+description=Consider also default methods in interface
+expected_problems=1

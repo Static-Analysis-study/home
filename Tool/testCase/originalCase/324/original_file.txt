@@ -1,0 +1,2 @@
+description=#1320 Enhance SimplifyBooleanReturns checks - case 2 without block
+expected_problems=1

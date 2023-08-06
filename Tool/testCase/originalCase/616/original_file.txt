@@ -1,0 +1,2 @@
+description=two unused locals of same name, one in nested class
+expected_problems=2

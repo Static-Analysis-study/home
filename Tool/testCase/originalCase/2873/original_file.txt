@@ -1,0 +1,2 @@
+description=empty initializer failure case (non static)
+expected_problems=1

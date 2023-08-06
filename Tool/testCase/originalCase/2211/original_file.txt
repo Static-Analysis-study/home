@@ -1,0 +1,2 @@
+description=bug #1127 False positive: Constructor Calls Overridable Method
+expected_problems=0

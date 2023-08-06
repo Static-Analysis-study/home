@@ -1,0 +1,2 @@
+description=null check before nested method invocation
+expected_problems=0

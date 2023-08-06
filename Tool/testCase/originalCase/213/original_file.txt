@@ -1,0 +1,2 @@
+description=#3006 [java] NPE in SingularFieldRule with concise resource syntax (disallowNotAssignment)
+expected_problems=0

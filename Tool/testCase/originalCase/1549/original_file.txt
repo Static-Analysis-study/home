@@ -1,0 +1,2 @@
+description=external class as a method parameter
+expected_problems=1

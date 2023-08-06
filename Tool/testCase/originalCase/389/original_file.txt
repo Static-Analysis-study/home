@@ -1,0 +1,2 @@
+description=outer class, inner interface, both OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Boolean fields/methods false positive
+expected_problems=0

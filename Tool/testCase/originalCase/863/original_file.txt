@@ -1,0 +1,2 @@
+description=violation: add to 'for' loop variable
+expected_problems=1

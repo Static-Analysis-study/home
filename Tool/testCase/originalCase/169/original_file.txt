@@ -1,0 +1,2 @@
+description=Switch expressions (#2625)
+expected_problems=0

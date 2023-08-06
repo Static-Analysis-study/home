@@ -1,0 +1,2 @@
+description=27, Switch statement doesn't exceed 16 characters
+expected_problems=0

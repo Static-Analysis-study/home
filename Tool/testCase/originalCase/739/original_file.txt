@@ -1,0 +1,2 @@
+description=[java] ArrayIsStoredDirectly false positive with field access #1185
+expected_problems=0

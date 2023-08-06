@@ -1,0 +1,2 @@
+description=assertArrayEquals ok
+expected_problems=0

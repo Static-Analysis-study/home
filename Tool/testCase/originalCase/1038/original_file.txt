@@ -1,0 +1,2 @@
+description=Another case
+expected_problems=2

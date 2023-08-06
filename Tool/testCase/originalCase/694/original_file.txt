@@ -1,0 +1,2 @@
+description=#285 Issues with @Rule annotation and ExpectedException
+expected_problems=1

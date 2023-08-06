@@ -1,0 +1,2 @@
+description=super.finalize in constructor false-negative test
+expected_problems=1

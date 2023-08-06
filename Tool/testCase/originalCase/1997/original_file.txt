@@ -1,0 +1,2 @@
+description=missed hit - qualified names.  that's ok, we can't resolve the types yet, so better to skip this for now
+expected_problems=0

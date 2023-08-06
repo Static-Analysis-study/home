@@ -1,0 +1,2 @@
+description=NullPointerException applying rule GuardLogStatement (#3340)
+expected_problems=0

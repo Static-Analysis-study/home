@@ -1,0 +1,2 @@
+description=charAt return char - that's ok
+expected_problems=0

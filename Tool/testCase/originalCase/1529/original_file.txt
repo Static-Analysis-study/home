@@ -1,0 +1,2 @@
+description=#575 LiteralsFirstInComparisons must not trigger if the field is not static
+expected_problems=0

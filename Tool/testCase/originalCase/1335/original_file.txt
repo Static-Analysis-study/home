@@ -1,0 +1,2 @@
+description=#808 - [java] AccessorMethodGeneration false positives with compile time constants
+expected_problems=4

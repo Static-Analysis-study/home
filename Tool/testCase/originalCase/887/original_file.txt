@@ -1,0 +1,2 @@
+description=violation: various conditional reassignments of 'for' loop variable, skip allowed
+expected_problems=4

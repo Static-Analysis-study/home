@@ -1,0 +1,2 @@
+description=bug #254 False+ : UnusedImport with Javadoc @link
+expected_problems=0

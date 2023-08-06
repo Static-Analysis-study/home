@@ -1,0 +1,2 @@
+description=repackage cause as an instance of the same exception, failure
+expected_problems=1

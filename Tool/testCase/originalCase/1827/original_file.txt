@@ -1,0 +1,2 @@
+description=Compares the length against a mathematical function
+expected_problems=0

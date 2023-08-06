@@ -1,0 +1,2 @@
+description=protected method in final inner class that does not extend something is bad
+expected_problems=1

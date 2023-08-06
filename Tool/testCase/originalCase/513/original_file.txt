@@ -1,0 +1,2 @@
+description=Includes bad words
+expected_problems=2

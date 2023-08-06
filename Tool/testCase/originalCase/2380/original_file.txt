@@ -1,0 +1,2 @@
+description=variable named enum
+expected_problems=1

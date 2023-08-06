@@ -1,0 +1,2 @@
+description=empty test class identified by special testClassPattern with nested classes
+expected_problems=2

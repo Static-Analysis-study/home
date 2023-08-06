@@ -1,0 +1,2 @@
+description=Should only look at toString's of Arrays
+expected_problems=0

@@ -1,0 +1,2 @@
+description=False negative with anon classes (2)
+expected_problems=2

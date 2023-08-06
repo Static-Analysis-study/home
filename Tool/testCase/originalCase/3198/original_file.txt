@@ -1,0 +1,2 @@
+description=import from default package from somewhere else
+expected_problems=0

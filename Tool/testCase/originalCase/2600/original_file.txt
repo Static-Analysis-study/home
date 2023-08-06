@@ -1,0 +1,2 @@
+description=#1393 PMD hanging during DataflowAnomalyAnalysis
+expected_problems=3

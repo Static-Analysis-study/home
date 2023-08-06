@@ -1,0 +1,2 @@
+description=#3560 [java] InvalidLogMessageFormat: False positive with message and exception in a block inside a lambda
+expected_problems=0

@@ -1,0 +1,2 @@
+description=new Double(), bad
+expected_problems=1

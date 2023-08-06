@@ -1,0 +1,2 @@
+description=[java] UnusedAssignment false positive when reporting unused variables #3114
+expected_problems=0

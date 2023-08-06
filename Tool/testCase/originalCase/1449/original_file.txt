@@ -1,0 +1,2 @@
+description=clear rule violation (from AvoidConstantsInInterface)
+expected_problems=2

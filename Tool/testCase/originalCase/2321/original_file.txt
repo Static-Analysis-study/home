@@ -1,0 +1,2 @@
+description=hash code only
+expected_problems=1

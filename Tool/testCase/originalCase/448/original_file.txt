@@ -1,0 +1,2 @@
+description=#410 [java] ImmutableField: False positive with lombok
+expected_problems=0

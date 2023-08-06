@@ -1,0 +1,2 @@
+description=skip any method starting with 'test'
+expected_problems=0

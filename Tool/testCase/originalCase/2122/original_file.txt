@@ -1,0 +1,2 @@
+description=multiple catch blocks
+expected_problems=2

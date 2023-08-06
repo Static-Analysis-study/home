@@ -1,0 +1,2 @@
+description=Returning null array
+expected_problems=1

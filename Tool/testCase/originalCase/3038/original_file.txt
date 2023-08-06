@@ -1,0 +1,2 @@
+description=#1126 Do not ignore enums
+expected_problems=3

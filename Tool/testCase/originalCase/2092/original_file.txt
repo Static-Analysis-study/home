@@ -1,0 +1,2 @@
+description=should catch param to constructor
+expected_problems=1

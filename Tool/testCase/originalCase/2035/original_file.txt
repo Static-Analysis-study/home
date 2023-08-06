@@ -1,0 +1,2 @@
+description=annotated methods are ignored
+expected_problems=0

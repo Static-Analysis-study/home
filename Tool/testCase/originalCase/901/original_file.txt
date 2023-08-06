@@ -1,0 +1,2 @@
+description=Public modifier is allowed on an abstract test classes
+expected_problems=0

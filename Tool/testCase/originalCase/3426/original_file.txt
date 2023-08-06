@@ -1,0 +1,2 @@
+description=Good SessionBean name
+expected_problems=0

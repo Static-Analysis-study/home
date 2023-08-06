@@ -1,0 +1,2 @@
+description=Class with static initializer alone should not be a utility class
+expected_problems=0

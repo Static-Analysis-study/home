@@ -1,0 +1,2 @@
+description=inherited abstract case
+expected_problems=1

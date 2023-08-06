@@ -1,0 +1,2 @@
+description=#1435 Treat AssertJ soft assertion rule for JUnit 4 as assert expressions
+expected_problems=0

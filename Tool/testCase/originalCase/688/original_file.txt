@@ -1,0 +1,2 @@
+description=exceptions shouldn't block it
+expected_problems=1

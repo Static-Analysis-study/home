@@ -1,0 +1,2 @@
+description=ok, nested class
+expected_problems=0

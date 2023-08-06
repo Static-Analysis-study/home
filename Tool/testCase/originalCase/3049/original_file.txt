@@ -1,0 +1,2 @@
+description=don't flag classes w/o extends
+expected_problems=0

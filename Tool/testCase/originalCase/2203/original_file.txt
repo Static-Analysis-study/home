@@ -1,0 +1,2 @@
+description=method in anonymous inner class is ok
+expected_problems=0

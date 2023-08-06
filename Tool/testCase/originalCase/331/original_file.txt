@@ -1,0 +1,2 @@
+description=non-public methods should not have findings
+expected_problems=0

@@ -1,0 +1,2 @@
+description=method, do not varargs as the signature is dictated by an interface
+expected_problems=0

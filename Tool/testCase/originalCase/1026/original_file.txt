@@ -1,0 +1,2 @@
+description=Switch fallthrough 2
+expected_problems=1

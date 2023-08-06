@@ -1,0 +1,2 @@
+description=Class with only constructors should not be a utility class
+expected_problems=0

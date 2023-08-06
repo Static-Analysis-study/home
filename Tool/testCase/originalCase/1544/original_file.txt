@@ -1,0 +1,2 @@
+description=#1397 StringToString should ignore method references
+expected_problems=0

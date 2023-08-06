@@ -1,0 +1,2 @@
+description=#465 NullPointerException when dealing with @SuppressWarnings
+expected_problems=0

@@ -1,0 +1,2 @@
+description=violation: FileItem get() used with fully qualified class reference
+expected_problems=3

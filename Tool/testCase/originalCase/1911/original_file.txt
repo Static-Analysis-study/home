@@ -1,0 +1,2 @@
+description=concatenates an escaped character
+expected_problems=1

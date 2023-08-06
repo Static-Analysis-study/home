@@ -1,0 +1,2 @@
+description=ok, abstract class AbstractFoo
+expected_problems=0

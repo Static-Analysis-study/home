@@ -1,0 +1,2 @@
+description=[java] UseArraysAsList false positive with non-trivial loops #3965
+expected_problems=0

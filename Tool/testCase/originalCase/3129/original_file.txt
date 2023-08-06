@@ -1,0 +1,2 @@
+description=premature declaration before unrelated test
+expected_problems=1

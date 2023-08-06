@@ -1,0 +1,2 @@
+description=3516101: InsufficientStringBufferDeclaration fails to parse hex
+expected_problems=0

@@ -1,0 +1,2 @@
+description=private method with same name but diff arg count than public method
+expected_problems=0

@@ -1,0 +1,2 @@
+description=getString().toString(), object false-positive test
+expected_problems=0

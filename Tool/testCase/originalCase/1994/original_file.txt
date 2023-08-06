@@ -1,0 +1,2 @@
+description=simple failure with method params
+expected_problems=1

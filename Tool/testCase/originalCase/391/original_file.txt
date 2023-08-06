@@ -1,0 +1,2 @@
+description=2 inner classes, each with > 10 fields
+expected_problems=2

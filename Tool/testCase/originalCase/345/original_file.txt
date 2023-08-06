@@ -1,0 +1,2 @@
+description=Bean with different type for property in getter and setter
+expected_problems=1

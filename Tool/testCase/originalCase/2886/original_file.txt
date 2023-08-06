@@ -1,0 +1,2 @@
+description=empty if with else and else if statement
+expected_problems=3

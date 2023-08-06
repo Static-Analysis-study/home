@@ -1,0 +1,2 @@
+description=Custom close methods
+expected_problems=1

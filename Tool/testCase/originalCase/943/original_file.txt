@@ -1,0 +1,2 @@
+description=#572 [java] False Alarm of JUnit4TestShouldUseTestAnnotation on Predicates
+expected_problems=0

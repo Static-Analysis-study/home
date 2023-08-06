@@ -1,0 +1,2 @@
+description=[java] False positive for useless parenthesis #1023
+expected_problems=0

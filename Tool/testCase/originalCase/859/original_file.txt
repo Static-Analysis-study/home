@@ -1,0 +1,2 @@
+description=violation: incremented 'for' loop variable, inline
+expected_problems=1

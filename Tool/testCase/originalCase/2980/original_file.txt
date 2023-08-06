@@ -1,0 +1,2 @@
+description=member level, final statics should be all caps
+expected_problems=1

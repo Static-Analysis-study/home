@@ -1,0 +1,2 @@
+description=False positive when referenced from within inner class
+expected_problems=0

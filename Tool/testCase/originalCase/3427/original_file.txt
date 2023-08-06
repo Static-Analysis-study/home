@@ -1,0 +1,2 @@
+description=Good MessageDrivenBean name
+expected_problems=0

@@ -1,0 +1,2 @@
+description=35, For block without braces
+expected_problems=0

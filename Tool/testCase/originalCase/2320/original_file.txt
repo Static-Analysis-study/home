@@ -1,0 +1,2 @@
+description=Call in a constructor
+expected_problems=1

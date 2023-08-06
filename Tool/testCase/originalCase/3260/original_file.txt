@@ -1,0 +1,2 @@
+description=11, invalid formal parameter
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1361 ShortVariable configuration - 7 characters
+expected_problems=1

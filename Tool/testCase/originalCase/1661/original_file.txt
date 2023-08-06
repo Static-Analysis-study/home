@@ -1,0 +1,2 @@
+description=instantiating FileInputStream
+expected_problems=1

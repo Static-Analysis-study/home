@@ -1,0 +1,2 @@
+description=Field initializers and ctor
+expected_problems=2

@@ -1,0 +1,2 @@
+description=false positive with close on not closeable
+expected_problems=0

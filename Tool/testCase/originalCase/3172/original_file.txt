@@ -1,0 +1,2 @@
+description=no braces
+expected_problems=1

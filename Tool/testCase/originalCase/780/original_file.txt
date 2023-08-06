@@ -1,0 +1,2 @@
+description=Inner interface
+expected_problems=0

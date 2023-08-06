@@ -1,0 +1,2 @@
+description=using lastIndexOf(singleCharString)
+expected_problems=1

@@ -1,0 +1,2 @@
+description=[java] CommentDefaultAccessModifier should consider lombok's @Value #4201
+expected_problems=0

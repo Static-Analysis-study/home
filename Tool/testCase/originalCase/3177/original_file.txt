@@ -1,0 +1,2 @@
+description=AvoidPrefixingMethodParameters limit: if parameters is named in or out, report a violation.
+expected_problems=2

@@ -1,0 +1,2 @@
+description=problem should be detected even if NullPointerException is stored in some intermediate variable
+expected_problems=1

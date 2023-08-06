@@ -1,0 +1,2 @@
+description=equality operators with Double.NaN
+expected_problems=4

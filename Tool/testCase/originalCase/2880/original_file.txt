@@ -1,0 +1,2 @@
+description=pos, empty foreach
+expected_problems=2

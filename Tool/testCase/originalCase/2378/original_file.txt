@@ -1,0 +1,2 @@
+description=OK! Has only one Singleton
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1435 Treat AssertJ soft assertions as assert expressions
+expected_problems=0

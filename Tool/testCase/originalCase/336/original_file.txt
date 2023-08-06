@@ -1,0 +1,2 @@
+description=bug fix: annotation before package
+expected_problems=0

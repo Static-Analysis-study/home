@@ -1,0 +1,2 @@
+description=Local and global variables be empty String
+expected_problems=4

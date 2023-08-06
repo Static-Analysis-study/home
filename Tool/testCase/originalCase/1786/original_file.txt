@@ -1,0 +1,2 @@
+description=Integer array passed as argument
+expected_problems=1

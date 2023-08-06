@@ -1,0 +1,2 @@
+description=NPE with empty array
+expected_problems=0

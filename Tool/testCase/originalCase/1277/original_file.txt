@@ -1,0 +1,2 @@
+description=SuppressWarnings("unused") - simple unused private method
+expected_problems=0

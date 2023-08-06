@@ -1,0 +1,2 @@
+description=Nested methods and local class
+expected_problems=0

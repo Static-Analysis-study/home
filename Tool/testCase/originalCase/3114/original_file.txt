@@ -1,0 +1,2 @@
+description=bug 976643 - nested ifs without braces
+expected_problems=0

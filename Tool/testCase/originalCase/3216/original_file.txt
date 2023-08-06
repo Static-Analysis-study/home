@@ -1,0 +1,2 @@
+description=#1209 [java] UnusedImports false positive for static import with package-private method usage
+expected_problems=0

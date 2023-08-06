@@ -1,0 +1,2 @@
+description=inner bad, outer ok
+expected_problems=1

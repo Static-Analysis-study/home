@@ -1,0 +1,2 @@
+description=each case stmt has a return
+expected_problems=0

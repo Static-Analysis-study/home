@@ -1,0 +1,2 @@
+description=sb.toString().equals(baz("")), ok
+expected_problems=0

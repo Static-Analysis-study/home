@@ -1,0 +1,2 @@
+description=should be &&, but now with a longer expression
+expected_problems=1

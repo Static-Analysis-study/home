@@ -1,0 +1,2 @@
+description=JUnit 4 Test contains no assert
+expected_problems=0

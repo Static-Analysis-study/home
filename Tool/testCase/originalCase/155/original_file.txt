@@ -1,0 +1,2 @@
+description=variables with same name false positive test
+expected_problems=0

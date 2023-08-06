@@ -1,0 +1,2 @@
+description=Throws
+expected_problems=1

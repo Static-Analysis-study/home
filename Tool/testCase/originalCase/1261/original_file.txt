@@ -1,0 +1,2 @@
+description=two private methods with same name but different parameters
+expected_problems=1

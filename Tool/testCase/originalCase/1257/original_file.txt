@@ -1,0 +1,2 @@
+description=JUnit 5 - assertTrue with null - @Test
+expected_problems=1

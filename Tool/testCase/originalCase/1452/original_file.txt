@@ -1,0 +1,2 @@
+description=private field referenced in another field's initializer
+expected_problems=0

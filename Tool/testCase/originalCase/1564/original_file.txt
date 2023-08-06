@@ -1,0 +1,2 @@
+description=valueOf as first/last expression in concatenation
+expected_problems=0

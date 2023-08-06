@@ -1,0 +1,2 @@
+description=Lambda assignment
+expected_problems=2

@@ -1,0 +1,2 @@
+description=#2833 test local var
+expected_problems=1

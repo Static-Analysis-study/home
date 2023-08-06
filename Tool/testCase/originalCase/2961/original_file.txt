@@ -1,0 +1,2 @@
+description=#1095 AvoidFinalLocalVariable false positive
+expected_problems=0

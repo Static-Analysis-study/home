@@ -1,0 +1,2 @@
+description=Public logger when static final required
+expected_problems=1

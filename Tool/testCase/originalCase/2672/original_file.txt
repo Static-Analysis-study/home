@@ -1,0 +1,2 @@
+description=Log4j2 NPE
+expected_problems=0

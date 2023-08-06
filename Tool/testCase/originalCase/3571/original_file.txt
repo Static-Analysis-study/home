@@ -1,0 +1,2 @@
+description=#2573 DefaultPackage triggers on field annotated with JUnit 5 @BeforeAll
+expected_problems=0

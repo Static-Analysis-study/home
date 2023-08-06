@@ -1,0 +1,2 @@
+description=Don't consider nested classes (JUnit4)
+expected_problems=0

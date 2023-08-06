@@ -1,0 +1,2 @@
+description=#1146 UseArrayListInsteadOfVector false positive when using own Vector class
+expected_problems=0

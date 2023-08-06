@@ -1,0 +1,2 @@
+description=UseIndexOfChar: null pointer with lambdas
+expected_problems=0

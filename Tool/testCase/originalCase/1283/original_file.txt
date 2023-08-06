@@ -1,0 +1,2 @@
+description=verify #1156 False failure with "Avoid unused private methods"
+expected_problems=0

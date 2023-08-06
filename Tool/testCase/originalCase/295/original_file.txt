@@ -1,0 +1,2 @@
+description=interface method declares a subclass of RuntimeException
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Don't report params of abstract methods #2686
+expected_problems=0

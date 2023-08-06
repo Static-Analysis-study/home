@@ -1,0 +1,2 @@
+description=simple unused private static method
+expected_problems=1

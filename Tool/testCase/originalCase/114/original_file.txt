@@ -1,0 +1,2 @@
+description=#1535 [java] SignatureDeclareThrowsException: ClassCastException with Annotation
+expected_problems=0

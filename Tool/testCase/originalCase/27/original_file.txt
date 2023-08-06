@@ -1,0 +1,2 @@
+description=false positive, bug #1018
+expected_problems=0

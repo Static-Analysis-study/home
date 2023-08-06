@@ -1,0 +1,2 @@
+description=Lambda returns 2
+expected_problems=2

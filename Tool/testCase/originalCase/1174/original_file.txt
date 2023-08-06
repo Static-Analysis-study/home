@@ -1,0 +1,2 @@
+description=False positive with generic erasure #3675
+expected_problems=1

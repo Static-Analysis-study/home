@@ -1,0 +1,2 @@
+description=Integer.valueOf(), ok
+expected_problems=0

@@ -1,0 +1,2 @@
+description=While loop with named break 2
+expected_problems=0

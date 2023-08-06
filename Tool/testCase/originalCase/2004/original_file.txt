@@ -1,0 +1,2 @@
+description=#1028 False-positive: Compare objects with equals for Enums
+expected_problems=0

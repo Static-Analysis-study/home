@@ -1,0 +1,2 @@
+description=#1967 [java] CloseResource false positive with late assignment of variable
+expected_problems=0

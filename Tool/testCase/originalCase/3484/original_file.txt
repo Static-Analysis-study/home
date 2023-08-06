@@ -1,0 +1,2 @@
+description=Unnecessary final of try-with-resources resource
+expected_problems=1

@@ -1,0 +1,2 @@
+description=[java] FinalFieldCouldBeStatic false positive with non-static synchronized block (regression in 6.48, worked with 6.47) #4090
+expected_problems=1

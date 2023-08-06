@@ -1,0 +1,2 @@
+description=Junit 3 format
+expected_problems=2

@@ -1,0 +1,2 @@
+description=failure case (non static)
+expected_problems=1

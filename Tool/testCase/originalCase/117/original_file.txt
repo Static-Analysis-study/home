@@ -1,0 +1,2 @@
+description=#1369 ClassCastException in annotated extends
+expected_problems=0

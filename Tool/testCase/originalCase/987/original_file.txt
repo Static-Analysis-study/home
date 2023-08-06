@@ -1,0 +1,2 @@
+description=anonymous classes defined in methods should be considered
+expected_problems=2

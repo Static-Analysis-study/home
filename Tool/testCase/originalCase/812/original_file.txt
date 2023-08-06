@@ -1,0 +1,2 @@
+description=Index inside arithmetic expression should whitelist the loop
+expected_problems=0

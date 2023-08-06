@@ -1,0 +1,2 @@
+description=final method in inner final class
+expected_problems=1

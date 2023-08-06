@@ -1,0 +1,2 @@
+description=qualified names causing NPE troubleshooting
+expected_problems=0

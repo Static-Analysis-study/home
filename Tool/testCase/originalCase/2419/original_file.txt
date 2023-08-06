@@ -1,0 +1,2 @@
+description=HashCode
+expected_problems=1

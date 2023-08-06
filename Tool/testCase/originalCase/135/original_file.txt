@@ -1,0 +1,2 @@
+description=throwing various types
+expected_problems=4

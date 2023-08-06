@@ -1,0 +1,2 @@
+description=bad, abstract class named Foo
+expected_problems=1

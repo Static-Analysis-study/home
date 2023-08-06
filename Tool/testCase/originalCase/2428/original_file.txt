@@ -1,0 +1,2 @@
+description=Simple duplicate typos
+expected_problems=4

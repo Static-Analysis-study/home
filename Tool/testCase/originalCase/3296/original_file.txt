@@ -1,0 +1,2 @@
+description=Should report fully-qualified name usage of a class in itself #4085
+expected_problems=1

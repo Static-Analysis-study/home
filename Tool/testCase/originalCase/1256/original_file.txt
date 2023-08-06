@@ -1,0 +1,2 @@
+description=JUnit 4 - assertTrue with null
+expected_problems=1

@@ -1,0 +1,2 @@
+description=final fields must be assigned
+expected_problems=0

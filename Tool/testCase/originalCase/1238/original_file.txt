@@ -1,0 +1,2 @@
+description=Byte.valueOf(), ok
+expected_problems=0

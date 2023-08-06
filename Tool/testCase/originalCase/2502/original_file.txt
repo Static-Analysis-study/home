@@ -1,0 +1,2 @@
+description=CloseResource for closable - ignored if the types do not contain AutoClosable
+expected_problems=0

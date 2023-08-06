@@ -1,0 +1,2 @@
+description=catch(Exception e) is OK
+expected_problems=0

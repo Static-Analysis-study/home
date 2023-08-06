@@ -1,0 +1,2 @@
+description=[java] UnusedPrivateMethod false positive with static method and cast expression #3209
+expected_problems=0

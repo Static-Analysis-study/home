@@ -1,0 +1,2 @@
+description=Empty for, allowed
+expected_problems=0

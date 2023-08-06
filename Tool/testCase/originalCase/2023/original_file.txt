@@ -1,0 +1,2 @@
+description=bad, using the single-arg constructor
+expected_problems=1

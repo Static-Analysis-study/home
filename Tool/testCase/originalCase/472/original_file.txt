@@ -1,0 +1,2 @@
+description=throwing the return value of a method call on the exception, ok
+expected_problems=0

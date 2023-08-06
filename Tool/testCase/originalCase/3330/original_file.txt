@@ -1,0 +1,2 @@
+description=TestCase should be a valid pattern by default #2867
+expected_problems=0

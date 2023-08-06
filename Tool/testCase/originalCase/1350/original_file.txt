@@ -1,0 +1,2 @@
+description=UseAssertNullInsteadOfAssertTrue: assertTrue with null
+expected_problems=1

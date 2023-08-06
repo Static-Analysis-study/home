@@ -1,0 +1,2 @@
+description=#817 [java] UnnecessaryModifierRule crashes on valid code
+expected_problems=0

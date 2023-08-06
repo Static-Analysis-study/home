@@ -1,0 +1,2 @@
+description=multiple final methods on final class
+expected_problems=3

@@ -1,0 +1,2 @@
+description=#985 Suppressed methods shouldn't affect avg CyclomaticComplexity
+expected_problems=0

@@ -1,0 +1,2 @@
+description=don't flag toUpperCase() invocations with Locale args
+expected_problems=0

@@ -1,0 +1,2 @@
+description=violation - wrong guard #1189 GuardLogStatementRule and GuardDebugLoggingRule broken for log4j2
+expected_problems=2

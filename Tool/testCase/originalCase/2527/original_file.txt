@@ -1,0 +1,2 @@
+description=#2757 support @lombok.Cleanup annotation
+expected_problems=0

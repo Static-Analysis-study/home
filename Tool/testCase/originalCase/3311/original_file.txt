@@ -1,0 +1,2 @@
+description=Class with instance initializer should not be a utility class
+expected_problems=0

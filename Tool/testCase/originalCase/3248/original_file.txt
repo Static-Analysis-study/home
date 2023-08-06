@@ -1,0 +1,2 @@
+description=[java] UnnecessaryImport false positive for static on-demand imports of static nested classes
+expected_problems=0

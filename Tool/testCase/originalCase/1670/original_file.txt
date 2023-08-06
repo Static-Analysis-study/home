@@ -1,0 +1,2 @@
+description=2, StringBuffer not allocated with enough space
+expected_problems=2

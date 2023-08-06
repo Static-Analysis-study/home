@@ -1,0 +1,2 @@
+description=BUG 1146116 PMDException with inner interfaces
+expected_problems=0

@@ -1,0 +1,2 @@
+description=import java.lang.ProcessBuilder.Redirect: #1031 false DontImportJavaLang
+expected_problems=0

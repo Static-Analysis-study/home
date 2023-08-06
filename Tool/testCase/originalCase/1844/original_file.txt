@@ -1,0 +1,2 @@
+description=false positive bug #2002722, different bug in comment section
+expected_problems=0

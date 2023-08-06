@@ -1,0 +1,2 @@
+description=By default, for-each loops should be flagged (see #1513).
+expected_problems=1

@@ -1,0 +1,2 @@
+description=failure case but obfuscated
+expected_problems=1

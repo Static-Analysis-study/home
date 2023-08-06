@@ -1,0 +1,2 @@
+description=Make sure to detect method call chains
+expected_problems=6

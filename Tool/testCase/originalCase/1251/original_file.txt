@@ -1,0 +1,2 @@
+description=#940 False positive with JUnit4TestShouldUseAfterAnnotation when JUnit5's 'AfterAll' is used
+expected_problems=0

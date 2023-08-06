@@ -1,0 +1,2 @@
+description=Hard coded inline IvSpec, bad
+expected_problems=1

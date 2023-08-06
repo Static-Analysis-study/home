@@ -1,0 +1,2 @@
+description=bad, implementing Enumeration
+expected_problems=1

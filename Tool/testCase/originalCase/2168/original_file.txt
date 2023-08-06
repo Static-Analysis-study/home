@@ -1,0 +1,2 @@
+description=implements Serializable and provides a serialVersionUID
+expected_problems=0

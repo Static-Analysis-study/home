@@ -1,0 +1,2 @@
+description=return value is assigned to a variable
+expected_problems=0

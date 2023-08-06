@@ -1,0 +1,2 @@
+description=The rule should take into account uses of field names, inherited or not, matching the method parameter name.
+expected_problems=0

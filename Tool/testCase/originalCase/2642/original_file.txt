@@ -1,0 +1,2 @@
+description=Return from Lambda in Finally
+expected_problems=0

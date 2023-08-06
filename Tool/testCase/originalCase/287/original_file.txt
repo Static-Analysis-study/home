@@ -1,0 +1,2 @@
+description=method decalres a subclass of RuntimeException
+expected_problems=1

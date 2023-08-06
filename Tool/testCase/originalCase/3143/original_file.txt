@@ -1,0 +1,2 @@
+description=674394, disambiguation import because of conflict with java.lang
+expected_problems=0

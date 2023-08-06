@@ -1,0 +1,2 @@
+description=While, with braces
+expected_problems=0

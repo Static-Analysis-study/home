@@ -1,0 +1,2 @@
+description=#550 False +: MissingBreakInSwitch
+expected_problems=0

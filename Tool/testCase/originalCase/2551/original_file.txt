@@ -1,0 +1,2 @@
+description=#388 False positive due to space in property list
+expected_problems=0

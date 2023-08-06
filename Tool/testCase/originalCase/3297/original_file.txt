@@ -1,0 +1,2 @@
+description=#2098 false positive with annotated package
+expected_problems=0

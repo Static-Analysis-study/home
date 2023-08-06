@@ -1,0 +1,2 @@
+description=asserting false a !
+expected_problems=1

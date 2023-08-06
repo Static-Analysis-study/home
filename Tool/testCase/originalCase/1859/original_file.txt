@@ -1,0 +1,2 @@
+description=Test new rule example
+expected_problems=1

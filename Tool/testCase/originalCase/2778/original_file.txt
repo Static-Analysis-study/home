@@ -1,0 +1,2 @@
+description=#2934 comparison with null is valid
+expected_problems=0

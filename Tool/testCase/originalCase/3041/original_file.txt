@@ -1,0 +1,2 @@
+description=#1354 Complex FieldDeclarationsShouldBeAtStartOfClass false positive with Spring annotations
+expected_problems=0

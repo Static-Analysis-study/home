@@ -1,0 +1,2 @@
+description=Override absent in method from superclass
+expected_problems=1

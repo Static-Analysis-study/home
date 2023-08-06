@@ -1,0 +1,2 @@
+description=Enums shoud be accepted for declaration
+expected_problems=0

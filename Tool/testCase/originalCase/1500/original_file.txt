@@ -1,0 +1,2 @@
+description=Do not flag Mockito fields that are injected into test target
+expected_problems=0

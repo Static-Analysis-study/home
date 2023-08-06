@@ -1,0 +1,2 @@
+description=#2461 private constructor should be ignored
+expected_problems=0

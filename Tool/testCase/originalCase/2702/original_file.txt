@@ -1,0 +1,2 @@
+description=ok, fixing NPE bug
+expected_problems=0

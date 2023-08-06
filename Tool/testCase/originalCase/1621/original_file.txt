@@ -1,0 +1,2 @@
+description=24, Appends from within switch statement
+expected_problems=0

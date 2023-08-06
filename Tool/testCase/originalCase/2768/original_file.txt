@@ -1,0 +1,2 @@
+description=false negative with apache commons logging
+expected_problems=1

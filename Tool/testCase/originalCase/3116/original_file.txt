@@ -1,0 +1,2 @@
+description=misnamed local
+expected_problems=1

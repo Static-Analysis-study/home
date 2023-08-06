@@ -1,0 +1,2 @@
+description=resolve ambiguous static on-demand imports (#2277)
+expected_problems=0

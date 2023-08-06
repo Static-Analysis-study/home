@@ -1,0 +1,2 @@
+description=Enum that returns array instead of copy
+expected_problems=1

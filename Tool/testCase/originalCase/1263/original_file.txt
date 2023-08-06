@@ -1,0 +1,2 @@
+description=calling private method using 'this' modifier
+expected_problems=0

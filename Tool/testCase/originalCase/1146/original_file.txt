@@ -1,0 +1,2 @@
+description=Missing override on method from interface
+expected_problems=1

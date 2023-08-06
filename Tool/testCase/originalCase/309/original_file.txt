@@ -1,0 +1,2 @@
+description=#3679 - False-negative on initializing with another object
+expected_problems=1

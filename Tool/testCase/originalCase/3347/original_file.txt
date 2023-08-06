@@ -1,0 +1,2 @@
+description=FP with captured method reference
+expected_problems=0

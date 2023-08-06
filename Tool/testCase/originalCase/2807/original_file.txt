@@ -1,0 +1,2 @@
+description=#1243 Useless Parentheses False Positive
+expected_problems=0

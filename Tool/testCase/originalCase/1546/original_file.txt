@@ -1,0 +1,2 @@
+description=getString().toString(), anonymous class method false-positive test
+expected_problems=0

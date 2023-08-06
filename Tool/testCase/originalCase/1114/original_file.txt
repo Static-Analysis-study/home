@@ -1,0 +1,2 @@
+description=Test annot suppression
+expected_problems=0

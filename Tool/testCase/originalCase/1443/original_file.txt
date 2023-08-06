@@ -1,0 +1,2 @@
+description=conditional and with only one boolean literal
+expected_problems=3

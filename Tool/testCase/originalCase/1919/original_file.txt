@@ -1,0 +1,2 @@
+description=append a single character as part of an expression (#2275)
+expected_problems=0

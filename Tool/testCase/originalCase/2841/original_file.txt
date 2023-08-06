@@ -1,0 +1,2 @@
+description=#3266 False negative with default methods in interfaces
+expected_problems=1

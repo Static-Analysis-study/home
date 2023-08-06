@@ -1,0 +1,2 @@
+description=no violation: reassign 'for' loop variable
+expected_problems=0

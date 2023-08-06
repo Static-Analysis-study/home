@@ -1,0 +1,2 @@
+description=bad, double semicolon
+expected_problems=1

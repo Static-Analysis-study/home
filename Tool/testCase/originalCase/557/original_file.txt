@@ -1,0 +1,2 @@
+description=False positive with generics #3672
+expected_problems=0

@@ -1,0 +1,2 @@
+description=OneDeclarationPerLine's basic test case
+expected_problems=1

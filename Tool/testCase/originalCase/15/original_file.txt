@@ -1,0 +1,2 @@
+description=OK, in returning non-static data
+expected_problems=0

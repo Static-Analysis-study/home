@@ -1,0 +1,2 @@
+description=[java] UnusedAssignment false positive in for-each assignment #3076
+expected_problems=0

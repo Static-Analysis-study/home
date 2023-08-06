@@ -1,0 +1,2 @@
+description=constructor with arguments
+expected_problems=0

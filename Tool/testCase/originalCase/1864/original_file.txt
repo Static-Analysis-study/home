@@ -1,0 +1,2 @@
+description=Array with a literal dimension, zero still better
+expected_problems=1

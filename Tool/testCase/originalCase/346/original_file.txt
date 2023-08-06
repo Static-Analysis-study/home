@@ -1,0 +1,2 @@
+description=Bean with wrong getter name for boolean property
+expected_problems=1

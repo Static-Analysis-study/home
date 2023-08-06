@@ -1,0 +1,2 @@
+description=#2833 test with records
+expected_problems=1

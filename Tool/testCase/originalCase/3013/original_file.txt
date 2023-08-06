@@ -1,0 +1,2 @@
+description=protected method in non-final inner class is ok
+expected_problems=0

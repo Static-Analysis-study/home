@@ -1,0 +1,2 @@
+description=3 args version of StringBuffer.append
+expected_problems=0

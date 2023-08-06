@@ -1,0 +1,2 @@
+description=#1340 UseStringBufferForStringAppends False Positive with ternary operator (used in condition) 
+expected_problems=0

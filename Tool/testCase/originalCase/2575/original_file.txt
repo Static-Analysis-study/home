@@ -1,0 +1,2 @@
+description=useless operation on BigDecimal
+expected_problems=1

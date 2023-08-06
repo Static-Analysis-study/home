@@ -1,0 +1,2 @@
+description=implements interface other than Comparable, resolvable (#1303 OverrideBothEqualsAndHashcodeRule does not work on class implements resolvable interfaces)
+expected_problems=1

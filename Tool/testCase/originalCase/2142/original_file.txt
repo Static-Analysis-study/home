@@ -1,0 +1,2 @@
+description=ok, not Object.clone since method has a param
+expected_problems=0

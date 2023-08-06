@@ -1,0 +1,2 @@
+description=anonymous inner class npe
+expected_problems=0

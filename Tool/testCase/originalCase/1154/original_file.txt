@@ -1,0 +1,2 @@
+description=Consider enum methods
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Unneeded 'static' in class nested in interface
+expected_problems=1

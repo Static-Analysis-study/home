@@ -1,0 +1,2 @@
+description=log4j2: Null pointer with VariableNameDeclaration / VariableDeclaratorId
+expected_problems=0

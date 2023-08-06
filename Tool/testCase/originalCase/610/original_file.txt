@@ -1,0 +1,2 @@
+description=unused local in constructor
+expected_problems=1

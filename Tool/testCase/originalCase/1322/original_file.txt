@@ -1,0 +1,2 @@
+description=False negative with unused private method in nested classes
+expected_problems=2

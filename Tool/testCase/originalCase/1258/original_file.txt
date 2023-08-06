@@ -1,0 +1,2 @@
+description=private method called by public method
+expected_problems=0

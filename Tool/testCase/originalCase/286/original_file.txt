@@ -1,0 +1,2 @@
+description=method declares RuntimeException
+expected_problems=1

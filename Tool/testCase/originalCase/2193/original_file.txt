@@ -1,0 +1,2 @@
+description=empty try/catch/finally
+expected_problems=1

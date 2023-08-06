@@ -1,0 +1,2 @@
+description=31, Appending from a cast in ifs
+expected_problems=0

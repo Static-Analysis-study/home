@@ -1,0 +1,2 @@
+description=Lombok NoArgsConstructor - ok
+expected_problems=0

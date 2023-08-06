@@ -1,0 +1,2 @@
+description=[ 2404700 ] UseSingleton should not act on enums
+expected_problems=0

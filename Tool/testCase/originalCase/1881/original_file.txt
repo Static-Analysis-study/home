@@ -1,0 +1,2 @@
+description=sb.delete shouldn't trigger it
+expected_problems=0

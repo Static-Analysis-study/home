@@ -1,0 +1,2 @@
+description=[java] UseArraysAsList false negative with for-each loop #3331
+expected_problems=1

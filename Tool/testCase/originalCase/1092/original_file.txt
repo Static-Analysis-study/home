@@ -1,0 +1,2 @@
+description=Nested boolean logic 2
+expected_problems=1

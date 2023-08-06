@@ -1,0 +1,2 @@
+description=Ignore other nested classes that are not test classes
+expected_problems=1

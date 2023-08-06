@@ -1,0 +1,2 @@
+description=AssertJ and JUnit5
+expected_problems=0

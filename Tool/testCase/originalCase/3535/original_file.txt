@@ -1,0 +1,2 @@
+description=#1334 [java] LinguisticNaming should support AtomicBooleans
+expected_problems=0

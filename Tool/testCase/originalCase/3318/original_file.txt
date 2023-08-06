@@ -1,0 +1,2 @@
+description=Class with only main method should not be utility class - varargs case
+expected_problems=0

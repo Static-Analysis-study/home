@@ -1,0 +1,2 @@
+description=Allow to ignore exceptions by name
+expected_problems=0

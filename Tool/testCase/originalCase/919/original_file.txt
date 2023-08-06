@@ -1,0 +1,2 @@
+description=15, IllegalStateException can take a cause exception in the constructor, too.
+expected_problems=1

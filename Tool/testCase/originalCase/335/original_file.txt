@@ -1,0 +1,2 @@
+description=GodClass crashes with java.lang.NullPointerException, refs #827
+expected_problems=0

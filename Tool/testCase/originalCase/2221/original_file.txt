@@ -1,0 +1,2 @@
+description=False negative with var args and Arrays.asList
+expected_problems=1

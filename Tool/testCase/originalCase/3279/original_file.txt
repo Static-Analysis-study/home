@@ -1,0 +1,2 @@
+description=#1114 - Star import overwritten by explicit import is not correctly handled
+expected_problems=0

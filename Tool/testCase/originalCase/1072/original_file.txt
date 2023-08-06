@@ -1,0 +1,2 @@
+description=FN with casts
+expected_problems=1

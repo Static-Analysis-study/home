@@ -1,0 +1,2 @@
+description=[java] SingularField: Lombok false positive with inner class and annotated outer class
+expected_problems=0

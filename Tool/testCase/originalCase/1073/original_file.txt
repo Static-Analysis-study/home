@@ -1,0 +1,2 @@
+description=SuppressWarnings test (local)
+expected_problems=0

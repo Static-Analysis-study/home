@@ -1,0 +1,2 @@
+description=it's ok in a finalizer
+expected_problems=0

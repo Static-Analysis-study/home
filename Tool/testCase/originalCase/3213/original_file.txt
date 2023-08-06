@@ -1,0 +1,2 @@
+description=#348 False Positive UnusedImports with javadoc for public static inner classes of imports
+expected_problems=0

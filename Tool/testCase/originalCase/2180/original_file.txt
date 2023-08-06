@@ -1,0 +1,2 @@
+description=protected method clone with return type as the class name
+expected_problems=0

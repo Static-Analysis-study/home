@@ -1,0 +1,2 @@
+description=#1832 but fail with both private constructors annotated with @PersistenceConstructor
+expected_problems=1

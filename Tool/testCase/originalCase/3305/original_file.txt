@@ -1,0 +1,2 @@
+description=Default config reports on every type decl
+expected_problems=5

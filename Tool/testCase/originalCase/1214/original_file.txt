@@ -1,0 +1,2 @@
+description=new java.lang.Boolean
+expected_problems=1

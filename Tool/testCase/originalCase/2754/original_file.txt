@@ -1,0 +1,2 @@
+description=Custom logger-class with invalid logger variable name
+expected_problems=1

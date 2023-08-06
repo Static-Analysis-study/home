@@ -1,0 +1,2 @@
+description=#1775 [java] False negative in UnnecessaryLocalBeforeReturn when splitting statements across multiple lines
+expected_problems=1

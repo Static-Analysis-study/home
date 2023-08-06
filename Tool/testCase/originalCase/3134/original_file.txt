@@ -1,0 +1,2 @@
+description=PrematureDeclaration false negative with reference that is a suffix of the variable name
+expected_problems=1

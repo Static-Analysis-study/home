@@ -1,0 +1,2 @@
+description=Limitations with type resolution
+expected_problems=4

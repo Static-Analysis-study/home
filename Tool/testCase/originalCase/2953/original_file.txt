@@ -1,0 +1,2 @@
+description=JUnit 3 test detection
+expected_problems=1

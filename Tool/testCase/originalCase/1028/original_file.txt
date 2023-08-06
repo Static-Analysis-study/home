@@ -1,0 +1,2 @@
+description=Switch non-fallthrough blocks
+expected_problems=1

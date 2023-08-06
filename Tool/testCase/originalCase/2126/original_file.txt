@@ -1,0 +1,2 @@
+description=Exceptions named "ignored" and "expected" are ignored by default
+expected_problems=0

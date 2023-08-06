@@ -1,0 +1,2 @@
+description=bad, local variable of type Vector
+expected_problems=1

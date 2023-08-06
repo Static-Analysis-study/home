@@ -1,0 +1,2 @@
+description=CloseResource for input streams - not ok
+expected_problems=1

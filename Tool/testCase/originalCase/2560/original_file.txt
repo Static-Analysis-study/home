@@ -1,0 +1,2 @@
+description=duplicate literals in field decl
+expected_problems=1

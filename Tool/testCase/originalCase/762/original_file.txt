@@ -1,0 +1,2 @@
+description=tricky field hiding
+expected_problems=0

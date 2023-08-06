@@ -1,0 +1,2 @@
+description=Don't check methods in nested classes
+expected_problems=0

@@ -1,0 +1,2 @@
+description=no violation: incremented own field
+expected_problems=0

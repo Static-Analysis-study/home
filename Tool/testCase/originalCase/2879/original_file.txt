@@ -1,0 +1,2 @@
+description=pos, empty do..while
+expected_problems=2

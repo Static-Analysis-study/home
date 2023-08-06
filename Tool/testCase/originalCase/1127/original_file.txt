@@ -1,0 +1,2 @@
+description=Field access on something else than this
+expected_problems=0

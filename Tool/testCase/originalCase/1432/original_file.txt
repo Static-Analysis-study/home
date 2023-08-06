@@ -1,0 +1,2 @@
+description=do while true
+expected_problems=2

@@ -1,0 +1,2 @@
+description=ok, Numeric Literal with exponent
+expected_problems=0

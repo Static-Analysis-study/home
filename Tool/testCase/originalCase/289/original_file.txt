@@ -1,0 +1,2 @@
+description=method declaring checked exceptions like IOException is fine
+expected_problems=0

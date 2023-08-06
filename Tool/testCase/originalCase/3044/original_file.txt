@@ -1,0 +1,2 @@
+description=#345 [java] FieldDeclarationsShouldBeAtStartOfClass: Add ability to ignore interfaces - ignore interfaces
+expected_problems=0

@@ -1,0 +1,2 @@
+description=[ 2050064 ] False + SuspiciousOctalEscape with backslash literal, second test case
+expected_problems=1

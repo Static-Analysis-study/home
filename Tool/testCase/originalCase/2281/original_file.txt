@@ -1,0 +1,2 @@
+description=ok, semicolon after for
+expected_problems=0

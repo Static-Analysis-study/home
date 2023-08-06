@@ -1,0 +1,2 @@
+description=correct comparison
+expected_problems=0

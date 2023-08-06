@@ -1,0 +1,2 @@
+description=[java] AddEmptyString - false negative with empty var #3625
+expected_problems=1

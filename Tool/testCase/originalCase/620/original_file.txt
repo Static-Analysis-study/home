@@ -1,0 +1,2 @@
+description=assignment to a member field means used
+expected_problems=0

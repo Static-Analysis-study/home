@@ -1,0 +1,2 @@
+description=#1951 false positive when package name is obscured by variable
+expected_problems=0

@@ -1,0 +1,2 @@
+description=3109408, false + with adding two integers in constructor
+expected_problems=0

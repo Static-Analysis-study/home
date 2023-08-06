@@ -1,0 +1,2 @@
+description=One test proper, the other incorrect
+expected_problems=1

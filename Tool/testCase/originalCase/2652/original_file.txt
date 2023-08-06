@@ -1,0 +1,2 @@
+description=#1509 [java] InvalidSlf4jMessageFormat NPE
+expected_problems=0

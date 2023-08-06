@@ -1,0 +1,2 @@
+description=threshold property
+expected_problems=1

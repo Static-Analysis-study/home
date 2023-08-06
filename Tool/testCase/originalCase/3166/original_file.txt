@@ -1,0 +1,2 @@
+description=Qualified this in a Inner Class
+expected_problems=0

@@ -1,0 +1,2 @@
+description=ClassCastException on generic method
+expected_problems=0

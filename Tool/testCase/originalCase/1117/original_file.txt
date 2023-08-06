@@ -1,0 +1,2 @@
+description=This reference leak in conditional #2668
+expected_problems=2

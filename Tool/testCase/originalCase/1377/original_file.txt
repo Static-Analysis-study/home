@@ -1,0 +1,2 @@
+description=Use assert equals: negative test
+expected_problems=0

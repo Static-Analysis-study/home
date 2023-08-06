@@ -1,0 +1,2 @@
+description=failure case does not extend TestCase and default testClassPattern
+expected_problems=1

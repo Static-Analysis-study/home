@@ -1,0 +1,2 @@
+description=Consider enum types, refs #825
+expected_problems=1

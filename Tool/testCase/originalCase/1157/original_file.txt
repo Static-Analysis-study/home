@@ -1,0 +1,2 @@
+description=Consider enum anon class (#3542)
+expected_problems=2

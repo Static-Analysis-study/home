@@ -1,0 +1,2 @@
+description=Test shortcut OR 2
+expected_problems=1

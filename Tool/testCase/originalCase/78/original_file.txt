@@ -1,0 +1,2 @@
+description=notify() with params is OK
+expected_problems=0

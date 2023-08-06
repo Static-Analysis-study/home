@@ -1,0 +1,2 @@
+description=#358 Treat Mockito's verify as assert expressions
+expected_problems=0

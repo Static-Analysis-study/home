@@ -1,0 +1,2 @@
+description=Field initializers and ctor with this, field access
+expected_problems=0

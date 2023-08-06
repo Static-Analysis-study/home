@@ -1,0 +1,2 @@
+description=Bug 1888967 : This method should not be detected as a violation.
+expected_problems=0

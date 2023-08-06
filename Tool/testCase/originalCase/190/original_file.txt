@@ -1,0 +1,2 @@
+description=initialized in static initialization block
+expected_problems=0

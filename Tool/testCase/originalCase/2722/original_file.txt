@@ -1,0 +1,2 @@
+description=bad, Foo.clone() calls new Foo();
+expected_problems=1

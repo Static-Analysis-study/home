@@ -1,0 +1,2 @@
+description=#177 [java] SingularField with lambdas as final fields
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1342 UseConcurrentHashMap false positive (with documentation example)
+expected_problems=1

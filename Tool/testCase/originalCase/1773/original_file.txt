@@ -1,0 +1,2 @@
+description=nested arrays on LHS, ok
+expected_problems=0

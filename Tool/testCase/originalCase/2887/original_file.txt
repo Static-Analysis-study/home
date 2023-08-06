@@ -1,0 +1,2 @@
+description=one not empty if statement
+expected_problems=0

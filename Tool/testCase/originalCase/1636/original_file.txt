@@ -1,0 +1,2 @@
+description=39, Buffer as class variable, accessed in 2 methods
+expected_problems=0

@@ -1,0 +1,2 @@
+description=ok, one static method
+expected_problems=0

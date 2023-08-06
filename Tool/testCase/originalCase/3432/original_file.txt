@@ -1,0 +1,2 @@
+description=Pos, empty decl in inner class
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#357 UncommentedEmptyConstructor consider fully qualified annotations on Constructor
+expected_problems=0

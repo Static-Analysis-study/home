@@ -1,0 +1,2 @@
+description=#46 False +: Unused private field: call to instance of self, received from another class
+expected_problems=0

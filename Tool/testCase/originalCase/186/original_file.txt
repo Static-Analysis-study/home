@@ -1,0 +1,2 @@
+description=Ok, instantiates own self internally
+expected_problems=0

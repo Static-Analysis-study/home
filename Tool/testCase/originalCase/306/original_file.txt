@@ -1,0 +1,2 @@
+description=#2708 - False positive with lombok @Builder.Default fields
+expected_problems=0

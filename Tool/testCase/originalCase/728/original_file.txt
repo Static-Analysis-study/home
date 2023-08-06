@@ -1,0 +1,2 @@
+description=Constructor no violation
+expected_problems=0

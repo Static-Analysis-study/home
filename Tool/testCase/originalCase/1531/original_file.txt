@@ -1,0 +1,2 @@
+description=#3236 [java] LiteralsFirstInComparisons should consider constant fields (cont'd)
+expected_problems=5

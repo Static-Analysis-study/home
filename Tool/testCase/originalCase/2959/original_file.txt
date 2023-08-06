@@ -1,0 +1,2 @@
+description=Other use of final should not raise violations.
+expected_problems=0

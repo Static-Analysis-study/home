@@ -1,0 +1,2 @@
+description=two methods, one private, one public, same name, same arg count, diff types
+expected_problems=0

@@ -1,0 +1,2 @@
+description=has public static field, so need to check
+expected_problems=1

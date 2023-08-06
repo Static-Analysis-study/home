@@ -1,0 +1,2 @@
+description=Nullpointer for getQualifiedName
+expected_problems=0

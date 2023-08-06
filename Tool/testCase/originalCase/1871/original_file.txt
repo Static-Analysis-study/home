@@ -1,0 +1,2 @@
+description=case where concatenation is not a child of a BlockStatement, but instead is a child of an ExplicitConstructorInvocation
+expected_problems=0

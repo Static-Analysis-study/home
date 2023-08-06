@@ -1,0 +1,2 @@
+description=#4008 FN with field assigned only in initializer
+expected_problems=1

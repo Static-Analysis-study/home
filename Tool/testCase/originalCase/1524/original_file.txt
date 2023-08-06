@@ -1,0 +1,2 @@
+description=bad, testing false negative at the end of a chain
+expected_problems=1

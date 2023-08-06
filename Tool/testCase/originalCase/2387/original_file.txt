@@ -1,0 +1,2 @@
+description=finalizer in anon inner class is OK too
+expected_problems=0

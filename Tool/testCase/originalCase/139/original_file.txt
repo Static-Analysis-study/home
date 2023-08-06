@@ -1,0 +1,2 @@
+description=Ok when throwing another exception
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1263 PMD reports CheckResultSet violation in completely unrelated source files.
+expected_problems=0

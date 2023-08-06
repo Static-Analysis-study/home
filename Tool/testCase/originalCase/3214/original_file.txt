@@ -1,0 +1,2 @@
+description=#925 [java] UnusedImports false positive for static import
+expected_problems=0

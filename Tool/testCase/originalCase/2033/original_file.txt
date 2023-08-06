@@ -1,0 +1,2 @@
+description=missing annotation on package visible test case
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Bad, very deep
+expected_problems=1

@@ -1,0 +1,2 @@
+description=8, valid return type
+expected_problems=0

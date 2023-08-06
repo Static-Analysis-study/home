@@ -1,0 +1,2 @@
+description=#1556 [java] UseLocaleWithCaseConversions does not works with `ResultSet` (false negative)
+expected_problems=1

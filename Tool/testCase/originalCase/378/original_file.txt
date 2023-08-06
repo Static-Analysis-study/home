@@ -1,0 +1,2 @@
+description=[java] LawOfDemeter: False positive with indexed array access #2181
+expected_problems=0

@@ -1,0 +1,2 @@
+description=An abstract class with method, no violation
+expected_problems=0

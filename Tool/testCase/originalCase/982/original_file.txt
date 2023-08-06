@@ -1,0 +1,2 @@
+description=#878 don't flag abstract methods even if checkall property is set when checking an abstract class
+expected_problems=0

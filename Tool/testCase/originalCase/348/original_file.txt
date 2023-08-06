@@ -1,0 +1,2 @@
+description=#780 [java] BeanMembersShouldSerializeRule does not recognize lombok accessors - 1
+expected_problems=0

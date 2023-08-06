@@ -1,0 +1,2 @@
+description=Neg, necessary empty statements
+expected_problems=0

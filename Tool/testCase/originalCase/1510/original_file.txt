@@ -1,0 +1,2 @@
+description=ok, literal comes first in .equalsIgnoreCase comparison
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#721 NPE in PMD 5.8.1 InvalidSlf4jMessageFormat
+expected_problems=0

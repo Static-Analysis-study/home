@@ -1,0 +1,2 @@
+description=assignment to field member using this modifier is a usage
+expected_problems=0

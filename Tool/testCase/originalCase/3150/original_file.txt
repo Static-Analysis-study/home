@@ -1,0 +1,2 @@
+description=Test final method param pattern
+expected_problems=5

@@ -1,0 +1,2 @@
+description=false positive if Calendar is modified via set
+expected_problems=0

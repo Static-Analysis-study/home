@@ -1,0 +1,2 @@
+description=Test explicitly-typed lambda parameter pattern
+expected_problems=5

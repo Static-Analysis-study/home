@@ -1,0 +1,2 @@
+description=#1197 JUnit4TestShouldUseTestAnnotation for private method
+expected_problems=0

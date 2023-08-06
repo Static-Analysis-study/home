@@ -1,0 +1,2 @@
+description=Numbers should be allowed by default
+expected_problems=0

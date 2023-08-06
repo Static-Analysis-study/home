@@ -1,0 +1,2 @@
+description=Used static import
+expected_problems=0

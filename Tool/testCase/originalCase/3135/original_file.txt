@@ -1,0 +1,2 @@
+description=#1067 PrematureDeclaration lambda closure false positive
+expected_problems=0

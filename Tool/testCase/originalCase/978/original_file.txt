@@ -1,0 +1,2 @@
+description=False - ! if "checkAll" property is not set
+expected_problems=1

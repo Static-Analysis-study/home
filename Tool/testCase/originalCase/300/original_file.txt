@@ -1,0 +1,2 @@
+description=non-final, OK
+expected_problems=0

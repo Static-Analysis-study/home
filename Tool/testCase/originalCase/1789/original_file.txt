@@ -1,0 +1,2 @@
+description=[java] UseArraysAsList with method call #3867
+expected_problems=1

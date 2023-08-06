@@ -1,0 +1,2 @@
+description=#1078 [java] MissingSerialVersionUID rule does not seem to catch inherited classes
+expected_problems=1

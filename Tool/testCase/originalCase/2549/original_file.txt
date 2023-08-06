@@ -1,0 +1,2 @@
+description=#1213 AvoidLiteralsInIfCondition -- switch for integer comparison with 0.0
+expected_problems=0

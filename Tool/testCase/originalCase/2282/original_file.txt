@@ -1,0 +1,2 @@
+description=ok, semicolon after while
+expected_problems=0

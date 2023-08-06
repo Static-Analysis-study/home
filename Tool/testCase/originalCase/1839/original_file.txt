@@ -1,0 +1,2 @@
+description=compound append, should only report 1 failure
+expected_problems=1

@@ -1,0 +1,2 @@
+description=instantiating java.io.FileOutputStream
+expected_problems=1

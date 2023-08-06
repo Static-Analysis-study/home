@@ -1,0 +1,2 @@
+description=JUnit4: #1453 False positive when the test class extends an other.
+expected_problems=0

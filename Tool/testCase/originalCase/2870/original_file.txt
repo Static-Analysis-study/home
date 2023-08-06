@@ -1,0 +1,2 @@
+description=neg, nonempty switch stmt
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Verify closeAsDefaultTarget property
+expected_problems=2

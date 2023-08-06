@@ -1,0 +1,2 @@
+description=Patch 2075906: Add toString() to the rule UnnecessaryWrapperObjectCreation
+expected_problems=1

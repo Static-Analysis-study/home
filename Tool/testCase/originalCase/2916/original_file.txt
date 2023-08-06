@@ -1,0 +1,2 @@
+description=bad, numeric literal without '_'
+expected_problems=1

@@ -1,0 +1,2 @@
+description=assignment in while conditional expression, allowed
+expected_problems=0

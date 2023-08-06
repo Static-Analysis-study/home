@@ -1,0 +1,2 @@
+description=Multiple fields/local variables
+expected_problems=4

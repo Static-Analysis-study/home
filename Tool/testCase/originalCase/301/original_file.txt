@@ -1,0 +1,2 @@
+description=non-primitive failure case - only works for String
+expected_problems=1

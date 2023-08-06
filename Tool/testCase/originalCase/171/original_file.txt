@@ -1,0 +1,2 @@
+description=one call to next() inside the loop == ok
+expected_problems=0

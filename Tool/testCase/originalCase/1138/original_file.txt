@@ -1,0 +1,2 @@
+description=Neg, new field
+expected_problems=0

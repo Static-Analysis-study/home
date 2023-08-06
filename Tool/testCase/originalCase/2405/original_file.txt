@@ -1,0 +1,2 @@
+description=using outer loop incrementor as array index is OK
+expected_problems=0

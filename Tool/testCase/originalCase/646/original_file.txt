@@ -1,0 +1,2 @@
+description=assertEquals with delta ok
+expected_problems=0

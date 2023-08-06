@@ -1,0 +1,2 @@
+description=#1395 UnusedPrivateMethod false positive for array element method call
+expected_problems=0

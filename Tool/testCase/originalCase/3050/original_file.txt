@@ -1,0 +1,2 @@
+description=Enum
+expected_problems=0

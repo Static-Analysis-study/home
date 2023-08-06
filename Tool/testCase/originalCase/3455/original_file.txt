@@ -1,0 +1,2 @@
+description=Don't check fields that are anonymous inner classes
+expected_problems=0

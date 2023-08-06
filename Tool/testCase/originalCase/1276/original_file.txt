@@ -1,0 +1,2 @@
+description=private method same name as local
+expected_problems=0

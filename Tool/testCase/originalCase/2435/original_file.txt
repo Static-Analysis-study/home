@@ -1,0 +1,2 @@
+description=ok, super.finalize called in try..finally
+expected_problems=0

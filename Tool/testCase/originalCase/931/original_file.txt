@@ -1,0 +1,2 @@
+description=#422 False positive when using builder pattern
+expected_problems=0

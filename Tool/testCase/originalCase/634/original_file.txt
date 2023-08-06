@@ -1,0 +1,2 @@
+description=#2957 Unused rules should ignore some names
+expected_problems=1

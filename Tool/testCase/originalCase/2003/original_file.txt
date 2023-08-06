@@ -1,0 +1,2 @@
+description=qualified call in allocation
+expected_problems=0

@@ -1,0 +1,2 @@
+description=violation: incremented 'for' loop variable inside while condition
+expected_problems=1

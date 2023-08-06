@@ -1,0 +1,2 @@
+description=Calling two arg varargs method
+expected_problems=0

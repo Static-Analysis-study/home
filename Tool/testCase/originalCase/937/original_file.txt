@@ -1,0 +1,2 @@
+description=Contains test, no @Test
+expected_problems=1

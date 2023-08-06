@@ -1,0 +1,2 @@
+description=methods with return values are ignored
+expected_problems=0

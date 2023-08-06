@@ -1,0 +1,2 @@
+description=Final is not allowed in abstract method
+expected_problems=1

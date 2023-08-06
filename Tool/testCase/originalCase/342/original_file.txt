@@ -1,0 +1,2 @@
+description=Valid Bean with all getters and setters
+expected_problems=0

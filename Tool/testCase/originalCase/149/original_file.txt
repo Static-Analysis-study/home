@@ -1,0 +1,2 @@
+description=throws a new instance of the same exception without any arguments, ok
+expected_problems=0

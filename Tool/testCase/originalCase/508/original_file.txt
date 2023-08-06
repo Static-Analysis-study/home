@@ -1,0 +1,2 @@
+description=Empty constructor with documenting javadoc still triggers
+expected_problems=1

@@ -1,0 +1,2 @@
+description=instantiating FileOutputStream
+expected_problems=1

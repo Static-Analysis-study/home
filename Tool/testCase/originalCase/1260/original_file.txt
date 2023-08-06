@@ -1,0 +1,2 @@
+description=anonymous inner class calls private method
+expected_problems=0

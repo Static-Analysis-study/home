@@ -1,0 +1,2 @@
+description=#1370 ConsecutiveAppendsShouldReuse not detected properly on StringBuffer - part 2
+expected_problems=2

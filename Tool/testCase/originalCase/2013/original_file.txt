@@ -1,0 +1,2 @@
+description=[java] CompareObjectsWithEqualsRule: False positive with Enums #2716
+expected_problems=0

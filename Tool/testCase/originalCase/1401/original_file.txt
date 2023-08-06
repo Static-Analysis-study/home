@@ -1,0 +1,2 @@
+description=#3605 switch on enum with default, exhaustive, arrow
+expected_problems=0

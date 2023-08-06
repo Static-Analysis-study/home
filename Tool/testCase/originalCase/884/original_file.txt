@@ -1,0 +1,2 @@
+description=violation: inline-reassign 'for' loop variable, only skip allowed
+expected_problems=1

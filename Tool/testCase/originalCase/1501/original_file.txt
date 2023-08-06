@@ -1,0 +1,2 @@
+description=#4037 false positive with Spring @SpyBean
+expected_problems=0

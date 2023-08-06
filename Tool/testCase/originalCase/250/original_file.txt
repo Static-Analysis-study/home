@@ -1,0 +1,2 @@
+description=ClassCastException in statement cast
+expected_problems=0

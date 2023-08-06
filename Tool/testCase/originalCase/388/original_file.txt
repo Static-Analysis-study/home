@@ -1,0 +1,2 @@
+description=12 fields, but 6 in inner and 6 in outer
+expected_problems=0

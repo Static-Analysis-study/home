@@ -1,0 +1,2 @@
+description=threshold test
+expected_problems=2

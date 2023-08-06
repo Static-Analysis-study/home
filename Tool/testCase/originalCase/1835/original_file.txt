@@ -1,0 +1,2 @@
+description=String.trim.isEmpty and length called in method argument
+expected_problems=6

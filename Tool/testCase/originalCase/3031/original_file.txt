@@ -1,0 +1,2 @@
+description=Bad Bean suffix
+expected_problems=1

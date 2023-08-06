@@ -1,0 +1,2 @@
+description=bad, param of type Hashtable
+expected_problems=1

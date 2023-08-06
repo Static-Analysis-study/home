@@ -1,0 +1,2 @@
+description=lots of coupling
+expected_problems=1

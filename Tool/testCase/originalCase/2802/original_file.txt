@@ -1,0 +1,2 @@
+description=Parentheses around binary expressions are really necessary
+expected_problems=0

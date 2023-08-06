@@ -1,0 +1,2 @@
+description=Three branches in a switch statement is ok.
+expected_problems=0

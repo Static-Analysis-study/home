@@ -1,0 +1,2 @@
+description=Bug 1932242 : False +, returning a String does not count as an Empty Method
+expected_problems=0

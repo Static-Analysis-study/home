@@ -1,0 +1,2 @@
+description=#1232 Make ShortClassName configurable (minimum length = 4)
+expected_problems=0

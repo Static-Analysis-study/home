@@ -1,0 +1,2 @@
+description=method param is HashMap
+expected_problems=1

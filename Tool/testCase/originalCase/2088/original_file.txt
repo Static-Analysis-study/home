@@ -1,0 +1,2 @@
+description=OK, 06 if strict is not set
+expected_problems=0

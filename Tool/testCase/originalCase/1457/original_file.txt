@@ -1,0 +1,2 @@
+description=interface sanity test
+expected_problems=0

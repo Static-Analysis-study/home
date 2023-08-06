@@ -1,0 +1,2 @@
+description=29, Adding two strings only
+expected_problems=0

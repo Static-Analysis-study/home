@@ -1,0 +1,2 @@
+description=constructor calls super, no args
+expected_problems=1

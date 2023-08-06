@@ -1,0 +1,2 @@
+description=the class is declared protected -- 2
+expected_problems=1

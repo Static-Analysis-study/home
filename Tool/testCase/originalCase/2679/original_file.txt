@@ -1,0 +1,2 @@
+description=log4j2: NPE in static block (see #1512)
+expected_problems=0

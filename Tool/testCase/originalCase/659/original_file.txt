@@ -1,0 +1,2 @@
+description=assertSame OK
+expected_problems=0

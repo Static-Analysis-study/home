@@ -1,0 +1,2 @@
+description=Ignore manual serialization
+expected_problems=0

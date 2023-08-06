@@ -1,0 +1,2 @@
+description=normal throw catch
+expected_problems=0

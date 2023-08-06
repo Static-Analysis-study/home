@@ -1,0 +1,2 @@
+description=FP with array access 1
+expected_problems=1

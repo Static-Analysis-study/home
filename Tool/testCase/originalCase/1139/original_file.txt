@@ -1,0 +1,2 @@
+description=Neg, enum constant
+expected_problems=0

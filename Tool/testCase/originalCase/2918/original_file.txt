@@ -1,0 +1,2 @@
+description=ok, float value with less than 3 numbers.
+expected_problems=0

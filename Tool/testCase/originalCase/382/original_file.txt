@@ -1,0 +1,2 @@
+description=#1457 TooManyMethods counts inner class methods
+expected_problems=0

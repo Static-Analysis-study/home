@@ -1,0 +1,2 @@
+description=fetch the value returned by getCause(), ok
+expected_problems=0

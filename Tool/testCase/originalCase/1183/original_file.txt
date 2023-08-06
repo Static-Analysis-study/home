@@ -1,0 +1,2 @@
+description=ok, in expression
+expected_problems=0

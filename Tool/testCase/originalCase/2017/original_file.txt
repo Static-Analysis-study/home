@@ -1,0 +1,2 @@
+description=constant field on some object, more complicated expr #3205
+expected_problems=0

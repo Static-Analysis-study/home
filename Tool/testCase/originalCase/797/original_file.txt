@@ -1,0 +1,2 @@
+description=JUnit Test contains assertEquals on boolean literal
+expected_problems=5

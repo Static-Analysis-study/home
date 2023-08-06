@@ -1,0 +1,2 @@
+description=Static field reassignment with ctor
+expected_problems=1

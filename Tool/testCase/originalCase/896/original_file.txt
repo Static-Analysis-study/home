@@ -1,0 +1,2 @@
+description=Consider also anonymous classes
+expected_problems=1

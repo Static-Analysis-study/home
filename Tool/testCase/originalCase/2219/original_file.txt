@@ -1,0 +1,2 @@
+description=False negative with method call as argument
+expected_problems=1

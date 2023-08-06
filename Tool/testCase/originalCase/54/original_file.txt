@@ -1,0 +1,2 @@
+description=#565 - inheritance use case - call to Thread().run()
+expected_problems=1

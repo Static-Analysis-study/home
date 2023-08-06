@@ -1,0 +1,2 @@
+description=bad, import from sun.
+expected_problems=1

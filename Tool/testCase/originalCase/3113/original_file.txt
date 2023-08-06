@@ -1,0 +1,2 @@
+description=elseif with missing braces, first braces on separate line
+expected_problems=1

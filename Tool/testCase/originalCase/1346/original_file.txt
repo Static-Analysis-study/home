@@ -1,0 +1,2 @@
+description=method, use varargs, deviation from exact main signature flagged
+expected_problems=1

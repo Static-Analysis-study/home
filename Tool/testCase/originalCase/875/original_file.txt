@@ -1,0 +1,2 @@
+description=no violation: incremented 'for' loop variable inside do-while
+expected_problems=0

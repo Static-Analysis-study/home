@@ -1,0 +1,2 @@
+description=16, False -, No violations reported by PreserveStackTrace Rule
+expected_problems=1

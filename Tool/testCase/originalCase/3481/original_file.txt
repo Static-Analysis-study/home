@@ -1,0 +1,2 @@
+description=Unnecessary final of private method
+expected_problems=1

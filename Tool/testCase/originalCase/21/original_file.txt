@@ -1,0 +1,2 @@
+description=bad, using new ThreadGroup()
+expected_problems=1

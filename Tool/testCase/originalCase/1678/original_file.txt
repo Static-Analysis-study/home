@@ -1,0 +1,2 @@
+description=10, Appending non-literals
+expected_problems=0

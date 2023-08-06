@@ -1,0 +1,2 @@
+description=#1436 UnnecessaryFullyQualifiedName false positive on clashing static imports with enums
+expected_problems=0

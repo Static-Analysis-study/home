@@ -1,0 +1,2 @@
+description=#282 UnnecessaryLocalBeforeReturn false positive when cloning Maps
+expected_problems=0

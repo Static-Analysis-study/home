@@ -1,0 +1,2 @@
+description=ok, class is final
+expected_problems=0

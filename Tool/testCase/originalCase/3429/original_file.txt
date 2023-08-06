@@ -1,0 +1,2 @@
+description=Pos, empty stmt in ctor
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1078 Package statement introduces false positive UnnecessaryFullyQualifiedName violation
+expected_problems=0

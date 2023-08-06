@@ -1,0 +1,2 @@
+description=interface methods are always public
+expected_problems=0

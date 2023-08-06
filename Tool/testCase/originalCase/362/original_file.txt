@@ -1,0 +1,2 @@
+description=Simple Method calls without chaining
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#1298 Member variable int type with value 0xff000000 causes processing error
+expected_problems=0

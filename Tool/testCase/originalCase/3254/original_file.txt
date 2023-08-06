@@ -1,0 +1,2 @@
+description=5, invalid extends
+expected_problems=1

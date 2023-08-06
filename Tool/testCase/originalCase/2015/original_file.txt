@@ -1,0 +1,2 @@
+description=static constant in other class #3205
+expected_problems=0

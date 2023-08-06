@@ -1,0 +1,2 @@
+description=Bug 2614040 : false + if a += assignment operator is used inside a method call.
+expected_problems=0

@@ -1,0 +1,2 @@
+description=PrintWriter based on StringWriter
+expected_problems=0

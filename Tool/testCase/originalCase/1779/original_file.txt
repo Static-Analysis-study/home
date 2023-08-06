@@ -1,0 +1,2 @@
+description=Shifting left and right #2692
+expected_problems=2

@@ -1,0 +1,2 @@
+description=Ok, assignment via postfix expression
+expected_problems=0

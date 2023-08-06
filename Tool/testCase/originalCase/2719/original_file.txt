@@ -1,0 +1,2 @@
+description=ok, calls super.clone
+expected_problems=0

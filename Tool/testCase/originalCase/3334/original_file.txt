@@ -1,0 +1,2 @@
+description=skip complicated returns
+expected_problems=0

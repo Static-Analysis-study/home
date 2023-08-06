@@ -1,0 +1,2 @@
+description=minimum length property, minimum length not reached
+expected_problems=0

@@ -1,0 +1,2 @@
+description=While loop with break (control for continue test above)
+expected_problems=1

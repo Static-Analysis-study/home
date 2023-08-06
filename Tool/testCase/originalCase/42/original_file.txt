@@ -1,0 +1,2 @@
+description=extending threads is not allowed
+expected_problems=1

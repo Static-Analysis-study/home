@@ -1,0 +1,2 @@
+description=ok, protected static field
+expected_problems=0

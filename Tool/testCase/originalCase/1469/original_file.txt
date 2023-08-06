@@ -1,0 +1,2 @@
+description=an assignment does not a usage make
+expected_problems=1

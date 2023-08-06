@@ -1,0 +1,2 @@
+description=[java] ArrayIsStoredDirectly reports duplicated violation #3879
+expected_problems=1

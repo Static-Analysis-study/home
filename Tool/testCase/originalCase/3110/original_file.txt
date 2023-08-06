@@ -1,0 +1,2 @@
+description=two sets of missing braces
+expected_problems=2

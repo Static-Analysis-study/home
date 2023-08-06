@@ -1,0 +1,2 @@
+description=ok, testing for .compareTo false positive
+expected_problems=0

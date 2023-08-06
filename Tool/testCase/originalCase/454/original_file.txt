@@ -1,0 +1,2 @@
+description=[java] ImmutableField: False positive when variable is updated in conditional loop
+expected_problems=0

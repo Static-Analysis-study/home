@@ -1,0 +1,2 @@
+description=#1058 False positive for VariableNamingConventions
+expected_problems=0

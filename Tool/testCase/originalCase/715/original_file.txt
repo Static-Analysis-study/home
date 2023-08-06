@@ -1,0 +1,2 @@
+description=there's a check for int declaration - not sure right now why
+expected_problems=1

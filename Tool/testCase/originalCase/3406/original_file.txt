@@ -1,0 +1,2 @@
+description=two constructors
+expected_problems=0

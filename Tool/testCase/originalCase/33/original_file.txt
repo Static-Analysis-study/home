@@ -1,0 +1,2 @@
+description=inversed null check see bug 2835074 False -: DoubleCheckedLocking with reversed null check (1)
+expected_problems=1

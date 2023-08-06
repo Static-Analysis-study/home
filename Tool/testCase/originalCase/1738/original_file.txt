@@ -1,0 +1,2 @@
+description=arrays of primitives
+expected_problems=7

@@ -1,0 +1,2 @@
+description=skip classes with only static methods
+expected_problems=0

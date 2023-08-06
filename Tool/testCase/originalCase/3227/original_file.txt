@@ -1,0 +1,2 @@
+description=single type import after wildcard import
+expected_problems=1

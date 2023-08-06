@@ -1,0 +1,2 @@
+description=instantiate self and reference private field on other object
+expected_problems=0

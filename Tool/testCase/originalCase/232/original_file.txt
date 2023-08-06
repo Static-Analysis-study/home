@@ -1,0 +1,2 @@
+description=return value of super
+expected_problems=1

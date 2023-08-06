@@ -1,0 +1,2 @@
+description=NullPointer while analyzing ExcessiveLengthRule
+expected_problems=0

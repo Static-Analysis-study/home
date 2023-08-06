@@ -1,0 +1,2 @@
+description=NPE when determining closeTarget
+expected_problems=1

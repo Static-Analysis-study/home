@@ -1,0 +1,2 @@
+description=returning a HashSet, bad
+expected_problems=1

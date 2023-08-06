@@ -1,0 +1,2 @@
+description=local variable, object ref, public field of which is incremented via in postfix expression
+expected_problems=0

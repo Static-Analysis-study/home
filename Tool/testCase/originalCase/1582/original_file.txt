@@ -1,0 +1,2 @@
+description=violation: FileItem get() used
+expected_problems=3

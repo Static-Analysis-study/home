@@ -1,0 +1,2 @@
+description=#2102 [java] False positive MissingStaticMethodInNonInstantiatableClass when inheritors are instantiable
+expected_problems=0

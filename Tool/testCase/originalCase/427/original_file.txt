@@ -1,0 +1,2 @@
+description=Ok, static field
+expected_problems=0

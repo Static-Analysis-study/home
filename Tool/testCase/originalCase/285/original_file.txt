@@ -1,0 +1,2 @@
+description=Inner class in sub-class false-negative
+expected_problems=1

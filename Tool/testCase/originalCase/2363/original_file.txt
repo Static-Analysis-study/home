@@ -1,0 +1,2 @@
+description=full class name false-negative test
+expected_problems=1

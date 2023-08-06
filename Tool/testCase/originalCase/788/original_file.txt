@@ -1,0 +1,2 @@
+description=nested class in interface
+expected_problems=1

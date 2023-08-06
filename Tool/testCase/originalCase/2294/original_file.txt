@@ -1,0 +1,2 @@
+description=JUnit3: abstract classes are ok
+expected_problems=0

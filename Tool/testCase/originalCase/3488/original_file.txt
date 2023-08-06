@@ -1,0 +1,2 @@
+description=Static Modifier on interface
+expected_problems=1

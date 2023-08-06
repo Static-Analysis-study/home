@@ -1,0 +1,2 @@
+description=#914 False +ve from UnusedImports with wildcard static imports
+expected_problems=0

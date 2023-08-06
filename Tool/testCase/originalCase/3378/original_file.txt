@@ -1,0 +1,2 @@
+description=Case, dangling unbraced statement
+expected_problems=1

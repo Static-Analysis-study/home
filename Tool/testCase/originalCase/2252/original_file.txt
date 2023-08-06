@@ -1,0 +1,2 @@
+description=[java] MissingStaticMethodInNonInstantiatableClass does not consider nested builder class #4174
+expected_problems=0

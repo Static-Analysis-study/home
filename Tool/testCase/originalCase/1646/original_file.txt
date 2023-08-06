@@ -1,0 +1,2 @@
+description=#1401 False positive for StringBuilder.append called with constructor
+expected_problems=0

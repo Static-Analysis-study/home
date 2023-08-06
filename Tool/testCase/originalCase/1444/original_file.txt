@@ -1,0 +1,2 @@
+description=conditional-and boolean literal
+expected_problems=28

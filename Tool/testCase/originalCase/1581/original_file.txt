@@ -1,0 +1,2 @@
+description=[java] UseStringBufferLength: false negative with empty string variable #3639
+expected_problems=1

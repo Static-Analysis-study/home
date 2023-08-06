@@ -1,0 +1,2 @@
+description=skip junit setUp method
+expected_problems=0

@@ -1,0 +1,2 @@
+description=all glommed together
+expected_problems=6

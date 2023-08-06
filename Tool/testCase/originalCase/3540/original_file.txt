@@ -1,0 +1,2 @@
+description=#1362 Methods returning Predicate are treated like booleans
+expected_problems=0

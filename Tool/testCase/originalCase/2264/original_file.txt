@@ -1,0 +1,2 @@
+description=False-positive/negative with multiple conditions
+expected_problems=2

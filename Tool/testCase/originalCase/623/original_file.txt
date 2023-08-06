@@ -1,0 +1,2 @@
+description=assignment to an array member will be treated as a usage
+expected_problems=0

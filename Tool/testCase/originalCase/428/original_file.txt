@@ -1,0 +1,2 @@
+description=Ok, one constructor assigns, one doesn't
+expected_problems=0

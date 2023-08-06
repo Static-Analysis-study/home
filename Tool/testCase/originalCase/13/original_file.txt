@@ -1,0 +1,2 @@
+description=OK, method is synchronized
+expected_problems=0

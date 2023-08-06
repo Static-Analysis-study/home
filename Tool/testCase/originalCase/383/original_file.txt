@@ -1,0 +1,2 @@
+description=Here, the user wants to ensure that there is no more than 2 HttpFilters in the all code.
+expected_problems=1

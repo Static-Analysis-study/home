@@ -1,0 +1,2 @@
+description=6, Consecutive variable appends without reuse, not ok
+expected_problems=2

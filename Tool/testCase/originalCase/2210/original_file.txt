@@ -1,0 +1,2 @@
+description=bug #1005 False + for ConstructorCallsOverridableMethod - overloaded methods
+expected_problems=0

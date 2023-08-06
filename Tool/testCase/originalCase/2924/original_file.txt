@@ -1,0 +1,2 @@
+description=ok, Float value with 'F' with less than 3 numbers
+expected_problems=0

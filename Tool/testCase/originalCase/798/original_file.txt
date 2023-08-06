@@ -1,0 +1,2 @@
+description=#1323 False positive case of UseAssertTrueInsteadOfAssertEquals
+expected_problems=0

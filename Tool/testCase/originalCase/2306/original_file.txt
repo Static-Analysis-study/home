@@ -1,0 +1,2 @@
+description=empty package-private test class identified by default testClassPattern
+expected_problems=1

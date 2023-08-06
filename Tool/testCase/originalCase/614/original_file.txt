@@ -1,0 +1,2 @@
+description=loop indexes are not unused locals
+expected_problems=0

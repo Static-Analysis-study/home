@@ -1,0 +1,2 @@
+description=Simple Method calls with local created object and other variable assignment
+expected_problems=0

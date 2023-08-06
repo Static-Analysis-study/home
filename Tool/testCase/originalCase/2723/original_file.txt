@@ -1,0 +1,2 @@
+description=ok, should not throw NullPointerException while processing primitive array allocation
+expected_problems=0

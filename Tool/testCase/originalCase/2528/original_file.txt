@@ -1,0 +1,2 @@
+description=ClassCastException with local record
+expected_problems=0

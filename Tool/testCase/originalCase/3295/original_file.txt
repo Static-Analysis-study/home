@@ -1,0 +1,2 @@
+description=False positive when same package inner class is referenced (not enum) #4085
+expected_problems=0

@@ -1,0 +1,2 @@
+description=[java] InvalidLogMessageFormat FP with StringFormattedMessage and ParameterizedMessage #3133
+expected_problems=2

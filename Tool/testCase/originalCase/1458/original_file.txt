@@ -1,0 +1,2 @@
+description=unused private field in static inner class
+expected_problems=1

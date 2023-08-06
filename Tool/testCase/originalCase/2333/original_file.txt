@@ -1,0 +1,2 @@
+description=implements hashCode but with args
+expected_problems=0

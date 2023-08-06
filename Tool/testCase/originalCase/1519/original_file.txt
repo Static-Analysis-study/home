@@ -1,0 +1,2 @@
+description=bad, literal comes last in .compareToIgnoreCase comparison
+expected_problems=1

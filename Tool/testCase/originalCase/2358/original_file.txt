@@ -1,0 +1,2 @@
+description=system exit in anonymous class inside main
+expected_problems=1

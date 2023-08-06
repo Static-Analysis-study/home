@@ -1,0 +1,2 @@
+description=Ok, field used to aggregate values
+expected_problems=0

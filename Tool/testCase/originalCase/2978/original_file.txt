@@ -1,0 +1,2 @@
+description=Test exception parameter property
+expected_problems=3

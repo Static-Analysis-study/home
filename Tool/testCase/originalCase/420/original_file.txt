@@ -1,0 +1,2 @@
+description=test for null on unrelated object is ok
+expected_problems=0

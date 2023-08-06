@@ -1,0 +1,2 @@
+description=arrays of objects
+expected_problems=2

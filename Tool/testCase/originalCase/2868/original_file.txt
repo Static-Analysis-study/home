@@ -1,0 +1,2 @@
+description=neg, nonempty synchronized stmt
+expected_problems=0

@@ -1,0 +1,2 @@
+description=bug 1626232, a separate variable initialization should not confuse the rule
+expected_problems=0

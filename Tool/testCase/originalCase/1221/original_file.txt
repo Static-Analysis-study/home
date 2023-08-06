@@ -1,0 +1,2 @@
+description=ok, Boolean.TRUE and Boolean.FALSE as method arguments
+expected_problems=0

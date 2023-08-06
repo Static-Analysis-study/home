@@ -1,0 +1,2 @@
+description=OK, double value
+expected_problems=0

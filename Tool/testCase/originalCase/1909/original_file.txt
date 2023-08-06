@@ -1,0 +1,2 @@
+description=concatenates a string explicitly set to 1 character, not explicitly checking right now
+expected_problems=0

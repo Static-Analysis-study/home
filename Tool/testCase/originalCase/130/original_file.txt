@@ -1,0 +1,2 @@
+description=Few public fields
+expected_problems=0

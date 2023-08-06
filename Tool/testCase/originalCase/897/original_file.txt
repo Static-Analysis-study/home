@@ -1,0 +1,2 @@
+description=Public modifier is not necessary on a test method nor on the class
+expected_problems=2

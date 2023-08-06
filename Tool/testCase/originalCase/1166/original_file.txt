@@ -1,0 +1,2 @@
+description=Protected methods of Object redefined in an interface cannot have @Override
+expected_problems=0

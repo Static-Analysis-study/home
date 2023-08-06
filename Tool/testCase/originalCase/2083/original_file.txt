@@ -1,0 +1,2 @@
+description=OK, hex value
+expected_problems=0

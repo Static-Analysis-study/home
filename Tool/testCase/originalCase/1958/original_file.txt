@@ -1,0 +1,2 @@
+description=Using Vector as field
+expected_problems=1

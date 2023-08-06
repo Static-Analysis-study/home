@@ -1,0 +1,2 @@
+description=private field with field of same name in anonymous inner class
+expected_problems=1

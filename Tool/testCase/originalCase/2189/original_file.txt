@@ -1,0 +1,2 @@
+description=public static with no params is OK
+expected_problems=0

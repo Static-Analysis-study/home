@@ -1,0 +1,2 @@
+description=Use of Runnable is also not forbidden see https://github.com/pmd/pmd/issues/1627
+expected_problems=0

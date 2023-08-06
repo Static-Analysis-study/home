@@ -1,0 +1,2 @@
+description=Public method with 4 String parameters
+expected_problems=1

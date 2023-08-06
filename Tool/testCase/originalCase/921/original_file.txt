@@ -1,0 +1,2 @@
+description=17, PreserveStackTrace Rule should exclude this as initCause is used.
+expected_problems=0

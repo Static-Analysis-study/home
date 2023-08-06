@@ -1,0 +1,2 @@
+description=ByteArrayOutputStream and StringWriter do not need closing
+expected_problems=0

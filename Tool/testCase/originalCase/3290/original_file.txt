@@ -1,0 +1,2 @@
+description=False negative when name refers to static field
+expected_problems=1

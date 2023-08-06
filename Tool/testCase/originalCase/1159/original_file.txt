@@ -1,0 +1,2 @@
+description=Consider method inherited from generic supertype with overloads
+expected_problems=2

@@ -1,0 +1,2 @@
+description=statement block not empty
+expected_problems=0

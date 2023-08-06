@@ -1,0 +1,2 @@
+description=#1135 CheckResultSet ignores results set declared outside of try/catch (good case)
+expected_problems=0

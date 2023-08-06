@@ -1,0 +1,2 @@
+description=#1465 False Positve UnusedImports with javadoc @link
+expected_problems=0

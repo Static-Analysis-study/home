@@ -1,0 +1,2 @@
+description=The result set is appropriately tested before using it, no violation.
+expected_problems=0

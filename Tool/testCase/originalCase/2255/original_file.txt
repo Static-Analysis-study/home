@@ -1,0 +1,2 @@
+description=rule violated twice
+expected_problems=2

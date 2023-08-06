@@ -1,0 +1,2 @@
+description=Catch in loop (reportUnusedVariables)
+expected_problems=1

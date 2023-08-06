@@ -1,0 +1,2 @@
+description=null check after method invocation with conditional AND and !=
+expected_problems=4

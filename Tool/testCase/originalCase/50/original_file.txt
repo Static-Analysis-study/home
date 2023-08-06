@@ -1,0 +1,2 @@
+description=#1034 UseConcurrentHashMap flags calls to methods that return Map
+expected_problems=0

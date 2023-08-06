@@ -1,0 +1,2 @@
+description=Don't skip classes with non-static methods; #1216 AtLeastOneConstructor ignores classes with *any* methods
+expected_problems=1

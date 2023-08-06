@@ -1,0 +1,2 @@
+description=assertSame is not applicable on primitives
+expected_problems=2

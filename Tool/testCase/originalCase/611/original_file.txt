@@ -1,0 +1,2 @@
+description=local used on rhs
+expected_problems=0

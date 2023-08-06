@@ -1,0 +1,2 @@
+description=not a JUnit test - assertFalse(!)
+expected_problems=0

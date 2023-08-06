@@ -1,0 +1,2 @@
+description=assertEquals bad
+expected_problems=1

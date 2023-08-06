@@ -1,0 +1,2 @@
+description=empty array initialization
+expected_problems=0

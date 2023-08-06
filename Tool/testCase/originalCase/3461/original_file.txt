@@ -1,0 +1,2 @@
+description=Unnecessary final on annotation field
+expected_problems=1

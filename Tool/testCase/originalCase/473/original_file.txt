@@ -1,0 +1,2 @@
+description=throwing a different exception, ok
+expected_problems=0

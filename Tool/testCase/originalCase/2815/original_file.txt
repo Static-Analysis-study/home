@@ -1,0 +1,2 @@
+description=#199 UselessParentheses false positive on equals operator
+expected_problems=0

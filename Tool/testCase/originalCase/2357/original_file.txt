@@ -1,0 +1,2 @@
+description=system exit in main
+expected_problems=0

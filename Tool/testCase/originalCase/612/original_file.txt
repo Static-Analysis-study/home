@@ -1,0 +1,2 @@
+description=unused local in static initializer
+expected_problems=1

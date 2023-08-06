@@ -1,0 +1,2 @@
+description=#869 [java] GuardLogStatement false positive with Math.log
+expected_problems=0

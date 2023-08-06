@@ -1,0 +1,2 @@
+description=ShortVariable within for-each loops
+expected_problems=1

@@ -1,0 +1,2 @@
+description=implements interface other than Comparable, not resolvable
+expected_problems=1

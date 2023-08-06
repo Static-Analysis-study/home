@@ -1,0 +1,2 @@
+description=Issue #1003: UnnecessaryConstructor triggered on required empty constructor (Dagger @Inject)
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Using a 'while' instead of 'if' shouldn't result in a violation.
+expected_problems=0

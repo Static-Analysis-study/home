@@ -1,0 +1,2 @@
+description=#1216 [java] UnnecessaryFullyQualifiedName false positive for the same name method
+expected_problems=0

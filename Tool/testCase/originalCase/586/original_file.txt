@@ -1,0 +1,2 @@
+description=imports used in javadoc comment, see also bug #254
+expected_problems=0

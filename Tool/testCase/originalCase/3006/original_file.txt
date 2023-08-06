@@ -1,0 +1,2 @@
+description=#1349 VariableNamingConventions : underscore in final but at first position ?
+expected_problems=0

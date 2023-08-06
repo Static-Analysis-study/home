@@ -1,0 +1,2 @@
+description=unused local with assignment
+expected_problems=1

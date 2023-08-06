@@ -1,0 +1,2 @@
+description=ok, doesn't implement Cloneable but only throw CloneNotSupportedException
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1684 comment required on serialPersistentFields not final
+expected_problems=1

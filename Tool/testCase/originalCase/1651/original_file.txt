@@ -1,0 +1,2 @@
+description=FN append inside if statement
+expected_problems=2

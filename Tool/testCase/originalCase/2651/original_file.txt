@@ -1,0 +1,2 @@
+description=Null pointer with VariableNameDeclaration / VariableDeclaratorId
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Inline IvSpec Random IV, good
+expected_problems=0

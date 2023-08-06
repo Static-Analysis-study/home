@@ -1,0 +1,2 @@
+description=#2934 False negative - class with fields
+expected_problems=4

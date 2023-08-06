@@ -1,0 +1,2 @@
+description=new Byte(), bad
+expected_problems=1

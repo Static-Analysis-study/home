@@ -1,0 +1,2 @@
+description=Package-protected logger when static final is not required
+expected_problems=1

@@ -1,0 +1,2 @@
+description=ok, protected method in final class that does extend something
+expected_problems=0

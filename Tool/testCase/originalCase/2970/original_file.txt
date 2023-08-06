@@ -1,0 +1,2 @@
+description=ShortClassName works with private classes.
+expected_problems=1

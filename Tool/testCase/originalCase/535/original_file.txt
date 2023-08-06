@@ -1,0 +1,2 @@
+description=#1683 [java] CommentRequired property names are inconsistent - use new property
+expected_problems=1

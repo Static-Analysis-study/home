@@ -1,0 +1,2 @@
+description=do not crash on super
+expected_problems=0

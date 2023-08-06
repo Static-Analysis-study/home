@@ -1,0 +1,2 @@
+description=Compound with parentheses
+expected_problems=8

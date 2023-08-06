@@ -1,0 +1,2 @@
+description=Detect empty statements
+expected_problems=1

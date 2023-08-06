@@ -1,0 +1,2 @@
+description=Bug #1064 Exception running PrematureDeclaration
+expected_problems=0

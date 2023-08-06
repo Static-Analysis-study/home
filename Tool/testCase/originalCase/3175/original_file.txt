@@ -1,0 +1,2 @@
+description=AvoidPrefixingMethodParameters basic test case, no violation
+expected_problems=0

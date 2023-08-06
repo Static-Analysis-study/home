@@ -1,0 +1,2 @@
+description=JUnit3: inner class should get checked
+expected_problems=1

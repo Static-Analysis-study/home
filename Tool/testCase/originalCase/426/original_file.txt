@@ -1,0 +1,2 @@
+description=Ok, assigned twice
+expected_problems=0

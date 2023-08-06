@@ -1,0 +1,2 @@
+description=#942 CheckResultSet False Positive
+expected_problems=1

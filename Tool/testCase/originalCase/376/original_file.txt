@@ -1,0 +1,2 @@
+description=[java] LawOfDemeter: False positive with 'this' pointer #2174
+expected_problems=0

@@ -1,0 +1,2 @@
+description=multiple similar params
+expected_problems=0

@@ -1,0 +1,2 @@
+description=http://stackoverflow.com/questions/34911230/pmd-uselessparentheses-violation: false + with & and <<
+expected_problems=0

@@ -1,0 +1,2 @@
+description=failure with multiple constructors
+expected_problems=1

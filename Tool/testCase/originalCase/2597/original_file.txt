@@ -1,0 +1,2 @@
+description=DU anomaly
+expected_problems=1

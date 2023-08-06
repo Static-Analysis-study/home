@@ -1,0 +1,2 @@
+description=Consider iterators
+expected_problems=1

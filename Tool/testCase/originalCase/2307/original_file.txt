@@ -1,0 +1,2 @@
+description=empty test class identified by special testClassPattern
+expected_problems=1

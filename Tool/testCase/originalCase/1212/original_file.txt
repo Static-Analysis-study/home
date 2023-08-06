@@ -1,0 +1,2 @@
+description=#940 False positive with JUnit4TestShouldUseBeforeAnnotation when JUnit5's 'BeforeAll' is used
+expected_problems=0

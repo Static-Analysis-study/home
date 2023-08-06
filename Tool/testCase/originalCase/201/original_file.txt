@@ -1,0 +1,2 @@
+description=bug 3574133 - false + with enums
+expected_problems=0

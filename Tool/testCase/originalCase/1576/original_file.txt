@@ -1,0 +1,2 @@
+description=empty + non-empty string sb.toString().equals("" + "x"), ok (as in: do not use StringBuffer.length())
+expected_problems=0

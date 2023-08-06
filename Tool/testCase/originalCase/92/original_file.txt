@@ -1,0 +1,2 @@
+description=Private abstract classes with abstract methods should be ignored #3668
+expected_problems=0

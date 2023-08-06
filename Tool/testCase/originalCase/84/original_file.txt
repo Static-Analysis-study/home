@@ -1,0 +1,2 @@
+description=Simple violation
+expected_problems=1

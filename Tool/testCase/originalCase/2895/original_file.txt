@@ -1,0 +1,2 @@
+description=extends nothing
+expected_problems=0

@@ -1,0 +1,2 @@
+description=interface with 10 fields
+expected_problems=0

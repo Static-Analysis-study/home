@@ -1,0 +1,2 @@
+description=#1111 False positive: Useless parentheses
+expected_problems=0

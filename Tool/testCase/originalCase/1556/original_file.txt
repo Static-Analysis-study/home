@@ -1,0 +1,2 @@
+description=[java] StringToString doesn't trigger on string literals #3681
+expected_problems=1

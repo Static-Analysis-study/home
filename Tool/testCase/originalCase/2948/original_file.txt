@@ -1,0 +1,2 @@
+description=#1288 MethodNamingConventions for native should be deactivated
+expected_problems=0

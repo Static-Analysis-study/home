@@ -1,0 +1,2 @@
+description=assertEquals with delta bad
+expected_problems=1

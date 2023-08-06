@@ -1,0 +1,2 @@
+description=serialVersionUID is OK
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Take serialPersistentFields into account - variant 2
+expected_problems=0

@@ -1,0 +1,2 @@
+description=slf4j: #2196 [java] InvalidLogMessageFormat does not detect extra parameters when no placeholders
+expected_problems=2

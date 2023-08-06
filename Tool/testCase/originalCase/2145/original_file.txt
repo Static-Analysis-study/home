@@ -1,0 +1,2 @@
+description=ok, implements interface in same package which extends Cloneable
+expected_problems=0

@@ -1,0 +1,2 @@
+description=1 import stmt, used only in throws clause
+expected_problems=0

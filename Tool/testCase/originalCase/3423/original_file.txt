@@ -1,0 +1,2 @@
+description=Should match on multiple parameters when checkParameterizedMethods = true
+expected_problems=1

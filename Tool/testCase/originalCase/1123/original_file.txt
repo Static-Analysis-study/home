@@ -1,0 +1,2 @@
+description=Don't report params of native methods (reportUnusedVariables)
+expected_problems=0

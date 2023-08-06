@@ -1,0 +1,2 @@
+description=Boolean operators
+expected_problems=1

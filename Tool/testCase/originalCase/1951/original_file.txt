@@ -1,0 +1,2 @@
+description=violation: Calendar.getInstance().getTimeInMillis()
+expected_problems=2

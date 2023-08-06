@@ -1,0 +1,2 @@
+description=JUnit4: false positive with anonymous class inside test class
+expected_problems=0

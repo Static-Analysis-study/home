@@ -1,0 +1,2 @@
+description=#2976 FP with array length
+expected_problems=0

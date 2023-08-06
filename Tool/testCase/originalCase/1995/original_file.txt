@@ -1,0 +1,2 @@
+description=primitives are ok
+expected_problems=0

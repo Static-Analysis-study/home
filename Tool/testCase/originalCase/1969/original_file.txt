@@ -1,0 +1,2 @@
+description=byte array constructor is ok
+expected_problems=0

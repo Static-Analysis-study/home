@@ -1,0 +1,2 @@
+description=#1215 AvoidInstantiatingObjectsInLoops matches the right side of a list iteration loop
+expected_problems=0

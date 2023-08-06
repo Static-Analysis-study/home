@@ -1,0 +1,2 @@
+description=adding synchronized is OK, see sf-bug #423
+expected_problems=0

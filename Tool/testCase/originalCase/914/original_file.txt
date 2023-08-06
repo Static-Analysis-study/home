@@ -1,0 +1,2 @@
+description=10, Throwing new Exception, OK
+expected_problems=0

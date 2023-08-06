@@ -1,0 +1,2 @@
+description=for loop var
+expected_problems=1

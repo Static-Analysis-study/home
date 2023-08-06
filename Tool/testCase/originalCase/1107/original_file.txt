@@ -1,0 +1,2 @@
+description=Unused formal value
+expected_problems=1

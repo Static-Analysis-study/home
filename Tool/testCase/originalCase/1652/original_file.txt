@@ -1,0 +1,2 @@
+description=FP with constructor, append in while
+expected_problems=0

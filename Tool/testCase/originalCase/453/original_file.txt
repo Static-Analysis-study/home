@@ -1,0 +1,2 @@
+description=#2075 [java] ImmutableField false positive with inner class
+expected_problems=0

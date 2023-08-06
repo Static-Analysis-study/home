@@ -1,0 +1,2 @@
+description=2, Consecutive appends with reuse, should be ok
+expected_problems=0

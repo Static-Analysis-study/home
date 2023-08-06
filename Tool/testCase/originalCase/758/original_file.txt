@@ -1,0 +1,2 @@
+description=#3254 AvoidReassigningParameters reports wrong line numbers
+expected_problems=1

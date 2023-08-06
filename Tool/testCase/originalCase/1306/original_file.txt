@@ -1,0 +1,2 @@
+description=#1286 UnusedPrivateMethod returns false positives for varags
+expected_problems=0

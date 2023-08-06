@@ -1,0 +1,2 @@
+description=3, StringBuffer allocated with space
+expected_problems=0

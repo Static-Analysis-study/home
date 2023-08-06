@@ -1,0 +1,2 @@
+description=static constant #3205
+expected_problems=0

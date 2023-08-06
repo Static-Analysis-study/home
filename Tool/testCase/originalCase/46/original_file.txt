@@ -1,0 +1,2 @@
+description=Using Executors directly is not allowed
+expected_problems=2

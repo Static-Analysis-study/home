@@ -1,0 +1,2 @@
+description=AvoidReassigningLoopVariables detects some harmless reassigning of loop variables in foreach #2595
+expected_problems=1

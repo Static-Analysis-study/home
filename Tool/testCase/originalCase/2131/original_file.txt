@@ -1,0 +1,2 @@
+description=return value is used in a function
+expected_problems=0

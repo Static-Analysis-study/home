@@ -1,0 +1,2 @@
+description=#1422 UselessQualifiedThis: False positive with Java 8 Function
+expected_problems=0

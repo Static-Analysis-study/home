@@ -1,0 +1,2 @@
+description=ok (from AvoidConstantsInInterface)
+expected_problems=0

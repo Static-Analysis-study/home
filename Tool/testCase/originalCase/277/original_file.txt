@@ -1,0 +1,2 @@
+description=Lombok NoArgsConstructor with no access level- should be a utility class
+expected_problems=1

@@ -1,0 +1,2 @@
+description=ok, default constructor
+expected_problems=0

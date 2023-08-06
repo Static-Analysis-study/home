@@ -1,0 +1,2 @@
+description=method does not declare any exception
+expected_problems=0

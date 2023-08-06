@@ -1,0 +1,2 @@
+description=DU anomaly false positive? #1304
+expected_problems=0

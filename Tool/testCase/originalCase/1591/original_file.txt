@@ -1,0 +1,2 @@
+description=4, Single append on different objects, should be ok
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Array dimensioner uses method call, performance issue
+expected_problems=1

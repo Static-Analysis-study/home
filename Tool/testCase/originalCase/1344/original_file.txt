@@ -1,0 +1,2 @@
+description=method, do not varargs, allow @Override
+expected_problems=0

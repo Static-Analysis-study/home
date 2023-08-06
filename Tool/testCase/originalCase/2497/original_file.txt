@@ -1,0 +1,2 @@
+description=A custom StringWriter does need closing
+expected_problems=1

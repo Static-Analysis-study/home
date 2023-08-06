@@ -1,0 +1,2 @@
+description=JTextArea.append
+expected_problems=0

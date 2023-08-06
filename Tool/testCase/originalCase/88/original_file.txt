@@ -1,0 +1,2 @@
+description=Ok, subclass using the private constructor of another subclass
+expected_problems=0

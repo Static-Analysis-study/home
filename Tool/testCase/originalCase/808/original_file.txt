@@ -1,0 +1,2 @@
+description=Array positives
+expected_problems=2

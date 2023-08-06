@@ -1,0 +1,2 @@
+description=Wrong class name
+expected_problems=1

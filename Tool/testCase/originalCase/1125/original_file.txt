@@ -1,0 +1,2 @@
+description=Try stmt FP in try when method can throw (2) #2684
+expected_problems=1

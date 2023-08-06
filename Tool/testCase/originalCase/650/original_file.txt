@@ -1,0 +1,2 @@
+description=assertEquals with delta but missing assertion message not ok
+expected_problems=1

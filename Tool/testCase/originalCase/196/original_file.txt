@@ -1,0 +1,2 @@
+description=Not ok, violation with first usage = non-assignment
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Method Contains As: Transformation methods with configured infix
+expected_problems=1

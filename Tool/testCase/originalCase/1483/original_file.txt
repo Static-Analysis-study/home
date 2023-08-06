@@ -1,0 +1,2 @@
+description=#1420 UnusedPrivateField: Ignore fields if using lombok - 3
+expected_problems=0

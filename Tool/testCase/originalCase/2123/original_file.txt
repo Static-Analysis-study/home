@@ -1,0 +1,2 @@
+description=empty try with finally
+expected_problems=0

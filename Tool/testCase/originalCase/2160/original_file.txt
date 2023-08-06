@@ -1,0 +1,2 @@
+description=toUpperCase() with no args
+expected_problems=1

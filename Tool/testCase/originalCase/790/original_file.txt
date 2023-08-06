@@ -1,0 +1,2 @@
+description=use assert equals
+expected_problems=0

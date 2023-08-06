@@ -1,0 +1,2 @@
+description=AvoidPrefixingMethodParameters basic test case: in is not a prefix, not using camel case in parameter name.
+expected_problems=0

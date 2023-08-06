@@ -1,0 +1,2 @@
+description=local finals are ok
+expected_problems=0

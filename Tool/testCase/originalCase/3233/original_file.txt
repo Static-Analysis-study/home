@@ -1,0 +1,2 @@
+description=[java] DuplicateImports reported for the same import... and import static... #2546
+expected_problems=1

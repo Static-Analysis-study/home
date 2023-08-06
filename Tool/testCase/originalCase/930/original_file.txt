@@ -1,0 +1,2 @@
+description=#794 False positive on PreserveStackTrace with anonymous inner
+expected_problems=0

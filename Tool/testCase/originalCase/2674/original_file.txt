@@ -1,0 +1,2 @@
+description=Log4j2: False positive with placeholder and exception
+expected_problems=0

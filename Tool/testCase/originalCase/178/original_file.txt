@@ -1,0 +1,2 @@
+description=skip statics
+expected_problems=0

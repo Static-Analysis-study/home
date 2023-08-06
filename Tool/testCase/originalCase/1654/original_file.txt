@@ -1,0 +1,2 @@
+description=Consecutive literal append over try
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Basic test case for AvoidStringBufferField
+expected_problems=2

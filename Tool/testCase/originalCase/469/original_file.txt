@@ -1,0 +1,2 @@
+description=JUnit 5 - assertFalse(!)
+expected_problems=1

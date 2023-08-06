@@ -1,0 +1,2 @@
+description=674394, disambiguation import should be allowed
+expected_problems=0

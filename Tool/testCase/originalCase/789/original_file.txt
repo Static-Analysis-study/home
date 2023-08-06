@@ -1,0 +1,2 @@
+description=[java] MethodReturnsInternalArray doesn't consider anonymous classes #3630
+expected_problems=1

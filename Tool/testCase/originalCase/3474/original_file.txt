@@ -1,0 +1,2 @@
+description=final and non-final methods mixed
+expected_problems=0

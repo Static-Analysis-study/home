@@ -1,0 +1,2 @@
+description=Public fields
+expected_problems=1

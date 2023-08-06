@@ -1,0 +1,2 @@
+description=Wrong guard method for java util logging
+expected_problems=1

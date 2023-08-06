@@ -1,0 +1,2 @@
+description=ok, should be ignored in case both operands are string literals
+expected_problems=0

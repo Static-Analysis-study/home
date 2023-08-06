@@ -1,0 +1,2 @@
+description=Other valid methods.
+expected_problems=0

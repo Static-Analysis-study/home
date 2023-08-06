@@ -1,0 +1,2 @@
+description=Allow the result of ResultSet navigation methods to be returned
+expected_problems=0

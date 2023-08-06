@@ -1,0 +1,2 @@
+description=#1449 false positive when casting a variable to short
+expected_problems=0

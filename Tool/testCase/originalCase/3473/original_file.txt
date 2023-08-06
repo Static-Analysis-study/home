@@ -1,0 +1,2 @@
+description=final method on non-final class is ok
+expected_problems=0

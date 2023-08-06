@@ -1,0 +1,2 @@
+description=Class with only static members except constructors should be a utility class
+expected_problems=1

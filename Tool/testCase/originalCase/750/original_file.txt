@@ -1,0 +1,2 @@
+description=assignment to array slot
+expected_problems=0

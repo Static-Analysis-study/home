@@ -1,0 +1,2 @@
+description=Do while 1
+expected_problems=1

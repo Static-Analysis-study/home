@@ -1,0 +1,2 @@
+description=method in lambda expression is ok
+expected_problems=0

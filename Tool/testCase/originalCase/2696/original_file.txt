@@ -1,0 +1,2 @@
+description=[java] InvalidLogMessageFormat: false positives with logstash structured logging #3644
+expected_problems=2

@@ -1,0 +1,2 @@
+description=Consider generic method
+expected_problems=1

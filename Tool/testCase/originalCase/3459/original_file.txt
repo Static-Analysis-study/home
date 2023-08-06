@@ -1,0 +1,2 @@
+description=Unnecessary public on annotation element
+expected_problems=1

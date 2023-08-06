@@ -1,0 +1,2 @@
+description=for statement without braces
+expected_problems=1

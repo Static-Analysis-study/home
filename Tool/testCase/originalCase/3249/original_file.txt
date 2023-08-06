@@ -1,0 +1,2 @@
+description=Necessary imports for @snippet tags introduced with JEP 413 in Java 18
+expected_problems=0

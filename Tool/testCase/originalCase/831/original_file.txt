@@ -1,0 +1,2 @@
+description=#1224 GuardDebugLogging broken in 5.1.1 - missing additive statement check in log statement - apache commons logging
+expected_problems=0

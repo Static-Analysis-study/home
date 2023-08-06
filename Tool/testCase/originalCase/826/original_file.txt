@@ -1,0 +1,2 @@
+description=Complex logging with misplaced guard - apache commons logging
+expected_problems=1

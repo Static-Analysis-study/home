@@ -1,0 +1,2 @@
+description=Interface fields should be treated like public constants
+expected_problems=3

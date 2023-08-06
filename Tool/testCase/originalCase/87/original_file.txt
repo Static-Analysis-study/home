@@ -1,0 +1,2 @@
+description=Ok, subclass using the private constructor
+expected_problems=0

@@ -1,0 +1,2 @@
+description=[java] UnnecessaryFullyQualifiedName FP when the same simple class name exists in the current package #4139
+expected_problems=0

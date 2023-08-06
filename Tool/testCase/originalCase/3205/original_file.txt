@@ -1,0 +1,2 @@
+description=#1720 False Positive in UnusedImports for Javadoc link with array type
+expected_problems=0

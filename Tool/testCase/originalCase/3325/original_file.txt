@@ -1,0 +1,2 @@
+description=Test class (JUnit5) with non-default testClassPattern #2867
+expected_problems=0

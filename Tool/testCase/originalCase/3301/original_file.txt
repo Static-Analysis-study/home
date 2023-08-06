@@ -1,0 +1,2 @@
+description=[java] UnnecessaryFullyQualifiedName - FP for inner class pkg.ClassA.Foo implementing pkg.Foo #4133
+expected_problems=0

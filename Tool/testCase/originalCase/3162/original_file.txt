@@ -1,0 +1,2 @@
+description=False negative for nested type parameters (#2545)
+expected_problems=3

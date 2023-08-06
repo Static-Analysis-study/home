@@ -1,0 +1,2 @@
+description=Consider properties not backed by a field (computed values)
+expected_problems=1

@@ -1,0 +1,2 @@
+description=using indexOf(singleCharString, int)
+expected_problems=1

@@ -1,0 +1,2 @@
+description=sb.toString().trim().equals(""), ok (as in: do not use StringBuffer.length())
+expected_problems=0

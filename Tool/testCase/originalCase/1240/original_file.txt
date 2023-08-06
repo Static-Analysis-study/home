@@ -1,0 +1,2 @@
+description=Character.valueOf(), ok
+expected_problems=0

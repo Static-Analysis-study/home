@@ -1,0 +1,2 @@
+description=20, String concatenation with non-literal, incorrect presize
+expected_problems=2

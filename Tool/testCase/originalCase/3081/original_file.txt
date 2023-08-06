@@ -1,0 +1,2 @@
+description=Shouldn't trigger on try blocks
+expected_problems=0

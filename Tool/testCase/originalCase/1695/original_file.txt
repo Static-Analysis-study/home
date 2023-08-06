@@ -1,0 +1,2 @@
+description=28, Compound if, pushed over the edge
+expected_problems=2

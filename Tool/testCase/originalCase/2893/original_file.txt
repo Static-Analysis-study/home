@@ -1,0 +1,2 @@
+description=JDK 1.5 for loop
+expected_problems=0

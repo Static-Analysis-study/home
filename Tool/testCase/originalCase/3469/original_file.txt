@@ -1,0 +1,2 @@
+description=Unnecessary static on interface nested enum
+expected_problems=2

@@ -1,0 +1,2 @@
+description=final non-statics need not be all caps
+expected_problems=0

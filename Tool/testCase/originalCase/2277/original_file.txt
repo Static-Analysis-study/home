@@ -1,0 +1,2 @@
+description=1556594 - Wonky detection of NullAssignment
+expected_problems=0

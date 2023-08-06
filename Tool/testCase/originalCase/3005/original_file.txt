@@ -1,0 +1,2 @@
+description=#1346 VariableNamingConventions do not work for method parameters
+expected_problems=1

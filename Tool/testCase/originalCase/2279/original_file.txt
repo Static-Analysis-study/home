@@ -1,0 +1,2 @@
+description=[java] NullAssignment false positive - no direct assignment, but lambda #629
+expected_problems=0

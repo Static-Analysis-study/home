@@ -1,0 +1,2 @@
+description=violation: incremented 'for' loop variable inside switch expression
+expected_problems=1

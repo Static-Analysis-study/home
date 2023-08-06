@@ -1,0 +1,2 @@
+description=two loggers
+expected_problems=1

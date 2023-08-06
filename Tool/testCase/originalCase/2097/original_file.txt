@@ -1,0 +1,2 @@
+description=Just skip interfaces
+expected_problems=0

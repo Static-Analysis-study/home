@@ -1,0 +1,2 @@
+description=PrematureDeclaration should also check inside lambdas
+expected_problems=1

@@ -1,0 +1,2 @@
+description=fetch the value returned by getMessage(), ok
+expected_problems=0

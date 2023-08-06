@@ -1,0 +1,2 @@
+description=Lambda captured var use
+expected_problems=0

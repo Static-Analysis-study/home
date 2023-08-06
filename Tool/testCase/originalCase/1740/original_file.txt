@@ -1,0 +1,2 @@
+description=mixed arrays
+expected_problems=5

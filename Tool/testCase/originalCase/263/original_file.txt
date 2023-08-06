@@ -1,0 +1,2 @@
+description=abstract, so ok
+expected_problems=0

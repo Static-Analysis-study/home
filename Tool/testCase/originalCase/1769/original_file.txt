@@ -1,0 +1,2 @@
+description=copy via do-while loop #4091
+expected_problems=1

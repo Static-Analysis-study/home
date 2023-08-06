@@ -1,0 +1,2 @@
+description=assert as identifier - local var
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Static method pattern
+expected_problems=1

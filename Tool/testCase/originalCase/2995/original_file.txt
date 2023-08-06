@@ -1,0 +1,2 @@
+description=Rule property control
+expected_problems=5

@@ -1,0 +1,2 @@
+description=[java] CloseResource: false positive with reassignment detection #2977
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Backwards compatibility with minimum property
+expected_problems=0

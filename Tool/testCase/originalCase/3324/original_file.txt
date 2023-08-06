@@ -1,0 +1,2 @@
+description=Test class (JUnit5) correctly named #2867
+expected_problems=0

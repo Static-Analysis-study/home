@@ -1,0 +1,2 @@
+description=concatenating two non-literals
+expected_problems=1

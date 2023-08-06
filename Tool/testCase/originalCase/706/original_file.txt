@@ -1,0 +1,2 @@
+description=#2288 JUnitTestsShouldIncludeAssertRule should support `Matchers.assertThat`
+expected_problems=0

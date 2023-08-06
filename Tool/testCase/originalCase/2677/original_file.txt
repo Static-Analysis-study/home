@@ -1,0 +1,2 @@
+description=NPE in PMD 5.8.1 Log4j2
+expected_problems=0

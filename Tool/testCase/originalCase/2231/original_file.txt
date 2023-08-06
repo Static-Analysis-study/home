@@ -1,0 +1,2 @@
+description=nested class
+expected_problems=0

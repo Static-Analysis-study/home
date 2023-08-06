@@ -1,0 +1,2 @@
+description=#1438 UseNotifyAllInsteadOfNotify gives false positive
+expected_problems=0

@@ -1,0 +1,2 @@
+description=[java] LawOfDemeter: False positive when casting to derived class #2189
+expected_problems=0

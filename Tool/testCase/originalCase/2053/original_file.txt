@@ -1,0 +1,2 @@
+description=bad, instanceof FooException
+expected_problems=1

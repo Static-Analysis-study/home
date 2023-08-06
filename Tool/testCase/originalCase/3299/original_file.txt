@@ -1,0 +1,2 @@
+description=False-Negative when referencing inner class
+expected_problems=7

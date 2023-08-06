@@ -1,0 +1,2 @@
+description=If chain, checkSingleIfStmt doesn't apply
+expected_problems=2

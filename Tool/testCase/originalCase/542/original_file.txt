@@ -1,0 +1,2 @@
+description=False positive with no autocloseable
+expected_problems=0

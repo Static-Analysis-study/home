@@ -1,0 +1,2 @@
+description=null check, ok (ternary) - #278
+expected_problems=0

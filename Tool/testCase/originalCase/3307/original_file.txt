@@ -1,0 +1,2 @@
+description=Control annotation convention
+expected_problems=1

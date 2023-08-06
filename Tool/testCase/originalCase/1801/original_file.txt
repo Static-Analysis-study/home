@@ -1,0 +1,2 @@
+description=short as annotation property
+expected_problems=1

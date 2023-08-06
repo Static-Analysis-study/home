@@ -1,0 +1,2 @@
+description=JUnit 5 Test contains more than one assert
+expected_problems=5

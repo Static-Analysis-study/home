@@ -1,0 +1,2 @@
+description=Bug 1740480, assignment in single constructor based on constructor argument check
+expected_problems=1

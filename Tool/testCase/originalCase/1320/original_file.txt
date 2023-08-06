@@ -1,0 +1,2 @@
+description=#2454 [java] UnusedPrivateMethod violation for disabled annotation in 6.23.0
+expected_problems=0

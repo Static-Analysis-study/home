@@ -1,0 +1,2 @@
+description=increment in if conditional expression
+expected_problems=1

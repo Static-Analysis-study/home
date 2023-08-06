@@ -1,0 +1,2 @@
+description=2 calls to next() inside the loop == bad!
+expected_problems=1

@@ -1,0 +1,2 @@
+description=same as TEST1, but in SB constructor
+expected_problems=1

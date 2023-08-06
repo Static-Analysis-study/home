@@ -1,0 +1,2 @@
+description=fail, US-ASCII
+expected_problems=1

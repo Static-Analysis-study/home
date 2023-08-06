@@ -1,0 +1,2 @@
+description=NPE when using instance fields with this
+expected_problems=0

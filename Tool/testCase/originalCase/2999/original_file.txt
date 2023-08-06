@@ -1,0 +1,2 @@
+description=Check locals disabled
+expected_problems=4

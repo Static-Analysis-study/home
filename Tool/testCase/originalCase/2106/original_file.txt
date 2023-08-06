@@ -1,0 +1,2 @@
+description=#975 false positive in ClassCastExceptionWithToArray
+expected_problems=0

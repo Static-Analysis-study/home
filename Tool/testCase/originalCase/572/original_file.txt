@@ -1,0 +1,2 @@
+description=one used single type import
+expected_problems=0

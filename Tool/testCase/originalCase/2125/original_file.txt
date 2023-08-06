@@ -1,0 +1,2 @@
+description=CloneNotSupportedException is OK
+expected_problems=0

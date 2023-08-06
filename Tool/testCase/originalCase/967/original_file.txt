@@ -1,0 +1,2 @@
+description=Explicit receiver parameters are ignored
+expected_problems=0

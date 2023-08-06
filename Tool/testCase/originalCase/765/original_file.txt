@@ -1,0 +1,2 @@
+description=returning a local array is ok part deux
+expected_problems=0

@@ -1,0 +1,2 @@
+description=calling valueOf is OK
+expected_problems=0

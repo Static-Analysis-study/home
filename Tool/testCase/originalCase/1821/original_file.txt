@@ -1,0 +1,2 @@
+description=String.trim.length not is called, ok
+expected_problems=0

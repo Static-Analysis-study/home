@@ -1,0 +1,2 @@
+description=Use assert equals: JUnit4
+expected_problems=1

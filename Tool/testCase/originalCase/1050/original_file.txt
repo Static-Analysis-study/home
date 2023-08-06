@@ -1,0 +1,2 @@
+description=Try/catch finally in loop
+expected_problems=0

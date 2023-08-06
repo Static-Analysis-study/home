@@ -1,0 +1,2 @@
+description=setUp mispellings
+expected_problems=2

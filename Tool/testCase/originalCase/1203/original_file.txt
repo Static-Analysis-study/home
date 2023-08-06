@@ -1,0 +1,2 @@
+description=assert true a == b BUT not a Junit test
+expected_problems=0

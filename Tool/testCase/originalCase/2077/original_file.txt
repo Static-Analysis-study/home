@@ -1,0 +1,2 @@
+description=classic failure case
+expected_problems=1

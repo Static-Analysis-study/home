@@ -1,0 +1,2 @@
+description=#1115 commentRequiredRule in pmd 5.1 is not working properly
+expected_problems=2

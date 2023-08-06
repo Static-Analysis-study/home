@@ -1,0 +1,2 @@
+description=a larger mix of guilty calls to getMessage(), getLocalizedMessage(), getCause(), getStackTrace() or toString(), failure
+expected_problems=5

@@ -1,0 +1,2 @@
+description=[java] InvalidLogMessageFormat may examine the value of a different but identically named String variable #3284
+expected_problems=0

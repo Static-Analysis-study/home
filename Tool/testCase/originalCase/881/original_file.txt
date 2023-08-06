@@ -1,0 +1,2 @@
+description=no violation: incremented 'for' loop variable after continue
+expected_problems=0

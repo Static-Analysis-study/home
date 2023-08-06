@@ -1,0 +1,2 @@
+description=#408 Assert statements causing 
+expected_problems=0

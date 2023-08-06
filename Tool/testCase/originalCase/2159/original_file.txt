@@ -1,0 +1,2 @@
+description=toLowerCase() with no args
+expected_problems=1

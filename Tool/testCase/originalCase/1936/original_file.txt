@@ -1,0 +1,2 @@
+description=octal character in longer string
+expected_problems=0

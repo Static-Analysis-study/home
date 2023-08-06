@@ -1,0 +1,2 @@
+description=#1905 [java] DataflowAnomalyAnalysis Rule in right order : Case 14. DU-Anomaly(t1, t2)
+expected_problems=2

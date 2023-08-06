@@ -1,0 +1,2 @@
+description=overloaded hashCode, should fail on equals
+expected_problems=1

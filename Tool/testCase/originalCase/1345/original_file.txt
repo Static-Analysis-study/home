@@ -1,0 +1,2 @@
+description=method, do not varargs, allow public static void main(String[]) as not varargs
+expected_problems=0

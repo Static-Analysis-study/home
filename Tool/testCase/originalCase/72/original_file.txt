@@ -1,0 +1,2 @@
+description=#1903 - Block synch is valid even with allowMethodLevelSynchronization
+expected_problems=0

@@ -1,0 +1,2 @@
+description=DataflowAnomalyAnalysis has false positive for object initialised outside loop. #2131
+expected_problems=0

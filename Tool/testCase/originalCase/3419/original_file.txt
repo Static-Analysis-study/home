@@ -1,0 +1,2 @@
+description=Bad name
+expected_problems=1

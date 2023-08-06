@@ -1,0 +1,2 @@
+description=Should be all OK
+expected_problems=0

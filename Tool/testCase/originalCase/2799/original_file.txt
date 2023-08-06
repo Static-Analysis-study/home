@@ -1,0 +1,2 @@
+description=typecast, ok
+expected_problems=0

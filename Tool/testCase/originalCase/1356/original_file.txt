@@ -1,0 +1,2 @@
+description=UseAssertNullInsteadOfAssertTrue: JUnit 5 - Assertions.assertTrue
+expected_problems=1

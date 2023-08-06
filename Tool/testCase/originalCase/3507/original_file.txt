@@ -1,0 +1,2 @@
+description=Nested Enum constructor with implicit private modifier should not trigger
+expected_problems=0

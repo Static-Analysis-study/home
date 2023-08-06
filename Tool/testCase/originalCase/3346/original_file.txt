@@ -1,0 +1,2 @@
+description=#1804 [java] NPE with fields
+expected_problems=1

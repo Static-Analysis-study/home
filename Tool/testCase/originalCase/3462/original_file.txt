@@ -1,0 +1,2 @@
+description=Unnecessary static on annotation field
+expected_problems=1

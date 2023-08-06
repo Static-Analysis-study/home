@@ -1,0 +1,2 @@
+description=#1291 [java] InvalidSlf4jMessageFormat false positive: too many arguments with string concatenation operator
+expected_problems=0

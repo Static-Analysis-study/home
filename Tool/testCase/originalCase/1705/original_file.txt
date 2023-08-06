@@ -1,0 +1,2 @@
+description=37, Initialization with multiply - bug 1743938
+expected_problems=0

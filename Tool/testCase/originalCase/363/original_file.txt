@@ -1,0 +1,2 @@
+description=Simple Method calls with chaining
+expected_problems=1

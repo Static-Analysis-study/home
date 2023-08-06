@@ -1,0 +1,2 @@
+description=InputStream in a non-serializable class is OK
+expected_problems=0

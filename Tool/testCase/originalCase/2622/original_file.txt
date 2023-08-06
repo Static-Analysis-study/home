@@ -1,0 +1,2 @@
+description=Null is returned from an internal statement, not from the method
+expected_problems=0

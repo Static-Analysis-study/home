@@ -1,0 +1,2 @@
+description=getString().toString(), method overloading false-positive test
+expected_problems=0

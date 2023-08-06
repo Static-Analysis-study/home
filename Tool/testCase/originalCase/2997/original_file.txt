@@ -1,0 +1,2 @@
+description=Check suffixes
+expected_problems=0

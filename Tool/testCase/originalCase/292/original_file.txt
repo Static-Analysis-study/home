@@ -1,0 +1,2 @@
+description=constructor declares RuntimeException
+expected_problems=1

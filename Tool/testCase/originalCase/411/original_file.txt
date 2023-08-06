@@ -1,0 +1,2 @@
+description=lots of coupling in inner class in interfaces
+expected_problems=1

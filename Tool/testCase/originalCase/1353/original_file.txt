@@ -1,0 +1,2 @@
+description=UseAssertNullInsteadOfAssertTrue: Not a JUnit test - assertTrue with null
+expected_problems=0

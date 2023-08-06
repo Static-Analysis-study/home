@@ -1,0 +1,2 @@
+description=returning a new array
+expected_problems=0

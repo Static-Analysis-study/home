@@ -1,0 +1,2 @@
+description=#1175 false positive for StringBuilder.append called 2 consecutive times
+expected_problems=0

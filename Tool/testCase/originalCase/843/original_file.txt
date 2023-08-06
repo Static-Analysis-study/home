@@ -1,0 +1,2 @@
+description=[java] GuardLogStatement: False positive with compile-time constant arguments #957
+expected_problems=0

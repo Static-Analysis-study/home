@@ -1,0 +1,2 @@
+description=ok, new BigDecimal(10)
+expected_problems=0

@@ -1,0 +1,2 @@
+description=method, do not varargs, allow byte[] as not varargs
+expected_problems=0

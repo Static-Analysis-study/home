@@ -1,0 +1,2 @@
+description=Test static field property
+expected_problems=3

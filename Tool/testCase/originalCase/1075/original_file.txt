@@ -1,0 +1,2 @@
+description=SuppressWarnings test (class)
+expected_problems=0

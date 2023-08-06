@@ -1,0 +1,2 @@
+description=[java] AvoidArrayLoops regression: from false negative to false positive with final variables #4183
+expected_problems=3

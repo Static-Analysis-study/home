@@ -1,0 +1,2 @@
+description=bad, protected method in final class that doesn't extend anything
+expected_problems=1

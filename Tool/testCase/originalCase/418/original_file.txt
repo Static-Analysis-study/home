@@ -1,0 +1,2 @@
+description=conditional or and !(instanceof)
+expected_problems=1

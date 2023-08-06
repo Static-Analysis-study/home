@@ -1,0 +1,2 @@
+description=typecast with extra, bad
+expected_problems=1

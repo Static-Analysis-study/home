@@ -1,0 +1,2 @@
+description=Use assert equals: JUnit5 - @Test
+expected_problems=1

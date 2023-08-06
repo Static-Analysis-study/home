@@ -1,0 +1,2 @@
+description=ignore abstract methods
+expected_problems=0

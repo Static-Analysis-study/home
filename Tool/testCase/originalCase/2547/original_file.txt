@@ -1,0 +1,2 @@
+description=allow null literal
+expected_problems=0

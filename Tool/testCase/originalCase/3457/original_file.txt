@@ -1,0 +1,2 @@
+description=#1275 False positive: UnusedModifier rule for static inner class in enum
+expected_problems=0

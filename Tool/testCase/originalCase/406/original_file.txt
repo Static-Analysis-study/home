@@ -1,0 +1,2 @@
+description=catching another type, ok
+expected_problems=0

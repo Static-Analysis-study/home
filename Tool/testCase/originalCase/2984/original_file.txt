@@ -1,0 +1,2 @@
+description=constructor level, non-finals shouldn't have underscores
+expected_problems=2

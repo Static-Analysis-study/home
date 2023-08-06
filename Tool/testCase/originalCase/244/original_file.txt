@@ -1,0 +1,2 @@
+description=clone method with arguments should not be ignored
+expected_problems=1

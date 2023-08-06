@@ -1,0 +1,2 @@
+description=two cases in an && expression
+expected_problems=2

@@ -1,0 +1,2 @@
+description=[java] False positive "UselessParentheses" for parentheses that contain assignment #1285
+expected_problems=0

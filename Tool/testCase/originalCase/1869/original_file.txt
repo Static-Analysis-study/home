@@ -1,0 +1,2 @@
+description=concatenating two literals in SB constructor
+expected_problems=0

@@ -1,0 +1,2 @@
+description=A couple of bad and good cases
+expected_problems=34

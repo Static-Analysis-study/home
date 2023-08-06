@@ -1,0 +1,2 @@
+description=[java] ImmutableField: Do not flag fields in @Entity #3823
+expected_problems=0

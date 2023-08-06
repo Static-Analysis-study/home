@@ -1,0 +1,2 @@
+description=Format called from non-synchronized block
+expected_problems=1

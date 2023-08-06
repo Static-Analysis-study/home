@@ -1,0 +1,2 @@
+description=return value is returned
+expected_problems=0

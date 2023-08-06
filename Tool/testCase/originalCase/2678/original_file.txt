@@ -1,0 +1,2 @@
+description=Log4j2 false positive: too many arguments with string concatenation operator
+expected_problems=0

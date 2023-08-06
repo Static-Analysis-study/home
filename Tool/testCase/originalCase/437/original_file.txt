@@ -1,0 +1,2 @@
+description=Assignment in method is in try block
+expected_problems=0

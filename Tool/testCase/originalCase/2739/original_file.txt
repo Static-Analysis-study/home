@@ -1,0 +1,2 @@
+description=Arrays can't be compared directly but with Arrays.equals().
+expected_problems=0

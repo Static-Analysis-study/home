@@ -1,0 +1,2 @@
+description=Ignore manual serialization with replacement object
+expected_problems=0

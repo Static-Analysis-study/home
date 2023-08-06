@@ -1,0 +1,2 @@
+description=ignore slf4j-Markers when detecting the number of arguments #2250
+expected_problems=1

@@ -1,0 +1,2 @@
+description=#2934 this and class should be ignored
+expected_problems=1

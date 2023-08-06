@@ -1,0 +1,2 @@
+description=[OK] initializing with a method invocation
+expected_problems=0

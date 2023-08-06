@@ -1,0 +1,2 @@
+description=ToString on String Array Object
+expected_problems=0

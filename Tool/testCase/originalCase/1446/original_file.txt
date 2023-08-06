@@ -1,0 +1,2 @@
+description=constants in interface, with methods, ignoreIfHasMethods is false
+expected_problems=1

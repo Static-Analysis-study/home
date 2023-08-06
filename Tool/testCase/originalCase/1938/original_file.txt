@@ -1,0 +1,2 @@
+description=#1211 PMD is failing with NPE for rule UseIndexOfChar while analyzing Jdk 8 Lambda expression
+expected_problems=0

@@ -1,0 +1,2 @@
+description=#1256 PositionLiteralsFirstInComparisons false positive with Characters
+expected_problems=0

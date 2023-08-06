@@ -1,0 +1,2 @@
+description=Check fields that are interfaces or abstract classes
+expected_problems=4

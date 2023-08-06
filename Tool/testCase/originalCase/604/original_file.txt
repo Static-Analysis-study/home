@@ -1,0 +1,2 @@
+description=#2016 [java] UnusedImports: False positive if wildcard is used and only static methods
+expected_problems=0

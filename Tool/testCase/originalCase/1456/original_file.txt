@@ -1,0 +1,2 @@
+description=private referenced by anonymous inner class
+expected_problems=0

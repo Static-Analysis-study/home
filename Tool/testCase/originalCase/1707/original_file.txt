@@ -1,0 +1,2 @@
+description=3175710: NPE in InsufficientStringBufferDeclaration
+expected_problems=0

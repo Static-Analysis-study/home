@@ -1,0 +1,2 @@
+description=ok, testing .equalsIgnoreCase false positive
+expected_problems=0

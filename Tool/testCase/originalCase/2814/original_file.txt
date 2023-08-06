@@ -1,0 +1,2 @@
+description=#199 UselessParentheses false positive on multiple logical or operators
+expected_problems=0

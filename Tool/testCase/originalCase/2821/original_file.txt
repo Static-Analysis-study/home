@@ -1,0 +1,2 @@
+description=From controversial/UnnecessaryParentheses: bad, returning variable in parens
+expected_problems=1

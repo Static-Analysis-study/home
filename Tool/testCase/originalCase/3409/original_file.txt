@@ -1,0 +1,2 @@
+description=inner and outer, both ok
+expected_problems=0

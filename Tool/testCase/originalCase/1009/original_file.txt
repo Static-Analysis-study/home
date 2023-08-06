@@ -1,0 +1,2 @@
+description=While loop 2
+expected_problems=2

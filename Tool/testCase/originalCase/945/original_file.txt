@@ -1,0 +1,2 @@
+description=Test class named TestCase with test method not annotated
+expected_problems=1

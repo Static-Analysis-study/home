@@ -1,0 +1,2 @@
+description=false positives with field assignment and shadowing parameters
+expected_problems=0

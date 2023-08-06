@@ -1,0 +1,2 @@
+description=38, Uses setLength 0 with subsequently more than 16, but less than initial
+expected_problems=0

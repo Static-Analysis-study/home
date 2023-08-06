@@ -1,0 +1,2 @@
+description=#232 False positive with ternary operator using nullables
+expected_problems=0

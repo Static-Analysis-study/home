@@ -1,0 +1,2 @@
+description=Key stored in a property, good
+expected_problems=0

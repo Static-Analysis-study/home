@@ -1,0 +1,2 @@
+description=ok with Boolean.TRUE constant
+expected_problems=0

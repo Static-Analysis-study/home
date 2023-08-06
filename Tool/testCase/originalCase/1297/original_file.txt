@@ -1,0 +1,2 @@
+description=#1251 UnusedPrivateMethod false positives for boxing & unboxing arguments
+expected_problems=0

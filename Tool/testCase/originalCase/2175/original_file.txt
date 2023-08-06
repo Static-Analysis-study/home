@@ -1,0 +1,2 @@
+description=#1350 [java] MissingSerialVersionUID false-positive on interfaces
+expected_problems=0

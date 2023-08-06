@@ -1,0 +1,2 @@
+description=must be in a catch block
+expected_problems=0

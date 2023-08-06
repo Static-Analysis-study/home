@@ -1,0 +1,2 @@
+description=Pos, empty decl in toplevel
+expected_problems=2

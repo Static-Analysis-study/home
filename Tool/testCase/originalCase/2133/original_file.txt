@@ -1,0 +1,2 @@
+description=NPE when using Pattern matching variables #3169
+expected_problems=0

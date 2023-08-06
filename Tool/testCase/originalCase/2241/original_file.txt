@@ -1,0 +1,2 @@
+description=#1832 fine with a least one constructor annotated with "Autowired
+expected_problems=0

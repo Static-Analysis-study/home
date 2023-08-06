@@ -1,0 +1,2 @@
+description=#1446 False positive with JUnit4TestShouldUseBeforeAnnotation when TestNG is used
+expected_problems=0

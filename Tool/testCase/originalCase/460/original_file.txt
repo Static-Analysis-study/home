@@ -1,0 +1,2 @@
+description=[java] ImmutableField: Do not flag fields annotated with @Inject #4011
+expected_problems=0

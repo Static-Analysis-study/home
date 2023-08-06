@@ -1,0 +1,2 @@
+description=Compound with parentheses an mixed operators
+expected_problems=9

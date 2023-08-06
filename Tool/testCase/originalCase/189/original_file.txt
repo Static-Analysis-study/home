@@ -1,0 +1,2 @@
+description=failure, second method re-uses class level name
+expected_problems=1

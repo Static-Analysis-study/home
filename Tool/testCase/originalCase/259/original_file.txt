@@ -1,0 +1,2 @@
+description=ok, uses non-static
+expected_problems=0

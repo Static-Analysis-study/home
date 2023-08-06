@@ -1,0 +1,2 @@
+description=[java] StringToString false-positive with local method name confusion #3977
+expected_problems=0

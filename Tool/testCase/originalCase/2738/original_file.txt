@@ -1,0 +1,2 @@
+description=shouldn't this fail? Yes, it should. Fixed it, so that method calls to equals on variables are considered, too.
+expected_problems=1

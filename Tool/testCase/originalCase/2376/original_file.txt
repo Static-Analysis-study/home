@@ -1,0 +1,2 @@
+description=false negative with fields in interfaces and nested classes
+expected_problems=2

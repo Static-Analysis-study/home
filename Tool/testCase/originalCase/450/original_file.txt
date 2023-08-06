@@ -1,0 +1,2 @@
+description=#855 [java] ImmutableField: False positive within lambda (expression style)
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Returns new String(str)
+expected_problems=1

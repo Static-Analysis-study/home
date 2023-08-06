@@ -1,0 +1,2 @@
+description=label inside switch
+expected_problems=1

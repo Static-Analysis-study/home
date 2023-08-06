@@ -1,0 +1,2 @@
+description=#3468 UnusedPrivateMethod false positive when outer class calls private static method on inner class
+expected_problems=0

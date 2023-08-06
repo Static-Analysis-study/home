@@ -1,0 +1,2 @@
+description=method names should not contain underscores
+expected_problems=1

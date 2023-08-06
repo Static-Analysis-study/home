@@ -1,0 +1,2 @@
+description=[java] ImmutableField - false negative when field assigned in constructor conditionally #3850
+expected_problems=1

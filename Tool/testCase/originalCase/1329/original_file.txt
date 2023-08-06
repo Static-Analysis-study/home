@@ -1,0 +1,2 @@
+description=non private fields are ok
+expected_problems=0

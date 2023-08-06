@@ -1,0 +1,2 @@
+description=Ignore multi-dim array assignment #1167
+expected_problems=0

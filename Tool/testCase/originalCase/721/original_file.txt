@@ -1,0 +1,2 @@
+description=assignment to an internal array
+expected_problems=1

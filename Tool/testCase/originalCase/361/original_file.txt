@@ -1,0 +1,2 @@
+description=Mixed local and foreign method calls
+expected_problems=1

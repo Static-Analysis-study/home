@@ -1,0 +1,2 @@
+description=pos, empty while
+expected_problems=1

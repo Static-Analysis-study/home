@@ -1,0 +1,2 @@
+description=Don't check fields in nested classes
+expected_problems=0

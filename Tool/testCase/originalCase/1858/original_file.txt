@@ -1,0 +1,2 @@
+description=[java] UseStringBufferForStringAppends: False positive if only one concatenation #1736
+expected_problems=0

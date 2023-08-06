@@ -1,0 +1,2 @@
+description=UseAssertSameInsteadOfAssertTrue: bug 1626715, the null check in the rule shouldn't match the null outside the assert method
+expected_problems=1

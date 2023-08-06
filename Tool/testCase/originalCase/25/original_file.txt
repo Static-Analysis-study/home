@@ -1,0 +1,2 @@
+description=ThreadGroup() but not java.lang.ThreadGroup
+expected_problems=0

@@ -1,0 +1,2 @@
+description=class Fo$o
+expected_problems=1

@@ -1,0 +1,2 @@
+description=[java] UnnecessaryImport false positive for on-demand imports #2655
+expected_problems=0

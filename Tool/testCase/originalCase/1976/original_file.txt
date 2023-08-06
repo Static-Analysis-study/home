@@ -1,0 +1,2 @@
+description=startsWith defined on some other class, doesn't take a String
+expected_problems=0

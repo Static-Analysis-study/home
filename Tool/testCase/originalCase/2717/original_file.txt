@@ -1,0 +1,2 @@
+description=correct way
+expected_problems=0

@@ -1,0 +1,2 @@
+description=4, Inside synchronized, OK
+expected_problems=0

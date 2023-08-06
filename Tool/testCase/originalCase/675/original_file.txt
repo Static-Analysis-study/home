@@ -1,0 +1,2 @@
+description=Assert calls should be considered in the whole file that contains at least one test case
+expected_problems=1

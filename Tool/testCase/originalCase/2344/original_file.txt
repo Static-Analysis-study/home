@@ -1,0 +1,2 @@
+description=object.method().equals(null), bad
+expected_problems=1

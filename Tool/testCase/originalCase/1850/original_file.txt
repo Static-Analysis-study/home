@@ -1,0 +1,2 @@
+description=no violation: concat in append in loops is caught by other rule InefficientStringBuffering
+expected_problems=0

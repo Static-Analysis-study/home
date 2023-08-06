@@ -1,0 +1,2 @@
+description=returning a set
+expected_problems=0

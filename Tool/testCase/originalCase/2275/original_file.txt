@@ -1,0 +1,2 @@
+description=comparison is not assignment
+expected_problems=0

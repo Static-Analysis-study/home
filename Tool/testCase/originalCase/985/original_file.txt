@@ -1,0 +1,2 @@
+description=#1456 UnusedFormalParameter should ignore overriding methods
+expected_problems=0

@@ -1,0 +1,2 @@
+description=TestNG Test contains more than one assert
+expected_problems=1

@@ -1,0 +1,2 @@
+description=interface
+expected_problems=0

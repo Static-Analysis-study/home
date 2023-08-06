@@ -1,0 +1,2 @@
+description=21, on-demand, invalid static import method call
+expected_problems=1

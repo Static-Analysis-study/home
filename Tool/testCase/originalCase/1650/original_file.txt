@@ -1,0 +1,2 @@
+description=#1325 [java] False positive in ConsecutiveLiteralAppends
+expected_problems=0

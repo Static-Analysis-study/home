@@ -1,0 +1,2 @@
+description=violation: various reassignments of 'for' loop variable
+expected_problems=9

@@ -1,0 +1,2 @@
+description=Good suffix
+expected_problems=0

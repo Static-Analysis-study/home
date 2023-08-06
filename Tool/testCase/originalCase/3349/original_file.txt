@@ -1,0 +1,2 @@
+description=FN with anonymous classes #3275
+expected_problems=1

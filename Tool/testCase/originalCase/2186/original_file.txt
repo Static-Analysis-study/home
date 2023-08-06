@@ -1,0 +1,2 @@
+description=compound assignments are OK
+expected_problems=0

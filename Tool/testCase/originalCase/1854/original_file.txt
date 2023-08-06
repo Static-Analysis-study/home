@@ -1,0 +1,2 @@
+description=violation: concat to String in do-loop
+expected_problems=1

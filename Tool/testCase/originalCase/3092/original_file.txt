@@ -1,0 +1,2 @@
+description=Identical statements, with different exception names
+expected_problems=1

@@ -1,0 +1,2 @@
+description=assertEquals with string variable as message ok
+expected_problems=0

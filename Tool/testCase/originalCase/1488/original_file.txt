@@ -1,0 +1,2 @@
+description=#907 UnusedPrivateField false-positive with @FXML - 1
+expected_problems=0

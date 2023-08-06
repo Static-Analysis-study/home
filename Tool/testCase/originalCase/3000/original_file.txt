@@ -1,0 +1,2 @@
+description=Check parameters disabled
+expected_problems=3

@@ -1,0 +1,2 @@
+description=Use of volatile keyword see #884 False +: DoubleCheckedLocking warning with volatile field
+expected_problems=0

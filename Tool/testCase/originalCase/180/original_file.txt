@@ -1,0 +1,2 @@
+description=inner class
+expected_problems=0

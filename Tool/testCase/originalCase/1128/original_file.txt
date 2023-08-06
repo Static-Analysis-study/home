@@ -1,0 +1,2 @@
+description=Assignment to an ignorable prefix increment
+expected_problems=2

@@ -1,0 +1,2 @@
+description=Test getter or setter comments are ignored by default
+expected_problems=0

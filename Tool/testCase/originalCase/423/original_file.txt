@@ -1,0 +1,2 @@
+description=#1165 SimplifyConditional false positive
+expected_problems=0

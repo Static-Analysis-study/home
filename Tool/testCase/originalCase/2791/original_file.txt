@@ -1,0 +1,2 @@
+description=Exclude serialPersistentFields by default
+expected_problems=0

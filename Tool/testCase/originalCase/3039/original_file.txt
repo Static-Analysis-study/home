@@ -1,0 +1,2 @@
+description=#1244 FieldDeclarationsShouldBeAtStartOfClass and anonymous classes, ok
+expected_problems=0

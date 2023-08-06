@@ -1,0 +1,2 @@
+description=fail, > 0
+expected_problems=1

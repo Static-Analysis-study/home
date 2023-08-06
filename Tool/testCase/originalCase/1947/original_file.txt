@@ -1,0 +1,2 @@
+description=Fail, BigDecimal(10)
+expected_problems=1

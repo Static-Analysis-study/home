@@ -1,0 +1,2 @@
+description=two unused private fields in separate inner classes
+expected_problems=2

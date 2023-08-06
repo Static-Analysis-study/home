@@ -1,0 +1,2 @@
+description=ok, package private static field
+expected_problems=0

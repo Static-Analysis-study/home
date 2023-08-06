@@ -1,0 +1,2 @@
+description=AssertEquals with call chain and not operator
+expected_problems=2

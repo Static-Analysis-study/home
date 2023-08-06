@@ -1,0 +1,2 @@
+description=concatenates a single number
+expected_problems=1

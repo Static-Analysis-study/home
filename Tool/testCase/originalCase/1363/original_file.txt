@@ -1,0 +1,2 @@
+description=UseAssertSameInsteadOfAssertTrue: JUnit 4 - assert true a == b
+expected_problems=1

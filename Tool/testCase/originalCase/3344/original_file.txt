@@ -1,0 +1,2 @@
+description=#310 UnnecessaryLocalBeforeReturn statement order does not matter
+expected_problems=1

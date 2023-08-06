@@ -1,0 +1,2 @@
+description=Public modifier is allowed on test interfaces
+expected_problems=0

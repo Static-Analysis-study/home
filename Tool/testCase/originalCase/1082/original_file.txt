@@ -1,0 +1,2 @@
+description=Pre-increment behavior 2
+expected_problems=1

@@ -1,0 +1,2 @@
+description=no literals
+expected_problems=0

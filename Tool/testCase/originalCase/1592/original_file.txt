@@ -1,0 +1,2 @@
+description=5, Consecutive literal appends without reuse, not ok
+expected_problems=2

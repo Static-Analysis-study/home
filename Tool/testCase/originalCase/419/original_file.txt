@@ -1,0 +1,2 @@
+description=indexing into array is ok
+expected_problems=0

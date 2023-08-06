@@ -1,0 +1,2 @@
+description=#1246 False positive from MissingBreakInSwitch
+expected_problems=0

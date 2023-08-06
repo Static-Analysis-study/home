@@ -1,0 +1,2 @@
+description=#1211 [java] CommentDefaultAccessModifier false positive with nested interface
+expected_problems=0

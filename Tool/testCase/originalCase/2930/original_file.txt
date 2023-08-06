@@ -1,0 +1,2 @@
+description=ok, Numeric Literal in octal
+expected_problems=0

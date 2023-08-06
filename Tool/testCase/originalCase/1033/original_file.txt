@@ -1,0 +1,2 @@
+description=Assignment in operand 2
+expected_problems=1

@@ -1,0 +1,2 @@
+description=[java] AvoidArrayLoops should consider final variables #3847
+expected_problems=3

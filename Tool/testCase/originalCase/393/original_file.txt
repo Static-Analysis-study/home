@@ -1,0 +1,2 @@
+description=lots of static finals, those are ok
+expected_problems=0

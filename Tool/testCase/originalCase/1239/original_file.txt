@@ -1,0 +1,2 @@
+description=new Character(), bad
+expected_problems=1

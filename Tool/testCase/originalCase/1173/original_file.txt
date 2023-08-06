@@ -1,0 +1,2 @@
+description=[java] MissingOverride: False negative for enum method #3542
+expected_problems=3

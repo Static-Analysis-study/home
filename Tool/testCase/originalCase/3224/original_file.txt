@@ -1,0 +1,2 @@
+description=NPE with static import on interface
+expected_problems=1

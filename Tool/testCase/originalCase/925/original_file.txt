@@ -1,0 +1,2 @@
+description=21, Java 7's multi-catch, NOK
+expected_problems=1

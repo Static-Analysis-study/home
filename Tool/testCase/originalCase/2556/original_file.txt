@@ -1,0 +1,2 @@
+description=final class, rule does not apply
+expected_problems=0

@@ -1,0 +1,2 @@
+description=assertEquals ok
+expected_problems=0

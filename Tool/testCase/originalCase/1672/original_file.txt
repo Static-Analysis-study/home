@@ -1,0 +1,2 @@
+description=4, StringBuffer allocated from variable
+expected_problems=0

@@ -1,0 +1,2 @@
+description=calling method on literal bug
+expected_problems=0

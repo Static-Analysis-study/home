@@ -1,0 +1,2 @@
+description=String[] should not be treated as String
+expected_problems=0

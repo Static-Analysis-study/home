@@ -1,0 +1,2 @@
+description=Static on-demand import is used
+expected_problems=0

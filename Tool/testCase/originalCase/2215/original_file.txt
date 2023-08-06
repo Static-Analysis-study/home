@@ -1,0 +1,2 @@
+description=Record creates an IndexOutOfBounds exception
+expected_problems=0

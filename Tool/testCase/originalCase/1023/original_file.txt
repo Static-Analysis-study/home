@@ -1,0 +1,2 @@
+description=Switch statement 1
+expected_problems=0

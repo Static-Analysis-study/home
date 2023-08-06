@@ -1,0 +1,2 @@
+description=private field referenced in nonstatic inner class
+expected_problems=0

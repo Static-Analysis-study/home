@@ -1,0 +1,2 @@
+description=bug 1626232, should work with a static block
+expected_problems=1

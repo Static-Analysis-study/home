@@ -1,0 +1,2 @@
+description=inner should be utility class since all static, public constructor
+expected_problems=1

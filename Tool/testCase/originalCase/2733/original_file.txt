@@ -1,0 +1,2 @@
+description=different var, 'tis ok
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Array assignment whitelists the loop
+expected_problems=0

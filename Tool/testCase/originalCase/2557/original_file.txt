@@ -1,0 +1,2 @@
+description=testing with multiple methods
+expected_problems=1

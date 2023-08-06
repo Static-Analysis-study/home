@@ -1,0 +1,2 @@
+description=ByteArrayInputStream does not need closing
+expected_problems=0

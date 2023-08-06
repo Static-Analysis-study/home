@@ -1,0 +1,2 @@
+description=while call false
+expected_problems=0

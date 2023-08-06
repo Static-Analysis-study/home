@@ -1,0 +1,2 @@
+description=copy involving multiple arrays is ok
+expected_problems=0

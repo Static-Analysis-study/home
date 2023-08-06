@@ -1,0 +1,2 @@
+description=#998 False positive ClassCastExceptionWithToArray with generics
+expected_problems=1

@@ -1,0 +1,2 @@
+description=41, Call to external method with addition, not string appending
+expected_problems=0

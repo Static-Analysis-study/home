@@ -1,0 +1,2 @@
+description=false positive with not accumulating String
+expected_problems=0

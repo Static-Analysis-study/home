@@ -1,0 +1,2 @@
+description=False negative case #3686
+expected_problems=2

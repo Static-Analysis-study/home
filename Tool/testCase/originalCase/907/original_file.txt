@@ -1,0 +1,2 @@
+description=3, Exception thrown, stack preserved
+expected_problems=0

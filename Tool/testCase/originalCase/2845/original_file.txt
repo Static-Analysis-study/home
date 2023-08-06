@@ -1,0 +1,2 @@
+description=Bad suffix
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Verify #1519 [java] UselessParenthesis: False Positive: "Prohibits the use of useless parentheses" when more than one line
+expected_problems=2

@@ -1,0 +1,2 @@
+description=Unnecessary final of anonymous class method
+expected_problems=1

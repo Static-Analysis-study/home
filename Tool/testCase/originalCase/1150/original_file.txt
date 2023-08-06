@@ -1,0 +1,2 @@
+description=Override present in method from interface transitively
+expected_problems=0

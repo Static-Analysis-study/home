@@ -1,0 +1,2 @@
+description=Array dimensioner uses variable, performance issue
+expected_problems=1

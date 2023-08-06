@@ -1,0 +1,2 @@
+description=Bug 1698550, nr 1
+expected_problems=0

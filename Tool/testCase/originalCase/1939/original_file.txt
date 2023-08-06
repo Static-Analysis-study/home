@@ -1,0 +1,2 @@
+description=NPE with var used in try-with-resources
+expected_problems=0

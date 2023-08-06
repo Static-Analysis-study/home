@@ -1,0 +1,2 @@
+description=#1154 Call super onPause when there is no super
+expected_problems=0

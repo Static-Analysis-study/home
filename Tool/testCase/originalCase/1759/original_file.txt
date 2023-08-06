@@ -1,0 +1,2 @@
+description=Even two branches is not enough for a switch statement
+expected_problems=1

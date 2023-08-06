@@ -1,0 +1,2 @@
+description=bad, testing acceptableDecimalLength
+expected_problems=1

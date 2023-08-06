@@ -1,0 +1,2 @@
+description=Not a test class (despite its name) #2867
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Unneeded 'static' in interface field
+expected_problems=1

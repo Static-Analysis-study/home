@@ -1,0 +1,2 @@
+description=#885 CompareObjectsWithEquals fails with Enum class
+expected_problems=0

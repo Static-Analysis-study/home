@@ -1,0 +1,2 @@
+description=A method with just a return statement, but a meaningful one.
+expected_problems=0

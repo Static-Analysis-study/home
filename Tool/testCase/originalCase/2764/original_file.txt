@@ -1,0 +1,2 @@
+description=Check type resolution of logger
+expected_problems=0

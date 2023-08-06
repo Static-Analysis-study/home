@@ -1,0 +1,2 @@
+description=#1255 UseUtilityClass false positive with Exceptions
+expected_problems=0

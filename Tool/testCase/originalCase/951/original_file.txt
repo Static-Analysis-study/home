@@ -1,0 +1,2 @@
+description=custom count: valid case
+expected_problems=0

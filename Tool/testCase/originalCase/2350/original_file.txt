@@ -1,0 +1,2 @@
+description=relational operators with Float.NaN
+expected_problems=8

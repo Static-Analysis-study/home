@@ -1,0 +1,2 @@
+description=bug #1002 False +: FinalFieldCouldBeStatic on inner class
+expected_problems=0

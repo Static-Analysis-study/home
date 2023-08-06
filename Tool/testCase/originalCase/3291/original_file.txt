@@ -1,0 +1,2 @@
+description=False positive when type name is obscured by variable
+expected_problems=0

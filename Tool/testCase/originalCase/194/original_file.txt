@@ -1,0 +1,2 @@
+description=Ok, used in outer class
+expected_problems=0

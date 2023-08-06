@@ -1,0 +1,2 @@
+description=Consecutive append of literals other than string: integer
+expected_problems=1

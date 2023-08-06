@@ -1,0 +1,2 @@
+description=From controversial/UnnecessaryParentheses: #537 Trivial case with additive expression modified
+expected_problems=0

@@ -1,0 +1,2 @@
+description=Foreach unused
+expected_problems=2

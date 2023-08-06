@@ -1,0 +1,2 @@
+description=constants in interface, no methods
+expected_problems=4

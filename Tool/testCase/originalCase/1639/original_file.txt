@@ -1,0 +1,2 @@
+description=42, Using variable string array
+expected_problems=0

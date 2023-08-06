@@ -1,0 +1,2 @@
+description=#2431 IndexOutOfBoundsException when only logging exception message
+expected_problems=0

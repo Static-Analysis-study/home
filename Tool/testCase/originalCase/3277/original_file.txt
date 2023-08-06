@@ -1,0 +1,2 @@
+description=#1546 part 2 UnnecessaryFullyQualifiedName doesn't take into consideration conflict resolution
+expected_problems=0

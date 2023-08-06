@@ -1,0 +1,2 @@
+description=Bad MessageDrivenBean name
+expected_problems=1

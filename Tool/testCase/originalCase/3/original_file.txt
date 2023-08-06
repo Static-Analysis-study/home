@@ -1,0 +1,2 @@
+description=3, Instance synchronized, Not OK - see #1815
+expected_problems=1

@@ -1,0 +1,2 @@
+description=Static methods can't be overridden
+expected_problems=0

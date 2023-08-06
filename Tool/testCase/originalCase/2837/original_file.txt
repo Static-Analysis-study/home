@@ -1,0 +1,2 @@
+description=Verify another case for Bug #1047 False Positive in 'for' loops for LocalVariableCouldBeFinal in 5.0.1
+expected_problems=0
